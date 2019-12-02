@@ -33,6 +33,9 @@ Base = automap_base()
 Base.prepare(db.engine, reflect=True)
 
 indeed_jobs = Base.classes.indeed_jobs
+glassdoor_jobs =Base.classes.glassdoor_jobs
+region = Base.classes.region
+indeed_jobs_byregion = Base.classes.indeed_jobs_byregion
 
 
 @app.route("/")
@@ -47,8 +50,6 @@ def states():
     # Use Pandas to perform the sql query
     stmt = db.session.query(indeed_jobs).statement
     indeed_df = pd.read_sql_query(stmt, db.session.bind)
-
-
 
     # Return a list of the column names (sample names)
     states = indeed_df["state"].dropna().unique()
@@ -68,6 +69,31 @@ def get_state(state):
 
     return indeed_df.to_json(orient = 'records')
 
+@app.route("/regions")
+def regions():
+    """Return a list of sample names."""
+
+    # Use Pandas to perform the sql query
+    stmt = db.session.query(indeed_jobs_byregion).statement
+    indeed_byregion_df = pd.read_sql_query(stmt, db.session.bind)
+
+    # Return a list of the column names (sample names)
+    regions = indeed_byregion_df["region"].dropna().unique()
+    regions = list(regions)
+
+    return jsonify(regions)
+
+@app.route("/data/<region>")
+def get_region(region):
+    """Return the MetaData for a given sample."""
+    stmt = db.session.query(indeed_jobs_byregion).statement
+    indeed_byregion_df = pd.read_sql_query(stmt, db.session.bind)
+
+    indeed_byregion_df['region']=indeed_byregion_df['region'].str.strip()
+    indeed_byregion_df = indeed_byregion_df[indeed_byregion_df["region"] == region]
+    
+    #return indeed_byregion_df.to_json()
+    return jsonify(indeed_byregion_df.to_list())
 
 if __name__ == "__main__":
     app.run()
