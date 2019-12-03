@@ -1,0 +1,2600 @@
+company,position,reviews,Region,City,State
+Study.com,data analyst,5,West,Mountain View, CA
+TripActions,data analyst,5,West,Palo Alto, CA
+Twitch,data analyst,5,West,San Francisco, CA
+CVPartners,data analyst,0,West,Redwood City, CA
+Castlight Health,data analyst,5,West,San Francisco, CA
+Care.com,data analyst,0,West,San Francisco, CA
+MobilityWare,data analyst,5,West,Irvine, CA
+NELSON,data analyst,0,West,San Jose, CA
+Tecolote Research,data analyst,5,West,El Segundo, CA
+Boingo,data analyst,3,West,Los Angeles, CA
+Formation,senior data analyst,5,West,San Francisco, CA
+OSI Engineering,data analyst,0,West,Newark, CA
+Firewood Marketing,senior data analyst,5,West,Mountain View, CA
+Creator,senior data analyst,5,West,San Francisco, CA
+Boingo,data analyst,3,West,Los Angeles, CA
+BOLD,data analyst,5,West,San Francisco, CA
+Formation,senior data analyst,5,West,San Francisco, CA
+Experian,data analyst,0,West,El Cajon, CA
+"Software Resources, Inc.",data analyst,0,West,Glendale, CA
+OSI Engineering,data analyst,0,West,Newark, CA
+Firewood Marketing,senior data analyst,5,West,Mountain View, CA
+Creator,senior data analyst,5,West,San Francisco, CA
+Stratford School,business data analyst,2,West,Saratoga, CA
+Presbyterian Healthcare Services,data analyst,0,West,Los Angeles, CA
+Pharmavite,data analyst,5,West,Valencia, CA
+Care.com,senior data analyst,0,West,San Francisco, CA
+CMG Financial,data analyst,5,West,San Ramon, CA
+"The Matian Firm, APC",data analyst,5,West,Los Angeles, CA
+realtor.com,senior data analyst,6,West,Santa Clara, CA
+iX.co,senior data analyst,0,West,Los Angeles, CA
+Firewood Marketing,senior data analyst,5,West,Mountain View, CA
+Creator,senior data analyst,5,West,San Francisco, CA
+Trusaic,data analyst,5,West,Los Angeles, CA
+Stratford School,business data analyst,2,West,Saratoga, CA
+Astreya,data analyst,3,West,Sunnyvale, CA
+Stamps.com,data analyst,5,West,El Segundo, CA
+UC San Francisco,data analyst,3,West,San Francisco, CA
+Presbyterian Healthcare Services,data analyst,0,West,Los Angeles, CA
+Centrillion,data analyst,5,West,Palo Alto, CA
+Turo,senior data analyst,6,West,San Francisco, CA
+Pharmavite,data analyst,5,West,Valencia, CA
+Syapse,senior data analyst,6,West,San Francisco, CA
+Care.com,senior data analyst,0,West,San Francisco, CA
+CMG Financial,data analyst,5,West,San Ramon, CA
+Innocean,senior data analyst,0,West,Irvine, CA
+"The Matian Firm, APC",data analyst,5,West,Los Angeles, CA
+realtor.com,senior data analyst,6,West,Santa Clara, CA
+L.A. Care Health Plan,data analyst,4,West,Los Angeles, CA
+iX.co,senior data analyst,0,West,Los Angeles, CA
+Kforce,business data analyst,2,West,Mountain View, CA
+Coinbase,data scientist,5,West,San Francisco, CA
+Briq,principal data scientist,4,West,Santa Barbara, CA
+Airtable,data scientist,1,West,San Francisco, CA
+Science 37,data scientist,1,West,San Francisco, CA
+L.A. Care Health Plan,data scientist,5,West,Los Angeles, CA
+Specialized Bicycle,data scientist,5,West,Morgan Hill, CA
+Formation,data scientist,5,West,San Francisco, CA
+Marin Software,data scientist,5,West,San Francisco, CA
+Mojio,data scientist,1,West,Campbell, CA
+BlackBerry,senior data scientist,2,West,Irvine, CA
+Perfect World Entertainment,data scientist,5,West,Redwood City, CA
+Chan Zuckerberg Initiative,data scientist,5,West,Redwood City, CA
+Proofpoint,data scientist,5,West,Sunnyvale, CA
+DOCOMO Innovations,data scientist,3,West,Palo Alto, CA
+Marlette Funding,data scientist,0,West,Newark, CA
+"Fullpower Technologies, Inc.",data scientist,5,West,Santa Cruz, CA
+Shape Security,data scientist,2,West,Santa Clara, CA
+Shutterfly,data scientist,5,West,Redwood City, CA
+Adavance2,data scientist,0,West,Los Angeles, CA
+Pactera,data scientist,1,West,San Jose, CA
+Stripe,data scientist,4,West,San Francisco, CA
+Juvo,data scientist,5,West,San Francisco, CA
+Airtable,data scientist,1,West,San Francisco, CA
+Formation,data scientist,5,West,San Francisco, CA
+Esri,senior data scientist,5,West,Redlands, CA
+Reddit,staff data scientist,5,West,San Francisco, CA
+Intuit,senior data scientist,5,West,Mountain View, CA
+Stanza,data scientist,3,West,San Francisco, CA
+Eversight,data scientist,3,West,Palo Alto, CA
+Entefy,senior data scientist,5,West,Palo Alto, CA
+"Mercedes-Benz Research & Development North America, Inc.",data scientist,5,West,Sunnyvale, CA
+Wish,data scientist,5,West,San Francisco, CA
+Tinder,data scientist,5,West,West Hollywood, CA
+Coffee Meets Bagel,senior data scientist,5,West,San Francisco, CA
+ASML,data scientist,5,West,San Diego, CA
+Genomic Health,data scientist,5,West,Redwood City, CA
+Kforce,data scientist,0,West,Walnut Creek, CA
+Agari,data scientist,5,West,Foster City, CA
+Bill.com,data scientist,5,West,Palo Alto, CA
+Niantic,data scientist,0,West,Culver City, CA
+Driscoll's,senior data scientist,5,West,Watsonville, CA
+Nurx,data scientist,5,West,San Francisco, CA
+Age of Learning,data scientist,5,West,Glendale, CA
+Science 37,data scientist,1,West,San Francisco, CA
+L.A. Care Health Plan,data scientist,5,West,Los Angeles, CA
+Envision LLC,data scientist,1,West,San Francisco, CA
+Alignment Healthcare,data scientist,5,West,Orange, CA
+Intuit,senior data scientist,5,West,Mountain View, CA
+NerdWallet,senior staff data scientist,5,West,San Francisco, CA
+Arm,data scientist,4,West,San Jose, CA
+CircleUp,senior data scientist,4,West,San Francisco, CA
+Acorns,data scientist,5,West,Irvine, CA
+Pfizer,data scientist,5,West,La Jolla, CA
+TrueAccord,data scientist,5,West,San Francisco, CA
+My Job Tank,senior data scientist,4,West,San Francisco, CA
+Seen by Indeed,data scientist,0,West,San Francisco, CA
+Ancestry,data scientist,5,West,San Francisco, CA
+Intuit,staff data scientist,5,West,Mountain View, CA
+Trace3,senior data scientist,5,West,Irvine, CA
+Strivr,senior data scientist,5,West,Menlo Park, CA
+Gilead Sciences,data scientist,5,West,Foster City, CA
+Gigster,senior data scientist,5,West,San Francisco, CA
+Just Auto Insurance,senior data scientist,0,West,Los Angeles, CA
+Pacific Gas And Electric Company,data scientist,5,West,San Francisco, CA
+Intercom,senior data scientist,5,West,San Francisco, CA
+Specialized Bicycle,data scientist,5,West,Morgan Hill, CA
+BlackBerry,senior data scientist,2,West,Irvine, CA
+The RealReal,lead data scientist,5,West,San Francisco, CA
+eBay,data scientist,3,West,San Jose, CA
+Los Angeles Times,data scientist,3,West,El Segundo, CA
+Proofpoint,staff data scientist,5,West,Sunnyvale, CA
+Zumper,senior data scientist,5,West,San Francisco, CA
+Earnest,senior data scientist,5,West,San Francisco, CA
+Kraken Digital Asset Exchange,data scientist,5,West,San Francisco, CA
+Migo,data scientist,0,West,San Francisco, CA
+Branch,senior data scientist,5,West,Redwood City, CA
+Goodwater Capital,data scientist,0,West,Burlingame, CA
+PayPal,data scientist,5,West,San Jose, CA
+Scratch Financial Inc.,data scientist,0,West,Pasadena, CA
+Roofstock,senior data scientist,5,West,Oakland, CA
+Yum! Brands,data scientist,4,West,Irvine, CA
+PayJoy,data scientist,4,West,San Francisco, CA
+"Green Street Advisors, LLC",data scientist,5,West,Newport Beach, CA
+Ford Motor Company,data scientist,5,West,Palo Alto, CA
+Marin Software,data scientist,5,West,San Francisco, CA
+Mojio,data scientist,1,West,Campbell, CA
+KYOCERA,data scientist,5,West,Concord, CA
+Triplebyte,data scientist,5,West,San Francisco, CA
+ASML,senior data scientist,5,West,San Jose, CA
+Vida,data scientist,0,West,San Francisco, CA
+Qualys,senior data scientist,5,West,Foster City, CA
+Mode Analytics,data scientist,5,West,San Francisco, CA
+Yelp,data scientist,5,West,San Francisco, CA
+BlackLine,data scientist,0,West,Pleasanton, CA
+Apple,data scientist,5,West,Santa Clara, CA
+Figure,data scientist,5,West,San Francisco, CA
+Stitch Fix,data scientist,5,West,San Francisco, CA
+Ampcus Inc,data scientist,0,West,San Francisco, CA
+Pacific Gas And Electric Company,senior data scientist,5,West,San Francisco, CA
+Bond,data scientist,0,West,San Francisco, CA
+"Sunrise Systems, Inc.",data scientist,0,West,San Francisco, CA
+Ezoic,data scientist,5,West,Carlsbad, CA
+Affinity,data scientist,5,West,San Francisco, CA
+deliverr.com,data scientist,4,West,San Francisco, CA
+Cogitativo,data scientist,0,West,Berkeley, CA
+Postmates,data scientist,4,West,San Francisco, CA
+Citrine,data scientist,2,West,Redwood City, CA
+Linc Global,data scientist,3,West,Sunnyvale, CA
+"Brillio, LLC",data scientist,5,West,Santa Clara, CA
+Genentech,data scientist,3,West,South San Francisco, CA
+Carl Zeiss,data scientist,5,West,Dublin, CA
+Sensor Tower,data scientist,5,West,San Francisco, CA
+Blueshift,data scientist,3,West,San Francisco, CA
+Gap Inc.,data scientist,5,West,San Francisco, CA
+Adavance2,data scientist,0,West,Los Angeles, CA
+Marlette Funding,data scientist,0,West,Newark, CA
+Wealthfront,principal data scientist,5,West,Palo Alto, CA
+The Armada Group,data scientist,1,West,San Francisco, CA
+Gap Inc.,data scientist,5,West,San Francisco, CA
+Trace Data,data scientist,0,West,Oakland, CA
+Ledgent,data scientist,0,West,Costa Mesa, CA
+Lawrence Livermore National Lab,data scientist,4,West,Livermore, CA
+Amazon,data scientist,5,West,San Francisco, CA
+GSRINC,data scientist,0,West,San Francisco, CA
+"Inscopix, Inc.",data scientist,2,West,Palo Alto, CA
+Varite,data scientist,0,West,San Francisco, CA
+Tanu Infotech Inc,data scientist,0,West,Pleasanton, CA
+Amyris,senior data scientist,5,West,Emeryville, CA
+HonorVet Technologies,data scientist,0,West,Sunnyvale, CA
+Machine Zone,data scientist,5,West,Palo Alto, CA
+Omnicell,data scientist,4,West,Mountain View, CA
+MBR Partners,data scientist,0,West,Sacramento, CA
+Formation,senior data scientist,5,West,San Francisco, CA
+Technosoft Corporation,data scientist,1,West,San Jose, CA
+Scale AI,data scientist,2,West,San Francisco, CA
+Symantec,principal data scientist,5,West,Mountain View, CA
+Prosum,data scientist,5,West,El Segundo, CA
+MasterClass,data scientist,5,West,San Francisco, CA
+LeanTaaS,data scientist,4,West,Santa Clara, CA
+Synectic Solutions Inc,data scientist,0,West,Oxnard, CA
+Chan Zuckerberg Initiative,data scientist,5,West,Redwood City, CA
+Perfect World Entertainment,data scientist,5,West,Redwood City, CA
+ApTask,data scientist,1,West,San Jose, CA
+Joby Aviation,data scientist,0,West,San Carlos, CA
+Techgnite LLC,data scientist,0,West,Westlake Village," Los Angeles, CA"
+Thermo Fisher,data scientist,5,West,Carlsbad, CA
+Yochana,data scientist,0,West,San Francisco, CA
+MoTek Technologies,data scientist,0,West,Mountain View, CA
+Architecture Technology Corporation,data scientist,0,West,San Jose, CA
+Gilead Sciences,associate data scientist director,5,West,Foster City, CA
+ZEDVentures Incorporated,data scientist,0,West,San Jose, CA
+Cisco Systems,data scientist,5,West,San Jose, CA
+"Radiansys, Inc.",data scientist,1,West,San Francisco, CA
+Hewlett Packard Enterprise,data scientist,5,West,San Jose, CA
+Clarivate Analytics,data scientist,5,West,San Francisco, CA
+W2O Group,data scientist,5,West,San Francisco, CA
+Safeway Inc,data scientist,5,West,Pleasanton, CA
+Amobee,data scientist,5,West,Redwood City, CA
+Hausable,data scientist,0,West,San Francisco, CA
+MarkMonitor,data scientist,5,West,San Francisco, CA
+Juvo,senior data scientist,5,West,San Francisco, CA
+"EDO, Inc.",data scientist,0,West,San Francisco, CA
+Eventbrite,senior data scientist,5,West,San Francisco, CA
+Qualys,lead data scientist,5,West,Foster City, CA
+YOH,data scientist,0,West,South San Francisco, CA
+Abacus Service Corporation,data scientist,0,West,Corona, CA
+Natera,data scientist,4,West,San Carlos, CA
+Logic20/20,data scientist,0,West,San Jose, CA
+Southern California Edison,senior data scientist,5,West,Pomona, CA
+Proofpoint,data scientist,5,West,Sunnyvale, CA
+"Fullpower Technologies, Inc.",data scientist,5,West,Santa Cruz, CA
+IntelliPro Group Inc.,data scientist,5,West,Santa Clara, CA
+Amplitude Analytics,data scientist,5,West,San Francisco, CA
+Softsol,data scientist,3,West,Fremont, CA
+Akamai,data scientist,5,West,San Francisco, CA
+Irvine Technology Corporation (ITC),data scientist,0,West,Irvine, CA
+OSI Engineering,data scientist,0,West,San Francisco, CA
+Trianz,data scientist,5,West,San Jose, CA
+Cryptoware Technologies Inc,data scientist,0,West,Sunnyvale, CA
+"Orb Intelligence, Inc.",data scientist,0,West,San Jose, CA
+CyberCoders,data scientist,0,West,Burbank, CA
+Course Hero,senior data scientist,5,West,Redwood City, CA
+Credit Karma,senior data scientist,5,West,San Francisco, CA
+Esri,data scientist,5,West,Redlands, CA
+Cypress HCM,data scientist,2,West,San Francisco, CA
+LendingHome,senior data scientist,6,West,San Francisco, CA
+Earnin,senior data scientist,5,West,Palo Alto, CA
+Sleep Number Corporation,data scientist,5,West,San Jose, CA
+Northrop Grumman,senior data scientist,3,West,Monterey, CA
+Freedom Financial Network,lead data scientist,5,West,San Mateo, CA
+Glassdoor,lead data scientist,4,West,San Francisco, CA
+DOCOMO Innovations,data scientist,3,West,Palo Alto, CA
+Shape Security,data scientist,2,West,Santa Clara, CA
+Virta Health,data scientist,5,West,San Francisco, CA
+Amyris,senior data scientist,5,West,Emeryville, CA
+Pacific Life,data scientist,5,West,Newport Beach, CA
+MBR Partners,data scientist,0,West,Sacramento, CA
+Machine Zone,data scientist,5,West,Palo Alto, CA
+First American,data scientist,5,West,Santa Ana, CA
+Omnicell,data scientist,4,West,Mountain View, CA
+Plaid,data scientist,5,West,San Francisco, CA
+Wimmer Solutions,data scientist,0,West,Sunnyvale, CA
+Formation,senior data scientist,5,West,San Francisco, CA
+Monte de Piedad,data scientist,2,West,San Diego, CA
+Scale AI,data scientist,2,West,San Francisco, CA
+Sutter North Medical Group,data scientist,0,West,San Carlos, CA
+Noesys Inc,data scientist,0,West,Newark, CA
+Technosoft Corporation,data scientist,1,West,San Jose, CA
+MasterClass,data scientist,5,West,San Francisco, CA
+Sense360,data scientist,0,West,Culver City, CA
+Symantec,principal data scientist,5,West,Mountain View, CA
+Market America Inc,data scientist,0,West,Monterey, CA
+Prosum,data scientist,5,West,El Segundo, CA
+LeanTaaS,data scientist,4,West,Santa Clara, CA
+Pactera,data scientist,1,West,San Jose, CA
+Stripe,data scientist,4,West,San Francisco, CA
+Discord,lead data scientist,5,West,San Francisco, CA
+Synectic Solutions Inc,data scientist,0,West,Oxnard, CA
+Cubic,data scientist,5,West,San Diego, CA
+IBM,data scientist,3,West,San Francisco, CA
+ApTask,data scientist,1,West,San Jose, CA
+Confluent,data scientist,4,West,Mountain View, CA
+Joby Aviation,data scientist,0,West,San Carlos, CA
+"Farmer's Business Network, Inc.",data scientist,0,West,San Carlos, CA
+"CLARA analytics, Inc.",data scientist,5,West,Santa Clara, CA
+Techgnite LLC,data scientist,0,West,Westlake Village," Los Angeles, CA"
+Change Healthcare,data scientist,3,West,Emeryville, CA
+Kelly Services,data scientist,1,West,South San Francisco, CA
+XStream Trucking,data scientist,0,West,Redwood City, CA
+Yochana,data scientist,0,West,San Francisco, CA
+Daimler,data scientist,1,West,Sunnyvale, CA
+TCG,data scientist,0,West,San Francisco, CA
+Thermo Fisher,data scientist,5,West,Carlsbad, CA
+MoTek Technologies,data scientist,0,West,Mountain View, CA
+"Starz Entertainment, LLC",data scientist,5,West,Los Angeles, CA
+Architecture Technology Corporation,data scientist,0,West,San Jose, CA
+Qualys,lead data scientist,5,West,Foster City, CA
+UC San Francisco,data scientist,4,West,San Francisco, CA
+Gilead Sciences,associate data scientist director,5,West,Foster City, CA
+Hewlett Packard Enterprise,data scientist,5,West,San Jose, CA
+Cisco Systems,data scientist,5,West,San Jose, CA
+Juvo,data scientist,5,West,San Francisco, CA
+Gusto,data scientist,5,West,San Francisco, CA
+Vida (CA),data scientist,5,West,San Francisco, CA
+Woodruff Sawyer,data scientist,5,West,San Francisco, CA
+deliverr.com,data scientist,0,West,San Francisco, CA
+"Radiansys, Inc.",data scientist,1,West,San Francisco, CA
+ZEDVentures Incorporated,data scientist,0,West,San Jose, CA
+Hewlett Packard Enterprise,data scientist,5,West,San Jose, CA
+Sutter Health System,data scientist,1,West,San Carlos, CA
+Aviana Global Technologies,data scientist,5,West,Brea, CA
+Levi's,data scientist intern,0,West,San Francisco, CA
+W2O Group,data scientist,5,West,San Francisco, CA
+Clarivate Analytics,data scientist,5,West,San Francisco, CA
+Anchor Loans LP,data scientist,5,West,Calabasas, CA
+Safeway Inc,data scientist,5,West,Pleasanton, CA
+Amobee,data scientist,5,West,Redwood City, CA
+Evolvinc,data scientist,0,West,Burbank, CA
+Tapjoy,staff data scientist,5,West,San Francisco, CA
+Next Insurance,data scientist,5,West,Palo Alto, CA
+Hausable,data scientist,0,West,San Francisco, CA
+MarkMonitor,data scientist,5,West,San Francisco, CA
+Crossover Health,data scientist,0,West,San Clemente, CA
+Juvo,senior data scientist,5,West,San Francisco, CA
+"EDO, Inc.",data scientist,0,West,San Francisco, CA
+SBM Offshore,data scientist,1,West,Monaco, CA
+Obsidian Security,data scientist,0,West,Newport Beach, CA
+SentiLink,data scientist,0,West,San Francisco, CA
+Entefy,senior data scientist,5,West,Palo Alto, CA
+Reddit,staff data scientist,5,West,San Francisco, CA
+Eventbrite,senior data scientist,5,West,San Francisco, CA
+Clockwise,data scientist,0,West,San Francisco, CA
+INgrooves Music Group,data scientist,1,West,Los Angeles, CA
+Albertsons Companies,data scientist,5,West,Pleasanton, CA
+Conversion Logic,data scientist,1,West,Los Angeles, CA
+YOH,data scientist,0,West,South San Francisco, CA
+Abacus Service Corporation,data scientist,0,West,Corona, CA
+Logic20/20,data scientist,0,West,San Jose, CA
+Natera,data scientist,4,West,San Carlos, CA
+Watchful,data scientist,0,West,San Francisco, CA
+H Hunter IT Consulting,data scientist,0,West,San Francisco, CA
+ILink Systems Inc.,data scientist,0,West,Santa Monica, CA
+TechMileage Software Solutions,data scientist,0,West,Long Beach, CA
+PROPRIUS,data scientist,0,West,Sunnyvale, CA
+Bosch Group,data scientist,2,West,Sunnyvale, CA
+Southern California Edison,senior data scientist,5,West,Pomona, CA
+Quantifind,senior data scientist,5,West,Menlo Park, CA
+Alt Shift USA,data scientist,0,West,San Francisco, CA
+Cedars-Sinai,data scientist,5,West,Los Angeles, CA
+Randstad,data scientist,5,West,San Francisco, CA
+University of Southern California,data scientist,5,West,Los Angeles, CA
+Calix,data scientist,5,West,San Jose, CA
+Green Dot,data scientist,5,West,Pasadena, CA
+Kforce Technology Staffing,data scientist,0,West,Walnut Creek, CA
+Amplitude Analytics,data scientist,5,West,San Francisco, CA
+IntelliPro Group Inc.,data scientist,5,West,Santa Clara, CA
+Esri,senior data scientist,5,West,Redlands, CA
+Shutterfly,data scientist,5,West,Redwood City, CA
+Descript,data scientist,0,West,San Francisco, CA
+Forethought,data scientist,0,West,San Francisco, CA
+Booz Allen Hamilton Inc.,data scientist,5,West,San Diego, CA
+Softsol,data scientist,3,West,Fremont, CA
+Kforce Technology Staffing,data scientist,0,West,Walnut Creek, CA
+3 Key Consulting,data scientist,0,West,Thousand Oaks, CA
+VideoAmp Careers Website,data scientist,0,West,Los Angeles, CA
+Southern California Edison,data scientist,5,West,Rosemead, CA
+Mycom,data scientist,0,West,Folsom, CA
+Akamai,data scientist,5,West,San Francisco, CA
+Caelum Research,data scientist,0,West,La Jolla, CA
+OSI Engineering,data scientist,0,West,San Francisco, CA
+Divvy Homes,data scientist,0,West,San Francisco, CA
+Mycom OSI,data scientist,1,West,Folsom, CA
+GovTech,data scientist,0,West,San Francisco, CA
+Freedom Financial Network,data scientist,5,West,San Mateo, CA
+Irvine Technology Corporation (ITC),data scientist,0,West,Irvine, CA
+22nd Century Technologies,data scientist,0,West,Oakland, CA
+Trovata,data scientist,0,West,San Francisco, CA
+Alto Neuroscience,data scientist,0,West,Los Altos, CA
+Navio,data scientist,0,West,San Mateo, CA
+Strategic Employment,data scientist,0,West,Costa Mesa, CA
+Element Technologies Inc.,data scientist,0,West,Pleasanton, CA
+Cryptoware Technologies Inc,data scientist,0,West,Sunnyvale, CA
+Trianz,data scientist,5,West,San Jose, CA
+Intuit,senior data scientist,5,West,Mountain View, CA
+Eversight,data scientist,3,West,Palo Alto, CA
+"Edison Software, Inc.",data scientist,0,West,San Jose, CA
+"Orb Intelligence, Inc.",data scientist,0,West,San Jose, CA
+"Retail Solutions, Inc.",data scientist,4,West,San Jose, CA
+Course Hero,senior data scientist,5,West,Redwood City, CA
+Mobi TV,data scientist,0,West,Emeryville, CA
+CyberCoders,data scientist,0,West,Burbank, CA
+MobiTV,data scientist,5,West,Emeryville, CA
+Lorven Technologies Inc,data scientist,0,West,Santa Clara, CA
+Adroit Resources,data scientist,0,West,Santa Clara, CA
+Palo Verde Consulting,data scientist,0,West,Campbell, CA
+Sense 360,data scientist,0,West,Culver City, CA
+Esri,data scientist,5,West,Redlands, CA
+Credit Karma,senior data scientist,5,West,San Francisco, CA
+Cypress HCM,data scientist,2,West,San Francisco, CA
+"Conch Technologies, Inc",data scientist,0,West,Sunnyvale, CA
+Gayathri's Sandbox,data scientist,0,West,Menlo Park, CA
+AvantStay,data scientist,4,West,Los Angeles, CA
+Bind Benefits,data scientist,0,West,San Francisco, CA
+LendingHome,senior data scientist,6,West,San Francisco, CA
+Wish,data scientist,5,West,San Francisco, CA
+Stanza,data scientist,3,West,San Francisco, CA
+Walmart eCommerce,staff data scientist,5,West,Sunnyvale, CA
+Viacom,senior data scientist,5,West,Hollywood, CA
+VideoAmp,data scientist,4,West,Los Angeles, CA
+Earnin,senior data scientist,5,West,Palo Alto, CA
+Bill.com,senior data scientist,5,West,Palo Alto, CA
+Sleep Number Corporation,data scientist,5,West,San Jose, CA
+Northrop Grumman,senior data scientist,3,West,Monterey, CA
+INgroovesMusicGroup,data scientist,0,West,Los Angeles, CA
+CyberCube Analytics,data scientist,0,West,San Francisco, CA
+Companion Medical Inc.,data scientist,0,West,San Diego, CA
+Ranker,data scientist,5,West,Los Angeles, CA
+Freedom Financial Network,lead data scientist,5,West,San Mateo, CA
+"ViaSat, Inc.",senior data scientist,5,West,San Diego, CA
+New Digital IT Inc.,data scientist,0,West,Culver City, CA
+Clarify Health Solutions,data scientist,5,West,San Francisco, CA
+Glassdoor,lead data scientist,4,West,San Francisco, CA
+CSAA Insurance Group,data scientist,5,West,Walnut Creek, CA
+Disney Streaming Services,lead data scientist,5,West,San Francisco, CA
+Tinder,data scientist,5,West,West Hollywood, CA
+TrueAccord,data scientist,5,West,San Francisco, CA
+glitchAI,data scientist,0,West,Los Angeles, CA
+Raybeam,lead data scientist,2,West,Mountain View, CA
+ASML,data scientist,5,West,San Jose, CA
+"Scale AI, Inc.",data scientist,0,West,San Francisco, CA
+Jobot,senior data scientist,0,West,San Jose, CA
+"Turnitin, LLC",senior data scientist,5,West,Oakland, CA
+Kforce,data scientist,0,West,Walnut Creek, CA
+Agari,data scientist,5,West,Foster City, CA
+Northrop Grumman,principal data scientist,5,West,Redondo Beach, CA
+Punchh,senior data scientist,0,West,San Mateo, CA
+Earnin,senior staff data scientist,5,West,Palo Alto, CA
+Esurance,lead data scientist,5,West,San Francisco, CA
+DISH,data scientist,0,West,Foster City, CA
+Gilead Sciences,senior data scientist manager,5,West,Foster City, CA
+ASML,data scientist,5,West,San Diego, CA
+Coffee Meets Bagel,senior data scientist,5,West,San Francisco, CA
+Shell,senior data scientist,2,West,San Francisco, CA
+"Edison Software, Inc.",data scientist,0,West,San Jose, CA
+Atlassian,senior data scientist,5,West,Mountain View, CA
+Course Hero,senior data scientist,5,West,Redwood City, CA
+"Retail Solutions, Inc.",data scientist,4,West,San Jose, CA
+Mobi TV,data scientist,0,West,Emeryville, CA
+CyberCoders,data scientist,0,West,Burbank, CA
+Under Armour,senior data scientist,1,West,San Francisco, CA
+MobiTV,data scientist,5,West,Emeryville, CA
+Lorven Technologies Inc,data scientist,0,West,Santa Clara, CA
+Faire,lead data scientist,5,West,San Francisco, CA
+Adroit Resources,data scientist,0,West,Santa Clara, CA
+"Guideline, Inc.",senior data scientist,1,West,San Mateo, CA
+Walt Disney Co.,lead data scientist,5,West,San Francisco, CA
+Sense 360,data scientist,0,West,Culver City, CA
+Esri,data scientist,5,West,Redlands, CA
+Credit Karma,senior data scientist,5,West,San Francisco, CA
+CircleUp,senior data scientist,4,West,San Francisco, CA
+Intuit,senior data scientist,5,West,Mountain View, CA
+TECHNOCRAFT Solutions,data scientist,0,West,San Ramon, CA
+Cypress HCM,data scientist,2,West,San Francisco, CA
+"Conch Technologies, Inc",data scientist,0,West,Sunnyvale, CA
+Gayathri's Sandbox,data scientist,0,West,Menlo Park, CA
+Bind Benefits,data scientist,0,West,San Francisco, CA
+GoodRx,senior data scientist,5,West,Santa Monica, CA
+AvantStay,data scientist,4,West,Los Angeles, CA
+Walmart,data scientist intern,5,West,San Bruno, CA
+V Group Inc.,data scientist,0,West,Northridge, CA
+LendingHome,senior data scientist,6,West,San Francisco, CA
+Walmart eCommerce,staff data scientist,5,West,Sunnyvale, CA
+NextRoll,senior data scientist,5,West,San Francisco, CA
+Viacom,senior data scientist,5,West,Hollywood, CA
+Earnin,senior data scientist,5,West,Palo Alto, CA
+VideoAmp,data scientist,4,West,Los Angeles, CA
+Amazon,data scientist,5,West,Sunnyvale, CA
+Bill.com,senior data scientist,5,West,Palo Alto, CA
+Sleep Number Corporation,data scientist,5,West,San Jose, CA
+Northrop Grumman,senior data scientist,3,West,Monterey, CA
+Genomic Health,data scientist,5,West,Redwood City, CA
+Alignment Healthcare,data scientist,5,West,Orange, CA
+INgroovesMusicGroup,data scientist,0,West,Los Angeles, CA
+CyberCube Analytics,data scientist,0,West,San Francisco, CA
+Ranker,data scientist,5,West,Los Angeles, CA
+Companion Medical Inc.,data scientist,0,West,San Diego, CA
+Freedom Financial Network,lead data scientist,5,West,San Mateo, CA
+"ViaSat, Inc.",senior data scientist,5,West,San Diego, CA
+New Digital IT Inc.,data scientist,0,West,Culver City, CA
+JM Eagle,data scientist,5,West,Los Angeles, CA
+Clarify Health Solutions,data scientist,5,West,San Francisco, CA
+CSAA Insurance Group,data scientist,5,West,Walnut Creek, CA
+A³ by Airbus,data scientist,0,West,Sunnyvale, CA
+Disney Streaming Services,lead data scientist,5,West,San Francisco, CA
+Glassdoor,lead data scientist,4,West,San Francisco, CA
+Canopy Health,data scientist,0,West,Emeryville, CA
+Bill.com,data scientist,5,West,Palo Alto, CA
+Driscoll's,senior data scientist,5,West,Watsonville, CA
+605,senior data scientist,0,West,Pasadena, CA
+Southern California Edison,data scientist,5,West,Rosemead, CA
+Bainom Inc.,data scientist,0,West,San Francisco, CA
+Scribd,senior data scientist,5,West,San Francisco, CA
+Migo,senior data scientist,0,West,San Francisco, CA
+Thumbtack,senior data scientist,5,West,San Francisco, CA
+glitchAI,data scientist,0,West,Los Angeles, CA
+Confie Insurance Group Holdings,data scientist,5,West,Huntington Beach, CA
+Jobot,data scientist director,0,West,San Francisco, CA
+Workday,senior data scientist,5,West,Pleasanton, CA
+Trabus Technologies,data scientist,0,West,San Diego, CA
+ASML,data scientist,5,West,San Jose, CA
+Jobot,data scientist,0,West,Emeryville, CA
+W2O,senior data scientist director,5,West,San Francisco, CA
+Age of Learning,data scientist,5,West,Glendale, CA
+Envision LLC,data scientist,1,West,San Francisco, CA
+Auto Club of Southern California,lead data scientist,5,West,Costa Mesa, CA
+"Scale AI, Inc.",data scientist,0,West,San Francisco, CA
+TRM Labs,data scientist,0,West,San Francisco, CA
+APN Software Services Inc.,data scientist,0,West,San Francisco, CA
+Jobot,senior data scientist,0,West,San Jose, CA
+Allstate,senior data scientist,3,West,Menlo Park, CA
+Sage Intacct,principal data scientist,3,West,San Francisco, CA
+"Turnitin, LLC",senior data scientist,5,West,Oakland, CA
+Genentech,senior data scientist,5,West,South San Francisco, CA
+Pfizer,data scientist manager,5,West,La Jolla, CA
+UCLA Health,senior data scientist,5,West,Los Angeles, CA
+Niantic,data scientist,0,West,Culver City, CA
+Nurx,data scientist,5,West,San Francisco, CA
+Punchh,senior data scientist,0,West,San Mateo, CA
+Northrop Grumman,principal data scientist,5,West,Redondo Beach, CA
+Cylance Inc.,senior data scientist,5,West,Irvine, CA
+Memphis Meats,senior data scientist,1,West,Berkeley, CA
+Earnin,senior staff data scientist,5,West,Palo Alto, CA
+Pfizer,data scientist,5,West,La Jolla, CA
+Acorns,data scientist,5,West,Irvine, CA
+Fanatics,senior data scientist,5,West,San Mateo, CA
+Esurance,lead data scientist,5,West,San Francisco, CA
+DISH,data scientist,0,West,Foster City, CA
+Mattson Resources,senior data scientist,0,West,San Jose, CA
+NerdWallet,senior staff data scientist,5,West,San Francisco, CA
+Strivr,senior data scientist,5,West,Menlo Park, CA
+Gilead Sciences,senior data scientist manager,5,West,Foster City, CA
+Wealthfront,senior data scientist,5,West,Palo Alto, CA
+CyberCoders,data scientist,1,West,San Jose, CA
+Pacific Gas And Electric Company,data scientist,0,West,San Francisco, CA
+Coinbase,data scientist,5,West,San Francisco, CA
+Briq,principal data scientist,4,West,Santa Barbara, CA
+Airtable,data scientist,1,West,San Francisco, CA
+Science 37,data scientist,1,West,San Francisco, CA
+L.A. Care Health Plan,data scientist,5,West,Los Angeles, CA
+Specialized Bicycle,data scientist,5,West,Morgan Hill, CA
+Formation,data scientist,5,West,San Francisco, CA
+Marin Software,data scientist,5,West,San Francisco, CA
+Mojio,data scientist,1,West,Campbell, CA
+BlackBerry,senior data scientist,2,West,Irvine, CA
+Perfect World Entertainment,data scientist,5,West,Redwood City, CA
+Chan Zuckerberg Initiative,data scientist,5,West,Redwood City, CA
+Proofpoint,data scientist,5,West,Sunnyvale, CA
+DOCOMO Innovations,data scientist,3,West,Palo Alto, CA
+Marlette Funding,data scientist,0,West,Newark, CA
+"Fullpower Technologies, Inc.",data scientist,5,West,Santa Cruz, CA
+Shape Security,data scientist,2,West,Santa Clara, CA
+Shutterfly,data scientist,5,West,Redwood City, CA
+Adavance2,data scientist,0,West,Los Angeles, CA
+Pactera,data scientist,1,West,San Jose, CA
+Stripe,data scientist,4,West,San Francisco, CA
+Juvo,data scientist,5,West,San Francisco, CA
+Airtable,data scientist,1,West,San Francisco, CA
+Formation,data scientist,5,West,San Francisco, CA
+Esri,senior data scientist,5,West,Redlands, CA
+Reddit,staff data scientist,5,West,San Francisco, CA
+Intuit,senior data scientist,5,West,Mountain View, CA
+Stanza,data scientist,3,West,San Francisco, CA
+Eversight,data scientist,3,West,Palo Alto, CA
+Entefy,senior data scientist,5,West,Palo Alto, CA
+"Mercedes-Benz Research & Development North America, Inc.",data scientist,5,West,Sunnyvale, CA
+Wish,data scientist,5,West,San Francisco, CA
+Tinder,data scientist,5,West,West Hollywood, CA
+Coffee Meets Bagel,senior data scientist,5,West,San Francisco, CA
+ASML,data scientist,5,West,San Diego, CA
+Genomic Health,data scientist,5,West,Redwood City, CA
+Kforce,data scientist,0,West,Walnut Creek, CA
+Agari,data scientist,5,West,Foster City, CA
+Bill.com,data scientist,5,West,Palo Alto, CA
+Niantic,data scientist,0,West,Culver City, CA
+Driscoll's,senior data scientist,5,West,Watsonville, CA
+Nurx,data scientist,5,West,San Francisco, CA
+Age of Learning,data scientist,5,West,Glendale, CA
+Science 37,data scientist,1,West,San Francisco, CA
+L.A. Care Health Plan,data scientist,5,West,Los Angeles, CA
+Envision LLC,data scientist,1,West,San Francisco, CA
+Alignment Healthcare,data scientist,5,West,Orange, CA
+Intuit,senior data scientist,5,West,Mountain View, CA
+NerdWallet,senior staff data scientist,5,West,San Francisco, CA
+Arm,data scientist,4,West,San Jose, CA
+CircleUp,senior data scientist,4,West,San Francisco, CA
+Acorns,data scientist,5,West,Irvine, CA
+Pfizer,data scientist,5,West,La Jolla, CA
+TrueAccord,data scientist,5,West,San Francisco, CA
+My Job Tank,senior data scientist,4,West,San Francisco, CA
+Seen by Indeed,data scientist,0,West,San Francisco, CA
+Ancestry,data scientist,5,West,San Francisco, CA
+Intuit,staff data scientist,5,West,Mountain View, CA
+Trace3,senior data scientist,5,West,Irvine, CA
+Strivr,senior data scientist,5,West,Menlo Park, CA
+Gilead Sciences,data scientist,5,West,Foster City, CA
+Gigster,senior data scientist,5,West,San Francisco, CA
+Just Auto Insurance,senior data scientist,0,West,Los Angeles, CA
+Pacific Gas And Electric Company,data scientist,5,West,San Francisco, CA
+Intercom,senior data scientist,5,West,San Francisco, CA
+Specialized Bicycle,data scientist,5,West,Morgan Hill, CA
+BlackBerry,senior data scientist,2,West,Irvine, CA
+The RealReal,lead data scientist,5,West,San Francisco, CA
+eBay,data scientist,3,West,San Jose, CA
+Los Angeles Times,data scientist,3,West,El Segundo, CA
+Proofpoint,staff data scientist,5,West,Sunnyvale, CA
+Zumper,senior data scientist,5,West,San Francisco, CA
+Earnest,senior data scientist,5,West,San Francisco, CA
+Kraken Digital Asset Exchange,data scientist,5,West,San Francisco, CA
+Migo,data scientist,0,West,San Francisco, CA
+Branch,senior data scientist,5,West,Redwood City, CA
+Goodwater Capital,data scientist,0,West,Burlingame, CA
+PayPal,data scientist,5,West,San Jose, CA
+Scratch Financial Inc.,data scientist,0,West,Pasadena, CA
+Roofstock,senior data scientist,5,West,Oakland, CA
+Yum! Brands,data scientist,4,West,Irvine, CA
+PayJoy,data scientist,4,West,San Francisco, CA
+"Green Street Advisors, LLC",data scientist,5,West,Newport Beach, CA
+Ford Motor Company,data scientist,5,West,Palo Alto, CA
+Marin Software,data scientist,5,West,San Francisco, CA
+Mojio,data scientist,1,West,Campbell, CA
+KYOCERA,data scientist,5,West,Concord, CA
+Triplebyte,data scientist,5,West,San Francisco, CA
+ASML,senior data scientist,5,West,San Jose, CA
+Vida,data scientist,0,West,San Francisco, CA
+Qualys,senior data scientist,5,West,Foster City, CA
+Mode Analytics,data scientist,5,West,San Francisco, CA
+Yelp,data scientist,5,West,San Francisco, CA
+BlackLine,data scientist,0,West,Pleasanton, CA
+Apple,data scientist,5,West,Santa Clara, CA
+Figure,data scientist,5,West,San Francisco, CA
+Stitch Fix,data scientist,5,West,San Francisco, CA
+Ampcus Inc,data scientist,0,West,San Francisco, CA
+Pacific Gas And Electric Company,senior data scientist,5,West,San Francisco, CA
+Bond,data scientist,0,West,San Francisco, CA
+"Sunrise Systems, Inc.",data scientist,0,West,San Francisco, CA
+Ezoic,data scientist,5,West,Carlsbad, CA
+Affinity,data scientist,5,West,San Francisco, CA
+deliverr.com,data scientist,4,West,San Francisco, CA
+Cogitativo,data scientist,0,West,Berkeley, CA
+Postmates,data scientist,4,West,San Francisco, CA
+Citrine,data scientist,2,West,Redwood City, CA
+Linc Global,data scientist,3,West,Sunnyvale, CA
+"Brillio, LLC",data scientist,5,West,Santa Clara, CA
+Genentech,data scientist,3,West,South San Francisco, CA
+Carl Zeiss,data scientist,5,West,Dublin, CA
+Sensor Tower,data scientist,5,West,San Francisco, CA
+Blueshift,data scientist,3,West,San Francisco, CA
+Gap Inc.,data scientist,5,West,San Francisco, CA
+Adavance2,data scientist,0,West,Los Angeles, CA
+Marlette Funding,data scientist,0,West,Newark, CA
+Wealthfront,principal data scientist,5,West,Palo Alto, CA
+The Armada Group,data scientist,1,West,San Francisco, CA
+Gap Inc.,data scientist,5,West,San Francisco, CA
+Trace Data,data scientist,0,West,Oakland, CA
+Ledgent,data scientist,0,West,Costa Mesa, CA
+Lawrence Livermore National Lab,data scientist,4,West,Livermore, CA
+Amazon,data scientist,5,West,San Francisco, CA
+GSRINC,data scientist,0,West,San Francisco, CA
+"Inscopix, Inc.",data scientist,2,West,Palo Alto, CA
+Varite,data scientist,0,West,San Francisco, CA
+Tanu Infotech Inc,data scientist,0,West,Pleasanton, CA
+Amyris,senior data scientist,5,West,Emeryville, CA
+HonorVet Technologies,data scientist,0,West,Sunnyvale, CA
+Machine Zone,data scientist,5,West,Palo Alto, CA
+Omnicell,data scientist,4,West,Mountain View, CA
+MBR Partners,data scientist,0,West,Sacramento, CA
+Formation,senior data scientist,5,West,San Francisco, CA
+Technosoft Corporation,data scientist,1,West,San Jose, CA
+Scale AI,data scientist,2,West,San Francisco, CA
+Symantec,principal data scientist,5,West,Mountain View, CA
+Prosum,data scientist,5,West,El Segundo, CA
+MasterClass,data scientist,5,West,San Francisco, CA
+LeanTaaS,data scientist,4,West,Santa Clara, CA
+Synectic Solutions Inc,data scientist,0,West,Oxnard, CA
+Chan Zuckerberg Initiative,data scientist,5,West,Redwood City, CA
+Perfect World Entertainment,data scientist,5,West,Redwood City, CA
+ApTask,data scientist,1,West,San Jose, CA
+Joby Aviation,data scientist,0,West,San Carlos, CA
+Techgnite LLC,data scientist,0,West,Westlake Village," Los Angeles, CA"
+Thermo Fisher,data scientist,5,West,Carlsbad, CA
+Yochana,data scientist,0,West,San Francisco, CA
+MoTek Technologies,data scientist,0,West,Mountain View, CA
+Architecture Technology Corporation,data scientist,0,West,San Jose, CA
+Gilead Sciences,associate data scientist director,5,West,Foster City, CA
+ZEDVentures Incorporated,data scientist,0,West,San Jose, CA
+Cisco Systems,data scientist,5,West,San Jose, CA
+"Radiansys, Inc.",data scientist,1,West,San Francisco, CA
+Hewlett Packard Enterprise,data scientist,5,West,San Jose, CA
+Clarivate Analytics,data scientist,5,West,San Francisco, CA
+W2O Group,data scientist,5,West,San Francisco, CA
+Safeway Inc,data scientist,5,West,Pleasanton, CA
+Amobee,data scientist,5,West,Redwood City, CA
+Hausable,data scientist,0,West,San Francisco, CA
+MarkMonitor,data scientist,5,West,San Francisco, CA
+Juvo,senior data scientist,5,West,San Francisco, CA
+"EDO, Inc.",data scientist,0,West,San Francisco, CA
+Eventbrite,senior data scientist,5,West,San Francisco, CA
+Qualys,lead data scientist,5,West,Foster City, CA
+YOH,data scientist,0,West,South San Francisco, CA
+Abacus Service Corporation,data scientist,0,West,Corona, CA
+Natera,data scientist,4,West,San Carlos, CA
+Logic20/20,data scientist,0,West,San Jose, CA
+Southern California Edison,senior data scientist,5,West,Pomona, CA
+Proofpoint,data scientist,5,West,Sunnyvale, CA
+"Fullpower Technologies, Inc.",data scientist,5,West,Santa Cruz, CA
+IntelliPro Group Inc.,data scientist,5,West,Santa Clara, CA
+Amplitude Analytics,data scientist,5,West,San Francisco, CA
+Softsol,data scientist,3,West,Fremont, CA
+Akamai,data scientist,5,West,San Francisco, CA
+Irvine Technology Corporation (ITC),data scientist,0,West,Irvine, CA
+OSI Engineering,data scientist,0,West,San Francisco, CA
+Trianz,data scientist,5,West,San Jose, CA
+Cryptoware Technologies Inc,data scientist,0,West,Sunnyvale, CA
+"Orb Intelligence, Inc.",data scientist,0,West,San Jose, CA
+CyberCoders,data scientist,0,West,Burbank, CA
+Course Hero,senior data scientist,5,West,Redwood City, CA
+Credit Karma,senior data scientist,5,West,San Francisco, CA
+Esri,data scientist,5,West,Redlands, CA
+Cypress HCM,data scientist,2,West,San Francisco, CA
+LendingHome,senior data scientist,6,West,San Francisco, CA
+Earnin,senior data scientist,5,West,Palo Alto, CA
+Sleep Number Corporation,data scientist,5,West,San Jose, CA
+Northrop Grumman,senior data scientist,3,West,Monterey, CA
+Freedom Financial Network,lead data scientist,5,West,San Mateo, CA
+Glassdoor,lead data scientist,4,West,San Francisco, CA
+DOCOMO Innovations,data scientist,3,West,Palo Alto, CA
+Shape Security,data scientist,2,West,Santa Clara, CA
+Virta Health,data scientist,5,West,San Francisco, CA
+Amyris,senior data scientist,5,West,Emeryville, CA
+Pacific Life,data scientist,5,West,Newport Beach, CA
+MBR Partners,data scientist,0,West,Sacramento, CA
+Machine Zone,data scientist,5,West,Palo Alto, CA
+First American,data scientist,5,West,Santa Ana, CA
+Omnicell,data scientist,4,West,Mountain View, CA
+Plaid,data scientist,5,West,San Francisco, CA
+Wimmer Solutions,data scientist,0,West,Sunnyvale, CA
+Formation,senior data scientist,5,West,San Francisco, CA
+Monte de Piedad,data scientist,2,West,San Diego, CA
+Scale AI,data scientist,2,West,San Francisco, CA
+Sutter North Medical Group,data scientist,0,West,San Carlos, CA
+Noesys Inc,data scientist,0,West,Newark, CA
+Technosoft Corporation,data scientist,1,West,San Jose, CA
+MasterClass,data scientist,5,West,San Francisco, CA
+Sense360,data scientist,0,West,Culver City, CA
+Symantec,principal data scientist,5,West,Mountain View, CA
+Market America Inc,data scientist,0,West,Monterey, CA
+Prosum,data scientist,5,West,El Segundo, CA
+LeanTaaS,data scientist,4,West,Santa Clara, CA
+Pactera,data scientist,1,West,San Jose, CA
+Stripe,data scientist,4,West,San Francisco, CA
+Discord,lead data scientist,5,West,San Francisco, CA
+Synectic Solutions Inc,data scientist,0,West,Oxnard, CA
+Cubic,data scientist,5,West,San Diego, CA
+IBM,data scientist,3,West,San Francisco, CA
+ApTask,data scientist,1,West,San Jose, CA
+Confluent,data scientist,4,West,Mountain View, CA
+Joby Aviation,data scientist,0,West,San Carlos, CA
+"Farmer's Business Network, Inc.",data scientist,0,West,San Carlos, CA
+"CLARA analytics, Inc.",data scientist,5,West,Santa Clara, CA
+Techgnite LLC,data scientist,0,West,Westlake Village," Los Angeles, CA"
+Change Healthcare,data scientist,3,West,Emeryville, CA
+Kelly Services,data scientist,1,West,South San Francisco, CA
+XStream Trucking,data scientist,0,West,Redwood City, CA
+Yochana,data scientist,0,West,San Francisco, CA
+Daimler,data scientist,1,West,Sunnyvale, CA
+TCG,data scientist,0,West,San Francisco, CA
+Thermo Fisher,data scientist,5,West,Carlsbad, CA
+MoTek Technologies,data scientist,0,West,Mountain View, CA
+"Starz Entertainment, LLC",data scientist,5,West,Los Angeles, CA
+Architecture Technology Corporation,data scientist,0,West,San Jose, CA
+Qualys,lead data scientist,5,West,Foster City, CA
+UC San Francisco,data scientist,4,West,San Francisco, CA
+Gilead Sciences,associate data scientist director,5,West,Foster City, CA
+Hewlett Packard Enterprise,data scientist,5,West,San Jose, CA
+Cisco Systems,data scientist,5,West,San Jose, CA
+Juvo,data scientist,5,West,San Francisco, CA
+Gusto,data scientist,5,West,San Francisco, CA
+Vida (CA),data scientist,5,West,San Francisco, CA
+Woodruff Sawyer,data scientist,5,West,San Francisco, CA
+deliverr.com,data scientist,0,West,San Francisco, CA
+"Radiansys, Inc.",data scientist,1,West,San Francisco, CA
+ZEDVentures Incorporated,data scientist,0,West,San Jose, CA
+Hewlett Packard Enterprise,data scientist,5,West,San Jose, CA
+Sutter Health System,data scientist,1,West,San Carlos, CA
+Aviana Global Technologies,data scientist,5,West,Brea, CA
+Levi's,data scientist intern,0,West,San Francisco, CA
+W2O Group,data scientist,5,West,San Francisco, CA
+Clarivate Analytics,data scientist,5,West,San Francisco, CA
+Anchor Loans LP,data scientist,5,West,Calabasas, CA
+Safeway Inc,data scientist,5,West,Pleasanton, CA
+Amobee,data scientist,5,West,Redwood City, CA
+Evolvinc,data scientist,0,West,Burbank, CA
+Tapjoy,staff data scientist,5,West,San Francisco, CA
+Next Insurance,data scientist,5,West,Palo Alto, CA
+Hausable,data scientist,0,West,San Francisco, CA
+MarkMonitor,data scientist,5,West,San Francisco, CA
+Crossover Health,data scientist,0,West,San Clemente, CA
+Juvo,senior data scientist,5,West,San Francisco, CA
+"EDO, Inc.",data scientist,0,West,San Francisco, CA
+SBM Offshore,data scientist,1,West,Monaco, CA
+Obsidian Security,data scientist,0,West,Newport Beach, CA
+SentiLink,data scientist,0,West,San Francisco, CA
+Entefy,senior data scientist,5,West,Palo Alto, CA
+Reddit,staff data scientist,5,West,San Francisco, CA
+Eventbrite,senior data scientist,5,West,San Francisco, CA
+Clockwise,data scientist,0,West,San Francisco, CA
+INgrooves Music Group,data scientist,1,West,Los Angeles, CA
+Albertsons Companies,data scientist,5,West,Pleasanton, CA
+Conversion Logic,data scientist,1,West,Los Angeles, CA
+YOH,data scientist,0,West,South San Francisco, CA
+Abacus Service Corporation,data scientist,0,West,Corona, CA
+Logic20/20,data scientist,0,West,San Jose, CA
+Natera,data scientist,4,West,San Carlos, CA
+Watchful,data scientist,0,West,San Francisco, CA
+H Hunter IT Consulting,data scientist,0,West,San Francisco, CA
+ILink Systems Inc.,data scientist,0,West,Santa Monica, CA
+TechMileage Software Solutions,data scientist,0,West,Long Beach, CA
+PROPRIUS,data scientist,0,West,Sunnyvale, CA
+Bosch Group,data scientist,2,West,Sunnyvale, CA
+Southern California Edison,senior data scientist,5,West,Pomona, CA
+Quantifind,senior data scientist,5,West,Menlo Park, CA
+Alt Shift USA,data scientist,0,West,San Francisco, CA
+Cedars-Sinai,data scientist,5,West,Los Angeles, CA
+Randstad,data scientist,5,West,San Francisco, CA
+University of Southern California,data scientist,5,West,Los Angeles, CA
+Calix,data scientist,5,West,San Jose, CA
+Green Dot,data scientist,5,West,Pasadena, CA
+Kforce Technology Staffing,data scientist,0,West,Walnut Creek, CA
+Amplitude Analytics,data scientist,5,West,San Francisco, CA
+IntelliPro Group Inc.,data scientist,5,West,Santa Clara, CA
+Esri,senior data scientist,5,West,Redlands, CA
+Shutterfly,data scientist,5,West,Redwood City, CA
+Descript,data scientist,0,West,San Francisco, CA
+Forethought,data scientist,0,West,San Francisco, CA
+Booz Allen Hamilton Inc.,data scientist,5,West,San Diego, CA
+Softsol,data scientist,3,West,Fremont, CA
+Kforce Technology Staffing,data scientist,0,West,Walnut Creek, CA
+3 Key Consulting,data scientist,0,West,Thousand Oaks, CA
+VideoAmp Careers Website,data scientist,0,West,Los Angeles, CA
+Southern California Edison,data scientist,5,West,Rosemead, CA
+Mycom,data scientist,0,West,Folsom, CA
+Akamai,data scientist,5,West,San Francisco, CA
+Caelum Research,data scientist,0,West,La Jolla, CA
+OSI Engineering,data scientist,0,West,San Francisco, CA
+Divvy Homes,data scientist,0,West,San Francisco, CA
+Mycom OSI,data scientist,1,West,Folsom, CA
+GovTech,data scientist,0,West,San Francisco, CA
+Freedom Financial Network,data scientist,5,West,San Mateo, CA
+Irvine Technology Corporation (ITC),data scientist,0,West,Irvine, CA
+22nd Century Technologies,data scientist,0,West,Oakland, CA
+Trovata,data scientist,0,West,San Francisco, CA
+Alto Neuroscience,data scientist,0,West,Los Altos, CA
+Navio,data scientist,0,West,San Mateo, CA
+Strategic Employment,data scientist,0,West,Costa Mesa, CA
+Element Technologies Inc.,data scientist,0,West,Pleasanton, CA
+Cryptoware Technologies Inc,data scientist,0,West,Sunnyvale, CA
+Trianz,data scientist,5,West,San Jose, CA
+Intuit,senior data scientist,5,West,Mountain View, CA
+Eversight,data scientist,3,West,Palo Alto, CA
+"Edison Software, Inc.",data scientist,0,West,San Jose, CA
+"Orb Intelligence, Inc.",data scientist,0,West,San Jose, CA
+"Retail Solutions, Inc.",data scientist,4,West,San Jose, CA
+Course Hero,senior data scientist,5,West,Redwood City, CA
+Mobi TV,data scientist,0,West,Emeryville, CA
+CyberCoders,data scientist,0,West,Burbank, CA
+MobiTV,data scientist,5,West,Emeryville, CA
+Lorven Technologies Inc,data scientist,0,West,Santa Clara, CA
+Adroit Resources,data scientist,0,West,Santa Clara, CA
+Palo Verde Consulting,data scientist,0,West,Campbell, CA
+Sense 360,data scientist,0,West,Culver City, CA
+Esri,data scientist,5,West,Redlands, CA
+Credit Karma,senior data scientist,5,West,San Francisco, CA
+Cypress HCM,data scientist,2,West,San Francisco, CA
+"Conch Technologies, Inc",data scientist,0,West,Sunnyvale, CA
+Gayathri's Sandbox,data scientist,0,West,Menlo Park, CA
+AvantStay,data scientist,4,West,Los Angeles, CA
+Bind Benefits,data scientist,0,West,San Francisco, CA
+LendingHome,senior data scientist,6,West,San Francisco, CA
+Wish,data scientist,5,West,San Francisco, CA
+Stanza,data scientist,3,West,San Francisco, CA
+Walmart eCommerce,staff data scientist,5,West,Sunnyvale, CA
+Viacom,senior data scientist,5,West,Hollywood, CA
+VideoAmp,data scientist,4,West,Los Angeles, CA
+Earnin,senior data scientist,5,West,Palo Alto, CA
+Bill.com,senior data scientist,5,West,Palo Alto, CA
+Sleep Number Corporation,data scientist,5,West,San Jose, CA
+Northrop Grumman,senior data scientist,3,West,Monterey, CA
+INgroovesMusicGroup,data scientist,0,West,Los Angeles, CA
+CyberCube Analytics,data scientist,0,West,San Francisco, CA
+Companion Medical Inc.,data scientist,0,West,San Diego, CA
+Ranker,data scientist,5,West,Los Angeles, CA
+Freedom Financial Network,lead data scientist,5,West,San Mateo, CA
+"ViaSat, Inc.",senior data scientist,5,West,San Diego, CA
+New Digital IT Inc.,data scientist,0,West,Culver City, CA
+Clarify Health Solutions,data scientist,5,West,San Francisco, CA
+Glassdoor,lead data scientist,4,West,San Francisco, CA
+CSAA Insurance Group,data scientist,5,West,Walnut Creek, CA
+Disney Streaming Services,lead data scientist,5,West,San Francisco, CA
+Tinder,data scientist,5,West,West Hollywood, CA
+TrueAccord,data scientist,5,West,San Francisco, CA
+glitchAI,data scientist,0,West,Los Angeles, CA
+Raybeam,lead data scientist,2,West,Mountain View, CA
+ASML,data scientist,5,West,San Jose, CA
+"Scale AI, Inc.",data scientist,0,West,San Francisco, CA
+Jobot,senior data scientist,0,West,San Jose, CA
+"Turnitin, LLC",senior data scientist,5,West,Oakland, CA
+Kforce,data scientist,0,West,Walnut Creek, CA
+Agari,data scientist,5,West,Foster City, CA
+Northrop Grumman,principal data scientist,5,West,Redondo Beach, CA
+Punchh,senior data scientist,0,West,San Mateo, CA
+Earnin,senior staff data scientist,5,West,Palo Alto, CA
+Esurance,lead data scientist,5,West,San Francisco, CA
+DISH,data scientist,0,West,Foster City, CA
+Gilead Sciences,senior data scientist manager,5,West,Foster City, CA
+ASML,data scientist,5,West,San Diego, CA
+Coffee Meets Bagel,senior data scientist,5,West,San Francisco, CA
+Shell,senior data scientist,2,West,San Francisco, CA
+"Edison Software, Inc.",data scientist,0,West,San Jose, CA
+Atlassian,senior data scientist,5,West,Mountain View, CA
+Course Hero,senior data scientist,5,West,Redwood City, CA
+"Retail Solutions, Inc.",data scientist,4,West,San Jose, CA
+Mobi TV,data scientist,0,West,Emeryville, CA
+CyberCoders,data scientist,0,West,Burbank, CA
+Under Armour,senior data scientist,1,West,San Francisco, CA
+MobiTV,data scientist,5,West,Emeryville, CA
+Lorven Technologies Inc,data scientist,0,West,Santa Clara, CA
+Faire,lead data scientist,5,West,San Francisco, CA
+Adroit Resources,data scientist,0,West,Santa Clara, CA
+"Guideline, Inc.",senior data scientist,1,West,San Mateo, CA
+Walt Disney Co.,lead data scientist,5,West,San Francisco, CA
+Sense 360,data scientist,0,West,Culver City, CA
+Esri,data scientist,5,West,Redlands, CA
+Credit Karma,senior data scientist,5,West,San Francisco, CA
+CircleUp,senior data scientist,4,West,San Francisco, CA
+Intuit,senior data scientist,5,West,Mountain View, CA
+TECHNOCRAFT Solutions,data scientist,0,West,San Ramon, CA
+Cypress HCM,data scientist,2,West,San Francisco, CA
+"Conch Technologies, Inc",data scientist,0,West,Sunnyvale, CA
+Gayathri's Sandbox,data scientist,0,West,Menlo Park, CA
+Bind Benefits,data scientist,0,West,San Francisco, CA
+GoodRx,senior data scientist,5,West,Santa Monica, CA
+AvantStay,data scientist,4,West,Los Angeles, CA
+Walmart,data scientist intern,5,West,San Bruno, CA
+V Group Inc.,data scientist,0,West,Northridge, CA
+LendingHome,senior data scientist,6,West,San Francisco, CA
+Walmart eCommerce,staff data scientist,5,West,Sunnyvale, CA
+NextRoll,senior data scientist,5,West,San Francisco, CA
+Viacom,senior data scientist,5,West,Hollywood, CA
+Earnin,senior data scientist,5,West,Palo Alto, CA
+VideoAmp,data scientist,4,West,Los Angeles, CA
+Amazon,data scientist,5,West,Sunnyvale, CA
+Bill.com,senior data scientist,5,West,Palo Alto, CA
+Sleep Number Corporation,data scientist,5,West,San Jose, CA
+Northrop Grumman,senior data scientist,3,West,Monterey, CA
+Genomic Health,data scientist,5,West,Redwood City, CA
+Alignment Healthcare,data scientist,5,West,Orange, CA
+INgroovesMusicGroup,data scientist,0,West,Los Angeles, CA
+CyberCube Analytics,data scientist,0,West,San Francisco, CA
+Ranker,data scientist,5,West,Los Angeles, CA
+Companion Medical Inc.,data scientist,0,West,San Diego, CA
+Freedom Financial Network,lead data scientist,5,West,San Mateo, CA
+"ViaSat, Inc.",senior data scientist,5,West,San Diego, CA
+New Digital IT Inc.,data scientist,0,West,Culver City, CA
+JM Eagle,data scientist,5,West,Los Angeles, CA
+Clarify Health Solutions,data scientist,5,West,San Francisco, CA
+CSAA Insurance Group,data scientist,5,West,Walnut Creek, CA
+A³ by Airbus,data scientist,0,West,Sunnyvale, CA
+Disney Streaming Services,lead data scientist,5,West,San Francisco, CA
+Glassdoor,lead data scientist,4,West,San Francisco, CA
+Canopy Health,data scientist,0,West,Emeryville, CA
+Bill.com,data scientist,5,West,Palo Alto, CA
+Driscoll's,senior data scientist,5,West,Watsonville, CA
+605,senior data scientist,0,West,Pasadena, CA
+Southern California Edison,data scientist,5,West,Rosemead, CA
+Bainom Inc.,data scientist,0,West,San Francisco, CA
+Scribd,senior data scientist,5,West,San Francisco, CA
+Migo,senior data scientist,0,West,San Francisco, CA
+Thumbtack,senior data scientist,5,West,San Francisco, CA
+glitchAI,data scientist,0,West,Los Angeles, CA
+Confie Insurance Group Holdings,data scientist,5,West,Huntington Beach, CA
+Jobot,data scientist director,0,West,San Francisco, CA
+Workday,senior data scientist,5,West,Pleasanton, CA
+Trabus Technologies,data scientist,0,West,San Diego, CA
+ASML,data scientist,5,West,San Jose, CA
+Jobot,data scientist,0,West,Emeryville, CA
+W2O,senior data scientist director,5,West,San Francisco, CA
+Age of Learning,data scientist,5,West,Glendale, CA
+Envision LLC,data scientist,1,West,San Francisco, CA
+Auto Club of Southern California,lead data scientist,5,West,Costa Mesa, CA
+"Scale AI, Inc.",data scientist,0,West,San Francisco, CA
+TRM Labs,data scientist,0,West,San Francisco, CA
+APN Software Services Inc.,data scientist,0,West,San Francisco, CA
+Jobot,senior data scientist,0,West,San Jose, CA
+Allstate,senior data scientist,3,West,Menlo Park, CA
+Sage Intacct,principal data scientist,3,West,San Francisco, CA
+"Turnitin, LLC",senior data scientist,5,West,Oakland, CA
+Genentech,senior data scientist,5,West,South San Francisco, CA
+Pfizer,data scientist manager,5,West,La Jolla, CA
+UCLA Health,senior data scientist,5,West,Los Angeles, CA
+Niantic,data scientist,0,West,Culver City, CA
+Nurx,data scientist,5,West,San Francisco, CA
+Punchh,senior data scientist,0,West,San Mateo, CA
+Northrop Grumman,principal data scientist,5,West,Redondo Beach, CA
+Cylance Inc.,senior data scientist,5,West,Irvine, CA
+Memphis Meats,senior data scientist,1,West,Berkeley, CA
+Earnin,senior staff data scientist,5,West,Palo Alto, CA
+Pfizer,data scientist,5,West,La Jolla, CA
+Acorns,data scientist,5,West,Irvine, CA
+Fanatics,senior data scientist,5,West,San Mateo, CA
+Esurance,lead data scientist,5,West,San Francisco, CA
+DISH,data scientist,0,West,Foster City, CA
+Mattson Resources,senior data scientist,0,West,San Jose, CA
+NerdWallet,senior staff data scientist,5,West,San Francisco, CA
+Strivr,senior data scientist,5,West,Menlo Park, CA
+Gilead Sciences,senior data scientist manager,5,West,Foster City, CA
+Wealthfront,senior data scientist,5,West,Palo Alto, CA
+CyberCoders,data scientist,1,West,San Jose, CA
+Pacific Gas And Electric Company,data scientist,0,West,San Francisco, CA
+Presbyterian Healthcare Services,data analyst,0,Midwest,Chicago, IL
+AXA Insurance plc,data analyst,2,Midwest,Chicago, IL
+AXA Advisors,data analyst,3,Midwest,Chicago, IL
+Ecolab,data scientist,5,Midwest,Naperville, IL
+American Family Insurance,data scientist,3,Midwest,Chicago, IL
+CNA,data scientist,5,Midwest,Chicago, IL
+Northrop Grumman,data scientist,5,Midwest,Rolling Meadows, IL
+Press Ganey,data scientist,5,Midwest,Chicago, IL
+Centro,associate data scientist,5,Midwest,Chicago, IL
+Spectrum Communications and Consulting,data scientist,5,Midwest,Chicago, IL
+HCSC,data scientist,5,Midwest,Chicago, IL
+Strike Social,entry level data scientist,5,Midwest,Chicago, IL
+IBM,entry level data scientist,5,Midwest,Chicago, IL
+h2o.ai,data scientist,1,Midwest,Chicago, IL
+Evolent Health,entry level data scientist,5,Midwest,Chicago, IL
+Allstate,data scientist,4,Midwest,Northbrook, IL
+Seen by Indeed,data scientist,0,Midwest,Chicago, IL
+TransUnion,senior data scientist,5,Midwest,Chicago, IL
+PwC,data scientist,4,Midwest,Chicago, IL
+Paylocity,data scientist intern,5,Midwest,Schaumburg, IL
+Underwriters Laboratories,senior data scientist,5,Midwest,Chicago, IL
+Pegasus Knowledge Solutions,junior data scientist,4,Midwest,Schaumburg, IL
+Concurrency,associate data scientist,0,Midwest,Chicago, IL
+University of Chicago ,data scientist,5,Midwest,Chicago, IL
+Amazon,data scientist,5,Midwest,Chicago, IL
+Vyaire Medical,data scientist,0,Midwest,Mettawa, IL
+360I,associate data scientist,5,Midwest,Chicago, IL
+1-800-Flowers.com,data scientist,2,Midwest,Melrose Park, IL
+Uptake,data scientist,5,Midwest,Chicago, IL
+Conversant,data scientist,3,Midwest,Chicago, IL
+Nielsen,data scientist,5,Midwest,Chicago, IL
+Univar,data scientist,5,Midwest,Downers Grove, IL
+Joe Fresh,data scientist,0,Midwest,University, IL
+Precima,data scientist,3,Midwest,Chicago, IL
+Affect X Technologies,data scientist,0,Midwest,Chicago, IL
+Stryker,data scientist,5,Midwest,Chicago, IL
+Fractal Analytics,senior data scientist,3,Midwest,Chicago, IL
+Spectrum Communications and Consulting,data scientist,5,Midwest,Chicago, IL
+Press Ganey,data scientist,5,Midwest,Chicago, IL
+Hunter International,data scientist,0,Midwest,Lisle, IL
+The Climate Corporation,data scientist,1,Midwest,Chicago, IL
+Pharmacy Investigators & Consultant,data scientist,0,Midwest,Lake Zurich, IL
+Modulus Consulting LLC,data scientist,0,Midwest,Crystal Lake, IL
+Allstate Insurance Company,data scientist,0,Midwest,Northbrook, IL
+CyberCoders,data scientist,0,Midwest,Chicago, IL
+Aegis Media,associate data scientist,0,Midwest,Chicago, IL
+Oak Street Health,data scientist,5,Midwest,Chicago, IL
+Inspire11,data scientist,5,Midwest,Chicago, IL
+Tempus Labs,data scientist,5,Midwest,Chicago, IL
+Stratactico,data scientist,0,Midwest,Chicago, IL
+Two95 International Inc.,data scientist,0,Midwest,Chicago, IL
+Bayer,data scientist intern,1,Midwest,Champaign, IL
+Fetch Rewards,data scientist,1,Midwest,Chicago, IL
+Groupon,data scientist,5,Midwest,Chicago, IL
+Trunk Club,data scientist,5,Midwest,Chicago, IL
+Relayr,data scientist,0,Midwest,Chicago, IL
+Syngenta,data scientist,0,Midwest,Chicago, IL
+INX International Ink,data scientist,5,Midwest,Schaumburg, IL
+AbbVie,data scientist,5,Midwest,North Chicago, IL
+Syngenta Global,data scientist,0,Midwest,Chicago, IL
+CNA,data scientist,5,Midwest,Chicago, IL
+Centro,associate data scientist,5,Midwest,Chicago, IL
+horizonpharma,data scientist,0,Midwest,Lake Forest, IL
+Allstate,data scientist,3,Midwest,Chicago, IL
+Pegasus Knowledge Solutions,data scientist intern,4,Midwest,Schaumburg, IL
+McDonald's,data scientist,5,Midwest,Chicago, IL
+Civis Analytics,data scientist intern,5,Midwest,Chicago, IL
+CultureFit Technology Staffing,data scientist,3,Midwest,Chicago, IL
+Sears,data scientist,5,Midwest,Hoffman Estates, IL
+Pegasus Knowledge Solutions,data scientist,0,Midwest,Arlington Heights, IL
+Motorola Solutions,data scientist intern,6,Midwest,Chicago, IL
+"TMP Worldwide Advertising & Communications, LLC",data scientist,0,Midwest,Chicago, IL
+horizonpharma,data scientist,0,Midwest,Lake Forest, IL
+NORC at the University of Chicago,data scientist,5,Midwest,Chicago, IL
+Loblaw ,data scientist,0,Midwest,University, IL
+Discover ,senior data scientist,5,Midwest,Riverwoods, IL
+US Foods,senior data scientist,5,Midwest,Rosemont, IL
+University of Illinois at Chicago,data scientist,5,Midwest,Chicago, IL
+Smith Hanley Associates,data scientist,0,Midwest,Evanston, IL
+Wolverine Trading,data scientist,5,Midwest,Chicago, IL
+ESPO Engineering Corp,data scientist,0,Midwest,Oak Brook, IL
+Civis Analytics,data scientist,5,Midwest,Chicago, IL
+CME Group,senior data scientist,5,Midwest,Chicago, IL
+Allstate,data scientist,4,Midwest,Northbrook, IL
+Caterpillar,data scientist,3,Midwest,Peoria, IL
+University of Illinois at Chicago,data scientist,0,Midwest,Chicago, IL
+Strata Decision Technology,data scientist,5,Midwest,Chicago, IL
+h2o.ai,data scientist,1,Midwest,Chicago, IL
+The Climate Corporation,data scientist,1,Midwest,Chicago, IL
+CVS Health,data scientist,5,Midwest,Northbrook, IL
+Allstate,data scientist,3,Midwest,Chicago, IL
+Allstate,data scientist,3,Midwest,Chicago, IL
+TMP WORLDWIDE,data scientist,5,Midwest,Chicago, IL
+Caterpillar,data scientist,5,Midwest,East Peoria, IL
+STATS,data scientist,5,Midwest,Chicago, IL
+Antuit,senior data scientist,0,Midwest,Chicago, IL
+SAP,data scientist,5,Midwest,Chicago, IL
+"Prenosis, Inc.",data scientist,0,Midwest,Chicago, IL
+LMI,data scientist,0,Midwest,Scott AFB, IL
+Nielsen,lead data scientist,5,Midwest,Chicago, IL
+HCSC,senior data scientist,6,Midwest,Chicago, IL
+Grainger,senior data scientist,5,Midwest,Chicago, IL
+Nielsen,data scientist,5,Midwest,Chicago, IL
+STATS PERFORM,data scientist,0,Midwest,Chicago, IL
+IBM,data scientist,5,Midwest,Chicago, IL
+HCSC,data scientist,5,Midwest,Chicago, IL
+TransUnion,senior data scientist,5,Midwest,Chicago, IL
+MATRIX Resources,senior data scientist,0,Midwest,Downers Grove, IL
+Echo Global Logistics,data scientist,5,Midwest,Chicago, IL
+BMO Harris Bank,senior data scientist,5,Midwest,Chicago, IL
+Nielsen,senior data scientist,5,Midwest,Chicago, IL
+Pegasus Knowledge Solutions,data scientist,5,Midwest,Chicago, IL
+Allstate,senior data scientist,5,Midwest,Chicago, IL
+Ascent RegTech,senior data scientist,0,Midwest,Chicago, IL
+1871 Member Companies,data scientist,0,Midwest,Chicago, IL
+Civis Analytics,data scientist,5,Midwest,Chicago, IL
+PwC,data scientist,4,Midwest,Chicago, IL
+Underwriters Laboratories,senior data scientist,5,Midwest,Chicago, IL
+McKinsey & Company,senior data scientist,5,Midwest,Chicago, IL
+United Technologies Corporation,senior data scientist,5,Midwest,Rockford, IL
+Precima,senior data scientist,4,Midwest,Chicago, IL
+Tempus Labs,senior data scientist,5,Midwest,Chicago, IL
+GoHealth,senior data scientist,5,Midwest,Chicago, IL
+The Climate Corporation,senior data scientist,1,Midwest,Chicago, IL
+Crowe,senior data scientist,5,Midwest,Chicago, IL
+Conversant,senior data scientist,5,Midwest,Chicago, IL
+Big Cloud,data scientist,0,Midwest,Chicago, IL
+Amazon,senior data scientist,5,Midwest,Chicago, IL
+Cleaver-Brooks,senior data scientist,0,Midwest,Elk Grove Village, IL
+"Grubhub Holdings, Inc.",lead data scientist,0,Midwest,Chicago, IL
+Verisk Analytics,senior data scientist,1,Midwest,Buffalo Grove, IL
+360pi,senior data scientist,0,Midwest,Chicago, IL
+"Unicorn Technologies, LLC",senior data scientist,0,Midwest,Chicago, IL
+Kemper,senior data scientist,5,Midwest,Chicago, IL
+IBM,senior data scientist intern,5,Midwest,Chicago, IL
+Group O,senior data scientist,0,Midwest,Chicago, IL
+Ecolab,data scientist,5,Midwest,Naperville, IL
+American Family Insurance,data scientist,3,Midwest,Chicago, IL
+CNA,data scientist,5,Midwest,Chicago, IL
+Northrop Grumman,data scientist,5,Midwest,Rolling Meadows, IL
+Press Ganey,data scientist,5,Midwest,Chicago, IL
+Centro,associate data scientist,5,Midwest,Chicago, IL
+Spectrum Communications and Consulting,data scientist,5,Midwest,Chicago, IL
+HCSC,data scientist,5,Midwest,Chicago, IL
+Strike Social,entry level data scientist,5,Midwest,Chicago, IL
+IBM,entry level data scientist,5,Midwest,Chicago, IL
+h2o.ai,data scientist,1,Midwest,Chicago, IL
+Evolent Health,entry level data scientist,5,Midwest,Chicago, IL
+Allstate,data scientist,4,Midwest,Northbrook, IL
+Seen by Indeed,data scientist,0,Midwest,Chicago, IL
+TransUnion,senior data scientist,5,Midwest,Chicago, IL
+PwC,data scientist,4,Midwest,Chicago, IL
+Paylocity,data scientist intern,5,Midwest,Schaumburg, IL
+Underwriters Laboratories,senior data scientist,5,Midwest,Chicago, IL
+Pegasus Knowledge Solutions,junior data scientist,4,Midwest,Schaumburg, IL
+Concurrency,associate data scientist,0,Midwest,Chicago, IL
+University of Chicago ,data scientist,5,Midwest,Chicago, IL
+Amazon,data scientist,5,Midwest,Chicago, IL
+Vyaire Medical,data scientist,0,Midwest,Mettawa, IL
+360I,associate data scientist,5,Midwest,Chicago, IL
+1-800-Flowers.com,data scientist,2,Midwest,Melrose Park, IL
+Uptake,data scientist,5,Midwest,Chicago, IL
+Conversant,data scientist,3,Midwest,Chicago, IL
+Nielsen,data scientist,5,Midwest,Chicago, IL
+Univar,data scientist,5,Midwest,Downers Grove, IL
+Joe Fresh,data scientist,0,Midwest,University, IL
+Precima,data scientist,3,Midwest,Chicago, IL
+Affect X Technologies,data scientist,0,Midwest,Chicago, IL
+Stryker,data scientist,5,Midwest,Chicago, IL
+Fractal Analytics,senior data scientist,3,Midwest,Chicago, IL
+Spectrum Communications and Consulting,data scientist,5,Midwest,Chicago, IL
+Press Ganey,data scientist,5,Midwest,Chicago, IL
+Hunter International,data scientist,0,Midwest,Lisle, IL
+The Climate Corporation,data scientist,1,Midwest,Chicago, IL
+Pharmacy Investigators & Consultant,data scientist,0,Midwest,Lake Zurich, IL
+Modulus Consulting LLC,data scientist,0,Midwest,Crystal Lake, IL
+Allstate Insurance Company,data scientist,0,Midwest,Northbrook, IL
+CyberCoders,data scientist,0,Midwest,Chicago, IL
+Aegis Media,associate data scientist,0,Midwest,Chicago, IL
+Oak Street Health,data scientist,5,Midwest,Chicago, IL
+Inspire11,data scientist,5,Midwest,Chicago, IL
+Tempus Labs,data scientist,5,Midwest,Chicago, IL
+Stratactico,data scientist,0,Midwest,Chicago, IL
+Two95 International Inc.,data scientist,0,Midwest,Chicago, IL
+Bayer,data scientist intern,1,Midwest,Champaign, IL
+Fetch Rewards,data scientist,1,Midwest,Chicago, IL
+Groupon,data scientist,5,Midwest,Chicago, IL
+Trunk Club,data scientist,5,Midwest,Chicago, IL
+Relayr,data scientist,0,Midwest,Chicago, IL
+Syngenta,data scientist,0,Midwest,Chicago, IL
+INX International Ink,data scientist,5,Midwest,Schaumburg, IL
+AbbVie,data scientist,5,Midwest,North Chicago, IL
+Syngenta Global,data scientist,0,Midwest,Chicago, IL
+CNA,data scientist,5,Midwest,Chicago, IL
+Centro,associate data scientist,5,Midwest,Chicago, IL
+horizonpharma,data scientist,0,Midwest,Lake Forest, IL
+Allstate,data scientist,3,Midwest,Chicago, IL
+Pegasus Knowledge Solutions,data scientist intern,4,Midwest,Schaumburg, IL
+McDonald's,data scientist,5,Midwest,Chicago, IL
+Civis Analytics,data scientist intern,5,Midwest,Chicago, IL
+CultureFit Technology Staffing,data scientist,3,Midwest,Chicago, IL
+Sears,data scientist,5,Midwest,Hoffman Estates, IL
+Pegasus Knowledge Solutions,data scientist,0,Midwest,Arlington Heights, IL
+Motorola Solutions,data scientist intern,6,Midwest,Chicago, IL
+"TMP Worldwide Advertising & Communications, LLC",data scientist,0,Midwest,Chicago, IL
+horizonpharma,data scientist,0,Midwest,Lake Forest, IL
+NORC at the University of Chicago,data scientist,5,Midwest,Chicago, IL
+Loblaw ,data scientist,0,Midwest,University, IL
+Discover ,senior data scientist,5,Midwest,Riverwoods, IL
+US Foods,senior data scientist,5,Midwest,Rosemont, IL
+University of Illinois at Chicago,data scientist,5,Midwest,Chicago, IL
+Smith Hanley Associates,data scientist,0,Midwest,Evanston, IL
+Wolverine Trading,data scientist,5,Midwest,Chicago, IL
+ESPO Engineering Corp,data scientist,0,Midwest,Oak Brook, IL
+Civis Analytics,data scientist,5,Midwest,Chicago, IL
+CME Group,senior data scientist,5,Midwest,Chicago, IL
+Allstate,data scientist,4,Midwest,Northbrook, IL
+Caterpillar,data scientist,3,Midwest,Peoria, IL
+University of Illinois at Chicago,data scientist,0,Midwest,Chicago, IL
+Strata Decision Technology,data scientist,5,Midwest,Chicago, IL
+h2o.ai,data scientist,1,Midwest,Chicago, IL
+The Climate Corporation,data scientist,1,Midwest,Chicago, IL
+CVS Health,data scientist,5,Midwest,Northbrook, IL
+Allstate,data scientist,3,Midwest,Chicago, IL
+Allstate,data scientist,3,Midwest,Chicago, IL
+TMP WORLDWIDE,data scientist,5,Midwest,Chicago, IL
+Caterpillar,data scientist,5,Midwest,East Peoria, IL
+STATS,data scientist,5,Midwest,Chicago, IL
+Antuit,senior data scientist,0,Midwest,Chicago, IL
+SAP,data scientist,5,Midwest,Chicago, IL
+"Prenosis, Inc.",data scientist,0,Midwest,Chicago, IL
+LMI,data scientist,0,Midwest,Scott AFB, IL
+Nielsen,lead data scientist,5,Midwest,Chicago, IL
+HCSC,senior data scientist,6,Midwest,Chicago, IL
+Grainger,senior data scientist,5,Midwest,Chicago, IL
+Nielsen,data scientist,5,Midwest,Chicago, IL
+STATS PERFORM,data scientist,0,Midwest,Chicago, IL
+IBM,data scientist,5,Midwest,Chicago, IL
+HCSC,data scientist,5,Midwest,Chicago, IL
+TransUnion,senior data scientist,5,Midwest,Chicago, IL
+MATRIX Resources,senior data scientist,0,Midwest,Downers Grove, IL
+Echo Global Logistics,data scientist,5,Midwest,Chicago, IL
+BMO Harris Bank,senior data scientist,5,Midwest,Chicago, IL
+Nielsen,senior data scientist,5,Midwest,Chicago, IL
+Pegasus Knowledge Solutions,data scientist,5,Midwest,Chicago, IL
+Allstate,senior data scientist,5,Midwest,Chicago, IL
+Ascent RegTech,senior data scientist,0,Midwest,Chicago, IL
+1871 Member Companies,data scientist,0,Midwest,Chicago, IL
+Civis Analytics,data scientist,5,Midwest,Chicago, IL
+PwC,data scientist,4,Midwest,Chicago, IL
+Underwriters Laboratories,senior data scientist,5,Midwest,Chicago, IL
+McKinsey & Company,senior data scientist,5,Midwest,Chicago, IL
+United Technologies Corporation,senior data scientist,5,Midwest,Rockford, IL
+Precima,senior data scientist,4,Midwest,Chicago, IL
+Tempus Labs,senior data scientist,5,Midwest,Chicago, IL
+GoHealth,senior data scientist,5,Midwest,Chicago, IL
+The Climate Corporation,senior data scientist,1,Midwest,Chicago, IL
+Crowe,senior data scientist,5,Midwest,Chicago, IL
+Conversant,senior data scientist,5,Midwest,Chicago, IL
+Big Cloud,data scientist,0,Midwest,Chicago, IL
+Amazon,senior data scientist,5,Midwest,Chicago, IL
+Cleaver-Brooks,senior data scientist,0,Midwest,Elk Grove Village, IL
+"Grubhub Holdings, Inc.",lead data scientist,0,Midwest,Chicago, IL
+Verisk Analytics,senior data scientist,1,Midwest,Buffalo Grove, IL
+360pi,senior data scientist,0,Midwest,Chicago, IL
+"Unicorn Technologies, LLC",senior data scientist,0,Midwest,Chicago, IL
+Kemper,senior data scientist,5,Midwest,Chicago, IL
+IBM,senior data scientist intern,5,Midwest,Chicago, IL
+Group O,senior data scientist,0,Midwest,Chicago, IL
+Presbyterian Healthcare Services,data analyst,0,Midwest,Indianapolis, IN
+DMC Insurance Inc.,data analyst,0,Midwest,Fishers, IN
+Pinnacle Partners,data analyst,1,Midwest,Indianapolis, IN
+Indiana University,data analyst,5,Midwest,Indianapolis, IN
+analytic.li,data analyst,0,Midwest,Indianapolis, IN
+Deaconess Health System,data analyst,5,Midwest,Evansville, IN
+dinaliC,data analyst,0,Midwest,Warsaw, IN
+Parkview Health,data analyst,5,Midwest,Fort Wayne, IN
+Expedite Inc,data analyst,0,Midwest,Columbus, IN
+Kimball Electronics,data analyst,2,Midwest,Indianapolis, IN
+Platinum Group,data analyst,0,Midwest,Carmel, IN
+Expedite Inc,data analyst,0,Midwest,Indianapolis, IN
+Community Health Network,data analyst,4,Midwest,Indianapolis, IN
+TriMedx,data analyst,5,Midwest,Indianapolis, IN
+Forward Air,data analyst,1,Midwest,Indianapolis, IN
+State of Indiana,data analyst,4,Midwest,Indianapolis, IN
+Amiga Informatics,data analyst,0,Midwest,Carmel, IN
+Amiga Informatics,data analyst,0,Midwest,Carmel, IN
+Purdue University,data analyst,5,Midwest,West Lafayette, IN
+Pinnacle Partners,data analyst,1,Midwest,Indianapolis, IN
+Midwest Eye Consultants,data analyst,0,Midwest,Kokomo, IN
+Vespa Group LLC,senior data analyst,0,Midwest,Indianapolis, IN
+State of Indiana,data analyst,4,Midwest,Indianapolis, IN
+Finish Line,data analyst,5,Midwest,Indianapolis, IN
+Byrider,data analyst,5,Midwest,Carmel, IN
+CFS - Technology,data analyst,0,Midwest,La Porte, IN
+CoventBridge Group,data analyst,0,Midwest,Indianapolis, IN
+SILVERLINK TECHNOLOGIES LLC,business data analyst,0,Midwest,Indianapolis, IN
+Kiliuda Consulting,data analyst,0,Midwest,Crane, IN
+Lincoln Financial,senior data analyst,1,Midwest,Indianapolis, IN
+My Credit Union Job,data analyst,0,Midwest,Indianapolis, IN
+CNO Financial Group,senior data analyst,5,Midwest,Carmel, IN
+Saicon Consultants Inc,data analyst,0,Midwest,Indianapolis, IN
+Forward Air Solutions,data analyst,0,Midwest,Indianapolis, IN
+Clear Object,data scientist,0,Midwest,Fishers, IN
+DTN,data scientist,0,Midwest,West Lafayette, IN
+Aunalytics,data scientist,0,Midwest,South Bend, IN
+DataSprouts,junior data scientist,0,Midwest,Bloomington, IN
+Praxair,data scientist,5,Midwest,Indianapolis, IN
+Parkview Health,data scientist,5,Midwest,Fort Wayne, IN
+Corteva Agriscience,data scientist,5,Midwest,Indianapolis, IN
+Managed Health Services IN,data scientist,3,Midwest,Indianapolis, IN
+"KENDALL & DAVIS, INC.",data scientist,0,Midwest,Fort Wayne, IN
+Purdue University,data scientist,4,Midwest,West Lafayette, IN
+OneAmerica,data scientist,5,Midwest,Indianapolis, IN
+Cognizant US Corporation,data scientist,5,Midwest,Indianapolis, IN
+Clear Object,data scientist,0,Midwest,Fishers, IN
+Pinnacle Partners,data scientist,1,Midwest,Indianapolis, IN
+"Epiq Systems, Inc.",data scientist,0,Midwest,Oak Park, IN
+"Quest Solutions, Inc.",data scientist,0,Midwest,Indianapolis, IN
+MetroStar Systems,data scientist,0,Midwest,Bloomington, IN
+KSM Consulting,senior data scientist,5,Midwest,Indianapolis, IN
+Centene Coproration,data scientist,0,Midwest,Indianapolis, IN
+Deloitte,senior data scientist,5,Midwest,Indianapolis, IN
+TriMedx,staff data scientist,5,Midwest,Indianapolis, IN
+Hunter International,data scientist,0,Midwest,West Lafayette, IN
+Corteva Agriscience,senior data scientist,5,Midwest,Indianapolis, IN
+Corteva Agriscience,senior phd data scientist,5,Midwest,Indianapolis, IN
+Corteva Agriscience,senior phd data scientist,5,Midwest,Indianapolis, IN
+Corteva Agriscience,phd data scientist,5,Midwest,Indianapolis, IN
+Corteva Agriscience,senior data scientist,5,Midwest,Indianapolis, IN
+Corteva Agriscience,senior phd data scientist,5,Midwest,Indianapolis, IN
+Corteva Agriscience,senior phd data scientist,5,Midwest,Indianapolis, IN
+Corteva Agriscience,phd data scientist,5,Midwest,Indianapolis, IN
+Clear Object,data scientist,0,Midwest,Fishers, IN
+DTN,data scientist,0,Midwest,West Lafayette, IN
+Aunalytics,data scientist,0,Midwest,South Bend, IN
+DataSprouts,junior data scientist,0,Midwest,Bloomington, IN
+Praxair,data scientist,5,Midwest,Indianapolis, IN
+Parkview Health,data scientist,5,Midwest,Fort Wayne, IN
+Corteva Agriscience,data scientist,5,Midwest,Indianapolis, IN
+Managed Health Services IN,data scientist,3,Midwest,Indianapolis, IN
+"KENDALL & DAVIS, INC.",data scientist,0,Midwest,Fort Wayne, IN
+Purdue University,data scientist,4,Midwest,West Lafayette, IN
+OneAmerica,data scientist,5,Midwest,Indianapolis, IN
+Cognizant US Corporation,data scientist,5,Midwest,Indianapolis, IN
+Clear Object,data scientist,0,Midwest,Fishers, IN
+Pinnacle Partners,data scientist,1,Midwest,Indianapolis, IN
+"Epiq Systems, Inc.",data scientist,0,Midwest,Oak Park, IN
+"Quest Solutions, Inc.",data scientist,0,Midwest,Indianapolis, IN
+MetroStar Systems,data scientist,0,Midwest,Bloomington, IN
+KSM Consulting,senior data scientist,5,Midwest,Indianapolis, IN
+Centene Coproration,data scientist,0,Midwest,Indianapolis, IN
+Deloitte,senior data scientist,5,Midwest,Indianapolis, IN
+TriMedx,staff data scientist,5,Midwest,Indianapolis, IN
+Hunter International,data scientist,0,Midwest,West Lafayette, IN
+Corteva Agriscience,senior data scientist,5,Midwest,Indianapolis, IN
+Corteva Agriscience,senior phd data scientist,5,Midwest,Indianapolis, IN
+Corteva Agriscience,senior phd data scientist,5,Midwest,Indianapolis, IN
+Corteva Agriscience,phd data scientist,5,Midwest,Indianapolis, IN
+Corteva Agriscience,senior data scientist,5,Midwest,Indianapolis, IN
+Corteva Agriscience,senior phd data scientist,5,Midwest,Indianapolis, IN
+Corteva Agriscience,senior phd data scientist,5,Midwest,Indianapolis, IN
+Corteva Agriscience,phd data scientist,5,Midwest,Indianapolis, IN
+UFG Insurance,associate data scientist,5,Midwest,Cedar Rapids, IA
+Corteva Agriscience,data scientist,5,Midwest,Johnston, IA
+Leepfrog Technologies,data scientist,0,Midwest,Coralville, IA
+Amazon,data scientist,1,Midwest,Des Moines, IA
+Berkley,data scientist intern,2,Midwest,Urbandale, IA
+EMC Insurance,assistant data scientist,4,Midwest,Des Moines, IA
+Continental Western Group,data scientist intern,1,Midwest,Urbandale, IA
+EMC Insurance Group Inc.,senior data scientist,4,Midwest,Des Moines, IA
+Wells Fargo,senior data scientist,5,Midwest,Des Moines, IA
+UFG Insurance,associate data scientist,5,Midwest,Cedar Rapids, IA
+Corteva Agriscience,data scientist,5,Midwest,Johnston, IA
+Leepfrog Technologies,data scientist,0,Midwest,Coralville, IA
+Amazon,data scientist,1,Midwest,Des Moines, IA
+Berkley,data scientist intern,2,Midwest,Urbandale, IA
+EMC Insurance,assistant data scientist,4,Midwest,Des Moines, IA
+Continental Western Group,data scientist intern,1,Midwest,Urbandale, IA
+EMC Insurance Group Inc.,senior data scientist,4,Midwest,Des Moines, IA
+Wells Fargo,senior data scientist,5,Midwest,Des Moines, IA
+HCA Midwest Health,senior data analyst,5,Midwest,Overland Park, KS
+CyberCoders,senior data scientist,0,Midwest,Leawood, KS
+Deegit Inc,data scientist,0,Midwest,Independence, KS
+GPS Staffing,data scientist,1,Midwest,Overland Park, KS
+Telnet INC,data scientist,0,Midwest,Overland Park, KS
+Avcend Inc,data scientist,0,Midwest,Overland Park, KS
+Garmin,senior data scientist,5,Midwest,Olathe, KS
+Avcend Inc,data scientist,0,Midwest,Overland Park, KS
+Cleaver-Brooks,senior data scientist,0,Midwest,Lenexa, KS
+"Avacend, Inc.",data scientist,0,Midwest,Overland Park, KS
+"Avacend, Inc.",data scientist,0,Midwest,Overland Park, KS
+CyberCoders,senior data scientist,0,Midwest,Leawood, KS
+Deegit Inc,data scientist,0,Midwest,Independence, KS
+GPS Staffing,data scientist,1,Midwest,Overland Park, KS
+Telnet INC,data scientist,0,Midwest,Overland Park, KS
+Avcend Inc,data scientist,0,Midwest,Overland Park, KS
+Garmin,senior data scientist,5,Midwest,Olathe, KS
+Avcend Inc,data scientist,0,Midwest,Overland Park, KS
+Cleaver-Brooks,senior data scientist,0,Midwest,Lenexa, KS
+"Avacend, Inc.",data scientist,0,Midwest,Overland Park, KS
+"Avacend, Inc.",data scientist,0,Midwest,Overland Park, KS
+Optimal,data analyst,0,Midwest,Dearborn, MI
+Presbyterian Healthcare Services,data analyst,0,Midwest,Detroit, MI
+EPITEC,data analyst,5,Midwest,Dearborn, MI
+Auto-Owners Insurance,entry level data analyst,5,Midwest,Lansing, MI
+Evolutyz,data analyst,0,Midwest,Ann Arbor, MI
+Optimal,data analyst,0,Midwest,Dearborn, MI
+Quicken Loans,data analyst,5,Midwest,Detroit, MI
+Quicken Loans,data analyst,5,Midwest,Detroit, MI
+Domino's Pizza,data analyst,0,Midwest,Ann Arbor, MI
+Domino's Pizza,data analyst,5,Midwest,Ann Arbor, MI
+RevSpring,data analyst,4,Midwest,Wixom, MI
+Covenant Eyes,data scientist,5,Midwest,Owosso, MI
+Clinc,data scientist,5,Midwest,Ann Arbor, MI
+IBM,entry level data scientist,5,Midwest,Lansing, MI
+Ford Motor Company,data scientist,5,Midwest,Dearborn, MI
+American Axle & Manufacturing,senior data scientist,3,Midwest,Southfield, MI
+Amazon,data scientist,5,Midwest,Detroit, MI
+DTE Energy,data scientist,5,Midwest,Detroit, MI
+University of Michigan,data scientist,5,Midwest,Ann Arbor, MI
+Aptiv,data scientist,1,Midwest,Allen Park, MI
+"Cogent IBS, Inc",data scientist,1,Midwest,Detroit, MI
+Censys,data scientist,0,Midwest,Ann Arbor, MI
+Advantage Resourcing,data scientist,1,Midwest,Dearborn, MI
+Ford Motor Company,data scientist,5,Midwest,Dearborn, MI
+Optimal,data scientist,0,Midwest,Dearborn, MI
+"DISYS - Digital Intelligence Systems, LLC",data scientist,0,Midwest,Auburn Hills, MI
+Trinity Health,data scientist,3,Midwest,Livonia, MI
+GM Financial,data scientist,4,Midwest,Detroit, MI
+AF Group,data scientist,4,Midwest,Lansing, MI
+Dyson,data scientist,1,Midwest,Ann Arbor, MI
+Engineering Technology Associates,data scientist,5,Midwest,Troy, MI
+OneMagnify,data scientist,0,Midwest,Dearborn, MI
+ITHAKA,data scientist,5,Midwest,Ann Arbor, MI
+Criteo,data scientist,5,Midwest,Ann Arbor, MI
+Quicken Loans,data scientist,4,Midwest,Detroit, MI
+KBTS Technologies Inc,data scientist,0,Midwest,Detroit, MI
+Daymon Worldwide,associate data scientist,1,Midwest,Grand Rapids, MI
+The Talent Advantage Group,data scientist,0,Midwest,Birmingham, MI
+American Axle & Manufacturing,senior data scientist,3,Midwest,Southfield, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+Optimal,data scientist,0,Midwest,Dearborn, MI
+Cybertech,data scientist,3,Midwest,Detroit, MI
+Advantage Solutions,associate data scientist,5,Midwest,Grand Rapids, MI
+Unified Tech Group Inc,data scientist,0,Midwest,Troy, MI
+Zoetis,data scientist,3,Midwest,Kalamazoo, MI
+Synergy Solutions,data scientist,0,Midwest,Detroit, MI
+AF Group,senior data scientist,5,Midwest,Lansing, MI
+Control Tec,data scientist,3,Midwest,Allen Park, MI
+FCA Fiat Chrysler Automobiles,data scientist,5,Midwest,Auburn Hills, MI
+IBM,data scientist intern,5,Midwest,Lansing, MI
+Optimal CAE,data scientist,1,Midwest,Dearborn, MI
+FCA Fiat Chrysler Automobiles,data scientist,5,Midwest,Detroit, MI
+XPO Logistics,senior data scientist,5,Midwest,Southfield, MI
+FCA Fiat Chrysler Automobiles,data scientist intern,5,Midwest,Detroit, MI
+FCA Fiat Chrysler Automobiles,data scientist,5,Midwest,Auburn Hills, MI
+Adam Kay Group,data scientist,0,Midwest,Saint Joseph, MI
+Fahrenheit IT,data scientist,0,Midwest,Southfield, MI
+Donatech Corporation,data scientist,0,Midwest,Dearborn, MI
+Amway Inc.,data scientist intern,5,Midwest,Ada, MI
+Datawatch,data scientist,0,Midwest,Troy, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+Ford Motor Company,data scientist,5,Midwest,Dearborn, MI
+Advantage Resourcing,data scientist,1,Midwest,Dearborn, MI
+OpenLogix Corporation,senior data scientist,1,Midwest,Detroit, MI
+Altair Engineering,data scientist,5,Midwest,Dearborn, MI
+Hagerty,senior data scientist,5,Midwest,Traverse City, MI
+IBM,data scientist,5,Midwest,Lansing, MI
+Optimal,data scientist,0,Midwest,Dearborn, MI
+Rock Connections,data scientist intern,5,Midwest,Detroit, MI
+Accident Funds,senior data scientist,5,Midwest,Lansing, MI
+Next Generation,data scientist,0,Midwest,Dearborn, MI
+Optimal,data scientist,0,Midwest,Dearborn, MI
+Youngsoft,data scientist,0,Midwest,Auburn Hills, MI
+Fast Switch,senior data scientist,0,Midwest,Southfield, MI
+Advantage Resourcing,data scientist,1,Midwest,Dearborn, MI
+Ford Motor Company,data scientist,5,Midwest,Dearborn, MI
+Altair,data scientist,0,Midwest,Dearborn, MI
+AF Group,data scientist intern,5,Midwest,Lansing, MI
+Ford Motor Company,data scientist,5,Midwest,Dearborn, MI
+Ford Motor Company,data scientist,5,Midwest,Dearborn, MI
+Optimal,data scientist,0,Midwest,Dearborn, MI
+"Airspace Link, Inc.",data scientist,0,Midwest,Detroit, MI
+V2Soft,data scientist,0,Midwest,Dearborn, MI
+PMC,data scientist,0,Midwest,Detroit, MI
+"Cogent IBS, Inc",senior data scientist,1,Midwest,Detroit, MI
+IBM,data scientist,5,Midwest,Lansing, MI
+Production Modeling Corporation,data scientist,0,Midwest,Auburn Hills, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+Openlogix Corporation,senior data scientist,1,Midwest,Detroit, MI
+Emergent Holdings,senior data scientist,0,Midwest,Lansing, MI
+V2Soft Inc.,senior data scientist,4,Midwest,Detroit, MI
+LLamasoft,principal data scientist,5,Midwest,Ann Arbor, MI
+OpTech,senior data scientist,5,Midwest,Detroit, MI
+Auto-Owners Insurance,experienced data scientist,5,Midwest,Lansing, MI
+DISYS,senior data scientist,1,Midwest,Detroit, MI
+Advantage Resourcing,data scientist,1,Midwest,Dearborn, MI
+HARMAN International,senior data scientist,5,Midwest,Novi, MI
+HARMAN International,senior data scientist,5,Midwest,Novi, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+Duo Security,senior data scientist,5,Midwest,Ann Arbor, MI
+Harman International Inds,senior data scientist,0,Midwest,Novi, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+TD Ameritrade,lead data scientist,2,Midwest,Ann Arbor, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+Incite Informatics,data scientist,0,Midwest,Northville, MI
+IBM,senior data scientist intern,5,Midwest,Lansing, MI
+"NovoDynamics, Inc.",data scientist,0,Midwest,Ann Arbor, MI
+Fast Switch,senior data scientist,0,Midwest,Southfield, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+Fast Switch,senior data scientist,0,Midwest,Southfield, MI
+Covenant Eyes,data scientist,5,Midwest,Owosso, MI
+Clinc,data scientist,5,Midwest,Ann Arbor, MI
+IBM,entry level data scientist,5,Midwest,Lansing, MI
+Ford Motor Company,data scientist,5,Midwest,Dearborn, MI
+American Axle & Manufacturing,senior data scientist,3,Midwest,Southfield, MI
+Amazon,data scientist,5,Midwest,Detroit, MI
+DTE Energy,data scientist,5,Midwest,Detroit, MI
+University of Michigan,data scientist,5,Midwest,Ann Arbor, MI
+Aptiv,data scientist,1,Midwest,Allen Park, MI
+"Cogent IBS, Inc",data scientist,1,Midwest,Detroit, MI
+Censys,data scientist,0,Midwest,Ann Arbor, MI
+Advantage Resourcing,data scientist,1,Midwest,Dearborn, MI
+Ford Motor Company,data scientist,5,Midwest,Dearborn, MI
+Optimal,data scientist,0,Midwest,Dearborn, MI
+"DISYS - Digital Intelligence Systems, LLC",data scientist,0,Midwest,Auburn Hills, MI
+Trinity Health,data scientist,3,Midwest,Livonia, MI
+GM Financial,data scientist,4,Midwest,Detroit, MI
+AF Group,data scientist,4,Midwest,Lansing, MI
+Dyson,data scientist,1,Midwest,Ann Arbor, MI
+Engineering Technology Associates,data scientist,5,Midwest,Troy, MI
+OneMagnify,data scientist,0,Midwest,Dearborn, MI
+ITHAKA,data scientist,5,Midwest,Ann Arbor, MI
+Criteo,data scientist,5,Midwest,Ann Arbor, MI
+Quicken Loans,data scientist,4,Midwest,Detroit, MI
+KBTS Technologies Inc,data scientist,0,Midwest,Detroit, MI
+Daymon Worldwide,associate data scientist,1,Midwest,Grand Rapids, MI
+The Talent Advantage Group,data scientist,0,Midwest,Birmingham, MI
+American Axle & Manufacturing,senior data scientist,3,Midwest,Southfield, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+Optimal,data scientist,0,Midwest,Dearborn, MI
+Cybertech,data scientist,3,Midwest,Detroit, MI
+Advantage Solutions,associate data scientist,5,Midwest,Grand Rapids, MI
+Unified Tech Group Inc,data scientist,0,Midwest,Troy, MI
+Zoetis,data scientist,3,Midwest,Kalamazoo, MI
+Synergy Solutions,data scientist,0,Midwest,Detroit, MI
+AF Group,senior data scientist,5,Midwest,Lansing, MI
+Control Tec,data scientist,3,Midwest,Allen Park, MI
+FCA Fiat Chrysler Automobiles,data scientist,5,Midwest,Auburn Hills, MI
+IBM,data scientist intern,5,Midwest,Lansing, MI
+Optimal CAE,data scientist,1,Midwest,Dearborn, MI
+FCA Fiat Chrysler Automobiles,data scientist,5,Midwest,Detroit, MI
+XPO Logistics,senior data scientist,5,Midwest,Southfield, MI
+FCA Fiat Chrysler Automobiles,data scientist intern,5,Midwest,Detroit, MI
+FCA Fiat Chrysler Automobiles,data scientist,5,Midwest,Auburn Hills, MI
+Adam Kay Group,data scientist,0,Midwest,Saint Joseph, MI
+Fahrenheit IT,data scientist,0,Midwest,Southfield, MI
+Donatech Corporation,data scientist,0,Midwest,Dearborn, MI
+Amway Inc.,data scientist intern,5,Midwest,Ada, MI
+Datawatch,data scientist,0,Midwest,Troy, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+Ford Motor Company,data scientist,5,Midwest,Dearborn, MI
+Advantage Resourcing,data scientist,1,Midwest,Dearborn, MI
+OpenLogix Corporation,senior data scientist,1,Midwest,Detroit, MI
+Altair Engineering,data scientist,5,Midwest,Dearborn, MI
+Hagerty,senior data scientist,5,Midwest,Traverse City, MI
+IBM,data scientist,5,Midwest,Lansing, MI
+Optimal,data scientist,0,Midwest,Dearborn, MI
+Rock Connections,data scientist intern,5,Midwest,Detroit, MI
+Accident Funds,senior data scientist,5,Midwest,Lansing, MI
+Next Generation,data scientist,0,Midwest,Dearborn, MI
+Optimal,data scientist,0,Midwest,Dearborn, MI
+Youngsoft,data scientist,0,Midwest,Auburn Hills, MI
+Fast Switch,senior data scientist,0,Midwest,Southfield, MI
+Advantage Resourcing,data scientist,1,Midwest,Dearborn, MI
+Ford Motor Company,data scientist,5,Midwest,Dearborn, MI
+Altair,data scientist,0,Midwest,Dearborn, MI
+AF Group,data scientist intern,5,Midwest,Lansing, MI
+Ford Motor Company,data scientist,5,Midwest,Dearborn, MI
+Ford Motor Company,data scientist,5,Midwest,Dearborn, MI
+Optimal,data scientist,0,Midwest,Dearborn, MI
+"Airspace Link, Inc.",data scientist,0,Midwest,Detroit, MI
+V2Soft,data scientist,0,Midwest,Dearborn, MI
+PMC,data scientist,0,Midwest,Detroit, MI
+"Cogent IBS, Inc",senior data scientist,1,Midwest,Detroit, MI
+IBM,data scientist,5,Midwest,Lansing, MI
+Production Modeling Corporation,data scientist,0,Midwest,Auburn Hills, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+Openlogix Corporation,senior data scientist,1,Midwest,Detroit, MI
+Emergent Holdings,senior data scientist,0,Midwest,Lansing, MI
+V2Soft Inc.,senior data scientist,4,Midwest,Detroit, MI
+LLamasoft,principal data scientist,5,Midwest,Ann Arbor, MI
+OpTech,senior data scientist,5,Midwest,Detroit, MI
+Auto-Owners Insurance,experienced data scientist,5,Midwest,Lansing, MI
+DISYS,senior data scientist,1,Midwest,Detroit, MI
+Advantage Resourcing,data scientist,1,Midwest,Dearborn, MI
+HARMAN International,senior data scientist,5,Midwest,Novi, MI
+HARMAN International,senior data scientist,5,Midwest,Novi, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+Duo Security,senior data scientist,5,Midwest,Ann Arbor, MI
+Harman International Inds,senior data scientist,0,Midwest,Novi, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+TD Ameritrade,lead data scientist,2,Midwest,Ann Arbor, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+Incite Informatics,data scientist,0,Midwest,Northville, MI
+IBM,senior data scientist intern,5,Midwest,Lansing, MI
+"NovoDynamics, Inc.",data scientist,0,Midwest,Ann Arbor, MI
+Fast Switch,senior data scientist,0,Midwest,Southfield, MI
+Fast Switch,data scientist,5,Midwest,Dearborn, MI
+Fast Switch,senior data scientist,0,Midwest,Southfield, MI
+Enable Data,data analyst,0,Midwest,Minneapolis, MN
+Target,lead data analyst,5,Midwest,Minneapolis, MN
+Target,senior data analyst,5,Midwest,Minneapolis, MN
+Fidelity National Information Services,data analyst intern,5,Midwest,Woodbury, MN
+Utilimarc,data analyst,0,Midwest,Minneapolis, MN
+Mayo Clinic,senior data analyst,5,Midwest,Rochester, MN
+3M,data scientist,5,Midwest,Maplewood, MN
+3M,data scientist,5,Midwest,Maplewood, MN
+3M,data scientist,5,Midwest,Maplewood, MN
+Metropolitan Council,data scientist,5,Midwest,Saint Paul, MN
+3M,data scientist,5,Midwest,Maplewood, MN
+Sleep Number Corporation,data scientist,5,Midwest,Minneapolis, MN
+IBM,entry level data scientist,5,Midwest,Minneapolis, MN
+Rally Health,senior data scientist,5,Midwest,Minneapolis, MN
+Target,senior data scientist,5,Midwest,Minneapolis, MN
+Elicit,data scientist,2,Midwest,Minneapolis, MN
+"Javen Technologies, Inc",data scientist,0,Midwest,Richfield, MN
+Seen by Indeed,data scientist,0,Midwest,Saint Paul, MN
+Titan Data,data scientist,0,Midwest,Minneapolis, MN
+Eaton,data scientist,5,Midwest,Eden Prairie, MN
+State of Minnesota,data scientist,5,Midwest,Saint Paul, MN
+City of Minneapolis,data scientist,5,Midwest,Minneapolis, MN
+Amazon,data scientist,5,Midwest,Minneapolis, MN
+BuzzFeed,senior data scientist,0,Midwest,Minneapolis, MN
+Carrot Health,data scientist,0,Midwest,Minneapolis, MN
+TASC Technical Services,data scientist,0,Midwest,Eagan, MN
+TMC,phd data scientist,0,Midwest,Eden Prairie, MN
+"Pollution Control Agency, Minnesota",data scientist,5,Midwest,Saint Paul, MN
+Bind,data scientist,0,Midwest,Minneapolis, MN
+ICF,data scientist,4,Midwest,Minneapolis, MN
+Metropolitan Council,data scientist,0,Midwest,Saint Paul, MN
+FREIGHTQUOTE,phd data scientist,0,Midwest,Eden Prairie, MN
+C.H. Robinson,data scientist,5,Midwest,Eden Prairie, MN
+3M,data scientist,0,Midwest,Maplewood, MN
+Elicit,senior data scientist,2,Midwest,Minneapolis, MN
+UnitedHealth Group,principal data scientist,5,Midwest,Eden Prairie, MN
+US Bank,data scientist,3,Midwest,Richfield, MN
+FREIGHTQUOTE,phd data scientist,0,Midwest,Eden Prairie, MN
+General Mills,senior data scientist,4,Midwest,Minneapolis, MN
+edX,senior data scientist,0,Midwest,Cambridge, MN
+Enable Data,data scientist,0,Midwest,Minneapolis, MN
+Best Buy,data scientist,5,Midwest,Richfield, MN
+Kelly Mitchell Group,data scientist,0,Midwest,Richfield, MN
+Exa Data Inc.,data scientist,0,Midwest,Richfield, MN
+Deloitte,senior data scientist,5,Midwest,Minneapolis, MN
+IBM,data scientist,5,Midwest,Rochester, MN
+Target,senior data scientist,0,Midwest,Minneapolis, MN
+"General Mills, Inc.",senior data scientist,4,Midwest,Minneapolis, MN
+Sense Corp,senior data scientist,0,Midwest,Minneapolis, MN
+"Activesoft, Inc.",data scientist,0,Midwest,Richfield, MN
+Target,lead data scientist,5,Midwest,Minneapolis, MN
+Ovative Group,senior data scientist,5,Midwest,Minneapolis, MN
+Crackajack Solutions,data scientist,0,Midwest,Minneapolis, MN
+Range Digital Marketing,data scientist,0,Midwest,Minneapolis, MN
+IBM - North America,data scientist,0,Midwest,Rochester, MN
+"City of Minneapolis, MN",data scientist,0,Midwest,Minneapolis, MN
+TitanData Inc.,senior data scientist,0,Midwest,Eden Prairie, MN
+U.S. Bank,data scientist,4,Midwest,Minneapolis, MN
+Target,senior data scientist,0,Midwest,Minneapolis, MN
+Pyramid Consulting,data scientist,2,Midwest,Minneapolis, MN
+IBM,data scientist,5,Midwest,Minneapolis, MN
+Ameriprise,senior data scientist manager,5,Midwest,Minneapolis, MN
+CitiusTech,lead data scientist,1,Midwest,Rochester, MN
+Cargill,senior data scientist,5,Midwest,Wayzata, MN
+BetterYou,data scientist,0,Midwest,Saint Paul, MN
+Unitedhealth Group,principal data scientist,5,Midwest,Eden Prairie, MN
+Horizontal,data scientist,0,Midwest,Richfield, MN
+Carrot Health,senior data scientist,0,Midwest,Minneapolis, MN
+Newport Laboratories,senior data scientist,2,Midwest,Worthington, MN
+Target,lead data scientist,5,Midwest,Minneapolis, MN
+3M,data scientist,5,Midwest,Maplewood, MN
+"HR, Legal, & Administration",data scientist,0,Midwest,Sartell, MN
+Wells Fargo,senior data scientist,5,Midwest,Minneapolis, MN
+CitiusTech,principal data scientist,0,Midwest,Saint Paul, MN
+Regis Haircare Corporation,senior data scientist,0,Midwest,Minneapolis, MN
+Target,lead data scientist,5,Midwest,Minneapolis, MN
+Target,senior data scientist,5,Midwest,Minneapolis, MN
+Target,lead data scientist,5,Midwest,Minneapolis, MN
+U.S. Bank,senior data scientist,5,Midwest,Minneapolis, MN
+Regis Corporation,senior data scientist,5,Midwest,Minneapolis, MN
+Target,lead data scientist,5,Midwest,Minneapolis, MN
+IBM,senior data scientist intern,5,Midwest,Minneapolis, MN
+IntePros,lead data scientist,1,Midwest,Minneapolis, MN
+Best Buy ,principal data scientist,5,Midwest,Richfield, MN
+3M,data scientist,5,Midwest,Maplewood, MN
+3M,data scientist,5,Midwest,Maplewood, MN
+3M,data scientist,5,Midwest,Maplewood, MN
+Metropolitan Council,data scientist,5,Midwest,Saint Paul, MN
+3M,data scientist,5,Midwest,Maplewood, MN
+Sleep Number Corporation,data scientist,5,Midwest,Minneapolis, MN
+IBM,entry level data scientist,5,Midwest,Minneapolis, MN
+Rally Health,senior data scientist,5,Midwest,Minneapolis, MN
+Target,senior data scientist,5,Midwest,Minneapolis, MN
+Elicit,data scientist,2,Midwest,Minneapolis, MN
+"Javen Technologies, Inc",data scientist,0,Midwest,Richfield, MN
+Seen by Indeed,data scientist,0,Midwest,Saint Paul, MN
+Titan Data,data scientist,0,Midwest,Minneapolis, MN
+Eaton,data scientist,5,Midwest,Eden Prairie, MN
+State of Minnesota,data scientist,5,Midwest,Saint Paul, MN
+City of Minneapolis,data scientist,5,Midwest,Minneapolis, MN
+Amazon,data scientist,5,Midwest,Minneapolis, MN
+BuzzFeed,senior data scientist,0,Midwest,Minneapolis, MN
+Carrot Health,data scientist,0,Midwest,Minneapolis, MN
+TASC Technical Services,data scientist,0,Midwest,Eagan, MN
+TMC,phd data scientist,0,Midwest,Eden Prairie, MN
+"Pollution Control Agency, Minnesota",data scientist,5,Midwest,Saint Paul, MN
+Bind,data scientist,0,Midwest,Minneapolis, MN
+ICF,data scientist,4,Midwest,Minneapolis, MN
+Metropolitan Council,data scientist,0,Midwest,Saint Paul, MN
+FREIGHTQUOTE,phd data scientist,0,Midwest,Eden Prairie, MN
+C.H. Robinson,data scientist,5,Midwest,Eden Prairie, MN
+3M,data scientist,0,Midwest,Maplewood, MN
+Elicit,senior data scientist,2,Midwest,Minneapolis, MN
+UnitedHealth Group,principal data scientist,5,Midwest,Eden Prairie, MN
+US Bank,data scientist,3,Midwest,Richfield, MN
+FREIGHTQUOTE,phd data scientist,0,Midwest,Eden Prairie, MN
+General Mills,senior data scientist,4,Midwest,Minneapolis, MN
+edX,senior data scientist,0,Midwest,Cambridge, MN
+Enable Data,data scientist,0,Midwest,Minneapolis, MN
+Best Buy,data scientist,5,Midwest,Richfield, MN
+Kelly Mitchell Group,data scientist,0,Midwest,Richfield, MN
+Exa Data Inc.,data scientist,0,Midwest,Richfield, MN
+Deloitte,senior data scientist,5,Midwest,Minneapolis, MN
+IBM,data scientist,5,Midwest,Rochester, MN
+Target,senior data scientist,0,Midwest,Minneapolis, MN
+"General Mills, Inc.",senior data scientist,4,Midwest,Minneapolis, MN
+Sense Corp,senior data scientist,0,Midwest,Minneapolis, MN
+"Activesoft, Inc.",data scientist,0,Midwest,Richfield, MN
+Target,lead data scientist,5,Midwest,Minneapolis, MN
+Ovative Group,senior data scientist,5,Midwest,Minneapolis, MN
+Crackajack Solutions,data scientist,0,Midwest,Minneapolis, MN
+Range Digital Marketing,data scientist,0,Midwest,Minneapolis, MN
+IBM - North America,data scientist,0,Midwest,Rochester, MN
+"City of Minneapolis, MN",data scientist,0,Midwest,Minneapolis, MN
+TitanData Inc.,senior data scientist,0,Midwest,Eden Prairie, MN
+U.S. Bank,data scientist,4,Midwest,Minneapolis, MN
+Target,senior data scientist,0,Midwest,Minneapolis, MN
+Pyramid Consulting,data scientist,2,Midwest,Minneapolis, MN
+IBM,data scientist,5,Midwest,Minneapolis, MN
+Ameriprise,senior data scientist manager,5,Midwest,Minneapolis, MN
+CitiusTech,lead data scientist,1,Midwest,Rochester, MN
+Cargill,senior data scientist,5,Midwest,Wayzata, MN
+BetterYou,data scientist,0,Midwest,Saint Paul, MN
+Unitedhealth Group,principal data scientist,5,Midwest,Eden Prairie, MN
+Horizontal,data scientist,0,Midwest,Richfield, MN
+Carrot Health,senior data scientist,0,Midwest,Minneapolis, MN
+Newport Laboratories,senior data scientist,2,Midwest,Worthington, MN
+Target,lead data scientist,5,Midwest,Minneapolis, MN
+3M,data scientist,5,Midwest,Maplewood, MN
+"HR, Legal, & Administration",data scientist,0,Midwest,Sartell, MN
+Wells Fargo,senior data scientist,5,Midwest,Minneapolis, MN
+CitiusTech,principal data scientist,0,Midwest,Saint Paul, MN
+Regis Haircare Corporation,senior data scientist,0,Midwest,Minneapolis, MN
+Target,lead data scientist,5,Midwest,Minneapolis, MN
+Target,senior data scientist,5,Midwest,Minneapolis, MN
+Target,lead data scientist,5,Midwest,Minneapolis, MN
+U.S. Bank,senior data scientist,5,Midwest,Minneapolis, MN
+Regis Corporation,senior data scientist,5,Midwest,Minneapolis, MN
+Target,lead data scientist,5,Midwest,Minneapolis, MN
+IBM,senior data scientist intern,5,Midwest,Minneapolis, MN
+IntePros,lead data scientist,1,Midwest,Minneapolis, MN
+Best Buy ,principal data scientist,5,Midwest,Richfield, MN
+1904labs,data scientist,5,Midwest,Saint Louis, MO
+H&R Block,data scientist,5,Midwest,Kansas City, MO
+Envision LLC,data scientist,5,Midwest,Saint Louis, MO
+IBM,entry level data scientist,5,Midwest,Saint Louis, MO
+Bayer,associate data scientist,5,Midwest,Saint Louis, MO
+Schnucks,data scientist,5,Midwest,Saint Louis, MO
+Tiger Analytics,data scientist,0,Midwest,Saint Louis, MO
+Corporate,data scientist,0,Midwest,Clayton, MO
+Centene Corporation,data scientist,4,Midwest,Clayton, MO
+Monsanto Company,data scientist intern,5,Midwest,Saint Louis, MO
+World Wide Technology,data scientist,5,Midwest,Maryland Heights, MO
+Amazon,data scientist,5,Midwest,Kansas City, MO
+Ameren,data scientist,5,Midwest,Saint Louis, MO
+Tiger Analytics,data scientist,0,Midwest,Saint Louis, MO
+Booz Allen Hamilton Inc.,data scientist,5,Midwest,Saint Louis, MO
+neteffects,data scientist,5,Midwest,Saint Louis, MO
+Government Employees Health Association,data scientist,5,Midwest,Lees Summit, MO
+Sense Corp,data scientist,5,Midwest,Saint Louis, MO
+"InSequence, Inc",data scientist,2,Midwest,Saint Louis, MO
+NJVC,data scientist,5,Midwest,Saint Louis, MO
+North American Savings Bank,data scientist,5,Midwest,Kansas City, MO
+IBM,data scientist intern,5,Midwest,Saint Louis, MO
+MasterCard,data scientist director,5,Midwest,O Fallon, MO
+Envision LLC,data scientist,0,Midwest,Saint Louis, MO
+1904labs,data scientist,5,Midwest,Saint Louis, MO
+H&R Block,data scientist,5,Midwest,Kansas City, MO
+Envision LLC,data scientist,5,Midwest,Saint Louis, MO
+IBM,entry level data scientist,5,Midwest,Saint Louis, MO
+Bayer,associate data scientist,5,Midwest,Saint Louis, MO
+Schnucks,data scientist,5,Midwest,Saint Louis, MO
+Tiger Analytics,data scientist,0,Midwest,Saint Louis, MO
+Corporate,data scientist,0,Midwest,Clayton, MO
+Centene Corporation,data scientist,4,Midwest,Clayton, MO
+Monsanto Company,data scientist intern,5,Midwest,Saint Louis, MO
+World Wide Technology,data scientist,5,Midwest,Maryland Heights, MO
+Amazon,data scientist,5,Midwest,Kansas City, MO
+Ameren,data scientist,5,Midwest,Saint Louis, MO
+Tiger Analytics,data scientist,0,Midwest,Saint Louis, MO
+Booz Allen Hamilton Inc.,data scientist,5,Midwest,Saint Louis, MO
+neteffects,data scientist,5,Midwest,Saint Louis, MO
+Government Employees Health Association,data scientist,5,Midwest,Lees Summit, MO
+Sense Corp,data scientist,5,Midwest,Saint Louis, MO
+"InSequence, Inc",data scientist,2,Midwest,Saint Louis, MO
+NJVC,data scientist,5,Midwest,Saint Louis, MO
+North American Savings Bank,data scientist,5,Midwest,Kansas City, MO
+IBM,data scientist intern,5,Midwest,Saint Louis, MO
+MasterCard,data scientist director,5,Midwest,O Fallon, MO
+Envision LLC,data scientist,0,Midwest,Saint Louis, MO
+State of Montana,data analyst,5,West,Helena, MT
+Billings Clinic,data analyst,4,West,Billings, MT
+EDULOG,data analyst,0,West,Missoula, MT
+State of Montana,data analyst,5,West,Helena, MT
+D.A. Davidson Companies,data analyst,5,West,Great Falls, MT
+Bozeman Deaconess Hospital,data analyst,5,West,Bozeman, MT
+U.S. Bank,data analyst,2,West,Billings, MT
+GIG,data scientist,0,West,Malta, MT
+Deloitte,data scientist,1,West,Helena, MT
+Deloitte,data scientist,1,West,Helena, MT
+GIG,data scientist,0,West,Malta, MT
+Deloitte,data scientist,1,West,Helena, MT
+Deloitte,data scientist,1,West,Helena, MT
+Ameritas Life Insurance Corp,data scientist,5,Midwest,Lincoln, NE
+Perceptyx,data scientist manager,5,Midwest,Lincoln, NE
+Sandhills Global,data scientist,5,Midwest,Lincoln, NE
+SAIC,data scientist,1,Midwest,Offutt AFB, NE
+Home Instead Senior Care,data scientist,5,Midwest,Omaha, NE
+Cleaver-Brooks,senior data scientist,5,Midwest,Lincoln, NE
+SAIC,senior data scientist,1,Midwest,Offutt AFB, NE
+SAIC,principal data scientist,1,Midwest,Offutt AFB, NE
+SAIC,data scientist,1,Midwest,Offutt AFB, NE
+TD Ameritrade,lead data scientist,5,Midwest,Omaha, NE
+Ameritas Life Insurance Corp,data scientist,5,Midwest,Lincoln, NE
+Perceptyx,data scientist manager,5,Midwest,Lincoln, NE
+Sandhills Global,data scientist,5,Midwest,Lincoln, NE
+SAIC,data scientist,1,Midwest,Offutt AFB, NE
+Home Instead Senior Care,data scientist,5,Midwest,Omaha, NE
+Cleaver-Brooks,senior data scientist,5,Midwest,Lincoln, NE
+SAIC,senior data scientist,1,Midwest,Offutt AFB, NE
+SAIC,principal data scientist,1,Midwest,Offutt AFB, NE
+SAIC,data scientist,1,Midwest,Offutt AFB, NE
+TD Ameritrade,lead data scientist,5,Midwest,Omaha, NE
+"University of Nevada, Reno",data analyst,3,West,Reno, NV
+Diamond Resorts,junior data analyst,5,West,Las Vegas, NV
+Grand Rounds,senior data analyst,5,West,Reno, NV
+Power Fusion Media,data analyst,0,West,Las Vegas, NV
+"University of Nevada, Las Vegas",data analyst,5,West,Las Vegas, NV
+"Arcata Associates, Inc",lead data analyst,5,West,Las Vegas, NV
+JOIN Inc.,data analyst,0,West,Carson City, NV
+Power Fusion Media,data analyst,0,West,Las Vegas, NV
+HCL Americas,senior data analyst,0,West,Churchill, NV
+"Arcata Associates, Inc.",lead data analyst,5,West,Las Vegas, NV
+Goettl Air Conditioning & Plumbing,data analyst,3,West,Las Vegas, NV
+"University of Nevada, Reno",business data analyst manager,5,West,Reno, NV
+SPECTRAFORCE TECHNOLOGIES Inc.,senior data analyst,0,West,Las Vegas, NV
+Penn Interactive Ventures - NV,lead data analyst,0,West,Henderson, NV
+LegalMatch,data analyst,5,West,Reno, NV
+"University of Nevada, Reno",business data analyst,5,West,Reno, NV
+Sierra Nevada Academy Charter School,data analyst,0,West,Reno, NV
+Booz Allen Hamilton,data scientist,0,West,Fallon, NV
+Panasonic Energy of North America,data scientist,0,West,Sparks, NV
+Caesars Entertainment Corporation,senior data scientist,5,West,Las Vegas, NV
+AMERICAN SYSTEMS,data scientist,0,West,Fallon, NV
+Booz Allen Hamilton,data scientist,0,West,Fallon, NV
+Caesars Las Vegas_Corporate,senior data scientist,0,West,Las Vegas, NV
+Booz Allen Hamilton,data scientist,0,West,Fallon, NV
+Panasonic Energy of North America,data scientist,0,West,Sparks, NV
+Caesars Entertainment Corporation,senior data scientist,5,West,Las Vegas, NV
+AMERICAN SYSTEMS,data scientist,0,West,Fallon, NV
+Booz Allen Hamilton,data scientist,0,West,Fallon, NV
+Caesars Las Vegas_Corporate,senior data scientist,0,West,Las Vegas, NV
+Alorica,data analyst,0,West,Fargo, ND
+U.S. Bank,data analyst,5,West,Fargo, ND
+SPHERION,data analyst,1,West,Fargo, ND
+KBR,data analyst,2,Midwest,Dayton, OH
+Presbyterian Healthcare Services,data analyst,0,Midwest,Columbus, OH
+Progressive Insurance,lead data analyst,5,Midwest,Mayfield Heights," Cuyahoga, OH"
+The Paragon Group,data analyst,0,Midwest,Columbus, OH
+"Rainmaker Resources, LLC",data analyst,0,Midwest,Cincinnati, OH
+Progressive Insurance,senior data analyst,5,Midwest,Mayfield Heights," Cuyahoga, OH"
+Step2,data scientist,4,Midwest,Streetsboro, OH
+Riverside Research Institute,data scientist,0,Midwest,Wright Patterson AFB, OH
+Earnin,senior data scientist,3,Midwest,Cincinnati, OH
+IBM,entry level data scientist,5,Midwest,Columbus, OH
+Battelle,data scientist,5,Midwest,Columbus, OH
+Upstart,data scientist,1,Midwest,Columbus, OH
+Search Discovery,data scientist,2,Midwest,Cleveland, OH
+Root Insurance Company,data scientist,3,Midwest,Columbus, OH
+Kaleidoscope,data scientist,0,Midwest,Dayton, OH
+Irvine Technology Corporation,data scientist,0,Midwest,Columbus, OH
+Procter & Gamble,data scientist,5,Midwest,Cincinnati, OH
+Abercrombie and Fitch Co.,data scientist,5,Midwest,Columbus, OH
+Booz Allen Hamilton,data scientist,5,Midwest,Dayton, OH
+Cardinal Health,data scientist,5,Midwest,Dublin, OH
+Tenet3,data scientist,0,Midwest,Dayton, OH
+Graphet Inc,data scientist,2,Midwest,Cincinnati, OH
+Worldpay,data scientist,3,Midwest,Cincinnati, OH
+PamTen Inc,data scientist,1,Midwest,Columbus, OH
+Ball Corporation,data scientist,0,Midwest,Dayton, OH
+Centauri,data scientist,2,Midwest,Beavercreek, OH
+Ball Aerospace,data scientist,5,Midwest,Dayton, OH
+AmTrust Financial Services,data scientist,5,Midwest,Cleveland, OH
+Earnin,senior data scientist,0,Midwest,Cincinnati, OH
+Lubrizol Ltd,data scientist intern,5,Midwest,Wickliffe, OH
+Radiance Technologies Inc.,data scientist,5,Midwest,Dayton, OH
+Lubrizol Corporation,data scientist,4,Midwest,Wickliffe, OH
+Upstart,senior data scientist,1,Midwest,Columbus, OH
+MRI Software,data scientist,5,Midwest,Cleveland, OH
+Lubrizol Ltd,data scientist intern,5,Midwest,Wickliffe, OH
+Kaav inc.,data scientist,0,Midwest,Dublin, OH
+Battelle,data scientist,5,Midwest,Columbus, OH
+Radiology Partners,data scientist,2,Midwest,Columbus, OH
+Lubrizol Ltd,data scientist intern,5,Midwest,Wickliffe, OH
+Fractal Analytics,lead data scientist manager,0,Midwest,Columbus, OH
+Procter & Gamble,data scientist,0,Midwest,Canton, OH
+"Rainmaker Resources, LLC",data scientist,0,Midwest,Cincinnati, OH
+Progressive Insurance,data scientist,5,Midwest,Mayfield Heights," Cuyahoga, OH"
+Lubrizol Corp,phd data scientist,5,Midwest,Wickliffe, OH
+Cleveland Indians - Baseball Operations,data scientist,0,Midwest,Cleveland, OH
+Fractal Analytics,senior data scientist,0,Midwest,Columbus, OH
+kaavinc,data scientist,0,Midwest,Dublin, OH
+IT Synergy,data scientist,0,Midwest,Lewis Center, OH
+Chase,data scientist,3,Midwest,Columbus, OH
+Vertiv Co.,data scientist intern,5,Midwest,Westerville, OH
+CAS,data scientist,5,Midwest,Columbus, OH
+Genpact,senior data scientist,0,Midwest,Cleveland, OH
+Vantiv,data scientist,5,Midwest,Cincinnati, OH
+Battelle,data scientist,5,Midwest,Columbus, OH
+Pamelas List,data scientist,0,Midwest,Cincinnati, OH
+UES,data scientist,5,Midwest,Dayton, OH
+Redefined Corp,data scientist,0,Midwest,Dublin, OH
+Procter & Gamble,data scientist,5,Midwest,Cincinnati, OH
+Procter & Gamble,experienced data scientist,5,Midwest,Cincinnati, OH
+Ascena Retail Group,data scientist,5,Midwest,Pataskala, OH
+Microagility,senior data scientist,0,Midwest,Columbus, OH
+Procter & Gamble,data scientist,5,Midwest,Cincinnati, OH
+Pamelas List,phd data scientist,0,Midwest,Cincinnati, OH
+Fifth Third,senior data scientist,5,Midwest,Cincinnati, OH
+Pamelas List,phd data scientist,0,Midwest,Cincinnati, OH
+Kaav Inc,data scientist,0,Midwest,Dublin, OH
+WorldPay Limited,data scientist,3,Midwest,Cincinnati, OH
+Lubrizol Ltd,data scientist intern,5,Midwest,Wickliffe, OH
+IBM,data scientist,3,Midwest,Columbus, OH
+Procter & Gamble,phd data scientist,5,Midwest,Cincinnati, OH
+Procter & Gamble,data scientist,5,Midwest,Cincinnati, OH
+Nationwide Children's Hospital,data scientist,5,Midwest,Columbus, OH
+Cardinal Health,senior data scientist,5,Midwest,Dublin, OH
+ApTask,lead data scientist,0,Midwest,Cleveland, OH
+Kognetics,senior data scientist,0,Midwest,Gahanna, OH
+Fractal Analytics,senior data scientist,1,Midwest,Cincinnati, OH
+Progressive,data scientist,0,Midwest,Mayfield Heights," Cuyahoga, OH"
+Fast Switch,data scientist,5,Midwest,Columbus, OH
+Progressive,lead data scientist,0,Midwest,Cleveland, OH
+Chase,lead data scientist,5,Midwest,Columbus, OH
+J.P. Morgan,lead data scientist,5,Midwest,Columbus, OH
+J.P. Morgan,lead data scientist,0,Midwest,Columbus, OH
+Step2,data scientist,4,Midwest,Streetsboro, OH
+Riverside Research Institute,data scientist,0,Midwest,Wright Patterson AFB, OH
+Earnin,senior data scientist,3,Midwest,Cincinnati, OH
+IBM,entry level data scientist,5,Midwest,Columbus, OH
+Battelle,data scientist,5,Midwest,Columbus, OH
+Upstart,data scientist,1,Midwest,Columbus, OH
+Search Discovery,data scientist,2,Midwest,Cleveland, OH
+Root Insurance Company,data scientist,3,Midwest,Columbus, OH
+Kaleidoscope,data scientist,0,Midwest,Dayton, OH
+Irvine Technology Corporation,data scientist,0,Midwest,Columbus, OH
+Procter & Gamble,data scientist,5,Midwest,Cincinnati, OH
+Abercrombie and Fitch Co.,data scientist,5,Midwest,Columbus, OH
+Booz Allen Hamilton,data scientist,5,Midwest,Dayton, OH
+Cardinal Health,data scientist,5,Midwest,Dublin, OH
+Tenet3,data scientist,0,Midwest,Dayton, OH
+Graphet Inc,data scientist,2,Midwest,Cincinnati, OH
+Worldpay,data scientist,3,Midwest,Cincinnati, OH
+PamTen Inc,data scientist,1,Midwest,Columbus, OH
+Ball Corporation,data scientist,0,Midwest,Dayton, OH
+Centauri,data scientist,2,Midwest,Beavercreek, OH
+Ball Aerospace,data scientist,5,Midwest,Dayton, OH
+AmTrust Financial Services,data scientist,5,Midwest,Cleveland, OH
+Earnin,senior data scientist,0,Midwest,Cincinnati, OH
+Lubrizol Ltd,data scientist intern,5,Midwest,Wickliffe, OH
+Radiance Technologies Inc.,data scientist,5,Midwest,Dayton, OH
+Lubrizol Corporation,data scientist,4,Midwest,Wickliffe, OH
+Upstart,senior data scientist,1,Midwest,Columbus, OH
+MRI Software,data scientist,5,Midwest,Cleveland, OH
+Lubrizol Ltd,data scientist intern,5,Midwest,Wickliffe, OH
+Kaav inc.,data scientist,0,Midwest,Dublin, OH
+Battelle,data scientist,5,Midwest,Columbus, OH
+Radiology Partners,data scientist,2,Midwest,Columbus, OH
+Lubrizol Ltd,data scientist intern,5,Midwest,Wickliffe, OH
+Fractal Analytics,lead data scientist manager,0,Midwest,Columbus, OH
+Procter & Gamble,data scientist,0,Midwest,Canton, OH
+"Rainmaker Resources, LLC",data scientist,0,Midwest,Cincinnati, OH
+Progressive Insurance,data scientist,5,Midwest,Mayfield Heights," Cuyahoga, OH"
+Lubrizol Corp,phd data scientist,5,Midwest,Wickliffe, OH
+Cleveland Indians - Baseball Operations,data scientist,0,Midwest,Cleveland, OH
+Fractal Analytics,senior data scientist,0,Midwest,Columbus, OH
+kaavinc,data scientist,0,Midwest,Dublin, OH
+IT Synergy,data scientist,0,Midwest,Lewis Center, OH
+Chase,data scientist,3,Midwest,Columbus, OH
+Vertiv Co.,data scientist intern,5,Midwest,Westerville, OH
+CAS,data scientist,5,Midwest,Columbus, OH
+Genpact,senior data scientist,0,Midwest,Cleveland, OH
+Vantiv,data scientist,5,Midwest,Cincinnati, OH
+Battelle,data scientist,5,Midwest,Columbus, OH
+Pamelas List,data scientist,0,Midwest,Cincinnati, OH
+UES,data scientist,5,Midwest,Dayton, OH
+Redefined Corp,data scientist,0,Midwest,Dublin, OH
+Procter & Gamble,data scientist,5,Midwest,Cincinnati, OH
+Procter & Gamble,experienced data scientist,5,Midwest,Cincinnati, OH
+Ascena Retail Group,data scientist,5,Midwest,Pataskala, OH
+Microagility,senior data scientist,0,Midwest,Columbus, OH
+Procter & Gamble,data scientist,5,Midwest,Cincinnati, OH
+Pamelas List,phd data scientist,0,Midwest,Cincinnati, OH
+Fifth Third,senior data scientist,5,Midwest,Cincinnati, OH
+Pamelas List,phd data scientist,0,Midwest,Cincinnati, OH
+Kaav Inc,data scientist,0,Midwest,Dublin, OH
+WorldPay Limited,data scientist,3,Midwest,Cincinnati, OH
+Lubrizol Ltd,data scientist intern,5,Midwest,Wickliffe, OH
+IBM,data scientist,3,Midwest,Columbus, OH
+Procter & Gamble,phd data scientist,5,Midwest,Cincinnati, OH
+Procter & Gamble,data scientist,5,Midwest,Cincinnati, OH
+Nationwide Children's Hospital,data scientist,5,Midwest,Columbus, OH
+Cardinal Health,senior data scientist,5,Midwest,Dublin, OH
+ApTask,lead data scientist,0,Midwest,Cleveland, OH
+Kognetics,senior data scientist,0,Midwest,Gahanna, OH
+Fractal Analytics,senior data scientist,1,Midwest,Cincinnati, OH
+Progressive,data scientist,0,Midwest,Mayfield Heights," Cuyahoga, OH"
+Fast Switch,data scientist,5,Midwest,Columbus, OH
+Progressive,lead data scientist,0,Midwest,Cleveland, OH
+Chase,lead data scientist,5,Midwest,Columbus, OH
+J.P. Morgan,lead data scientist,5,Midwest,Columbus, OH
+J.P. Morgan,lead data scientist,0,Midwest,Columbus, OH
+Neustar,associate data analyst,3,West,Orem, UT
+HireVue,data analyst,5,West,South Jordan, UT
+Thumbtack,senior data analyst,5,West,Salt Lake City, UT
+CHG Healthcare,business data analyst,5,West,Midvale, UT
+Central Utah Medical Clinic,data analyst,5,West,Provo, UT
+MX,data analyst,4,West,Lehi, UT
+jane.com,data analyst,5,West,Lehi, UT
+CHG Healthcare,data analyst,5,West,Midvale, UT
+MX,data analyst,4,West,Lehi, UT
+Caprus IT Inc.,data analyst,0,West,Salt Lake City, UT
+Myriad Genetics,data analyst,3,West,Salt Lake City, UT
+Holiday Oil,data analyst,3,West,West Valley City, UT
+Advertising Agency,data analyst,0,West,Salt Lake City, UT
+American Express,data analyst,5,West,Salt Lake City, UT
+Zions Bancorporation,data analyst intern,6,West,Salt Lake City, UT
+Myriad Genetics,data analyst,3,West,Salt Lake City, UT
+Deseret Management,data analyst,0,West,Salt Lake City, UT
+"T. D. Williamson, Inc.",data analyst trainee,5,West,Salt Lake City, UT
+Progressive Leasing,data analyst,5,West,Draper, UT
+Audrey and Bear,data analyst,0,West,Lindon, UT
+Progressive Leasing,data analyst,5,West,Draper, UT
+Progressive Leasing,business data analyst,5,West,Draper, UT
+DISH,data analyst,5,West,American Fork, UT
+Goldman Sachs,data analyst,5,West,Salt Lake City, UT
+360 Talent LLC,data analyst,0,West,Hill AFB, UT
+FSA,data analyst,0,West,Salt Lake City, UT
+AppleOne,data analyst,1,West,Salt Lake City, UT
+Progrexion,data analyst,5,West,North Salt Lake, UT
+University of Utah Health Care,data analyst,1,West,Murray, UT
+Reverhealth,data analyst,5,West,Provo, UT
+Willis,data analyst,0,West,South Jordan, UT
+Progrexion,data analyst,5,West,North Salt Lake, UT
+Hexcel,data analyst,5,West,Salt Lake City, UT
+Progressive Leasing,data analyst,5,West,Draper, UT
+YORKTOWN SYSTEMS GROUP INC,data analyst,0,West,Riverton, UT
+Maverik,senior data analyst,5,West,Salt Lake City, UT
+Overstock.com,senior data analyst,5,West,Midvale, UT
+University of Utah Hospitals & Clinics,data analyst,1,West,Murray, UT
+University of Utah Medical Group,data analyst,0,West,Murray, UT
+"Lumbee Tribe Enterprises, LLC",data analyst,0,West,Salt Lake City, UT
+Utah County Government,data analyst,0,West,Provo, UT
+Progressive Leasing,senior data analyst,5,West,Draper, UT
+Clearlink,data analyst,5,West,Salt Lake City, UT
+Forfeiture Support Associates,data analyst,0,West,Salt Lake City, UT
+University of Utah Health Care,senior data analyst,1,West,Murray, UT
+Bonneville Communications,data analyst,0,West,Salt Lake City, UT
+Forfeiture Support Associates,data analyst,0,West,Salt Lake City, UT
+Zions Bank,data analyst intern,5,West,Salt Lake City, UT
+University of Utah Hospitals & Clinics,senior data analyst,1,West,Murray, UT
+Ancestry,data scientist,4,West,Lehi, UT
+Zions Bancorporation,senior data scientist,5,West,Salt Lake City, UT
+Divvy,principal data scientist,5,West,Lehi, UT
+WorkFront,data scientist,5,West,Lehi, UT
+Network Objects Inc.,data scientist,0,West,Salt Lake City, UT
+Collective Medical,associate data scientist,1,West,Cottonwood Heights, UT
+University of Utah,data scientist,4,West,Salt Lake City, UT
+Inside Real Estate,data scientist,2,West,Draper, UT
+Northrop Grumman,data scientist,5,West,Hill AFB, UT
+SpotX,data scientist,0,West,Salt Lake City, UT
+BioFire Diagnostics,associate data scientist,5,West,Salt Lake City, UT
+Recursion Pharmaceuticals,principal data scientist,6,West,Salt Lake City, UT
+Northrop Grumman,data scientist,0,West,Hill AFB, UT
+jane.com,senior data scientist,5,West,Lehi, UT
+Codazen,data scientist,0,West,Salt Lake City, UT
+Utah Technology Council,data scientist,0,West,Salt Lake City, UT
+The Church of Jesus Christ of Latter-day Saints,senior data scientist,5,West,Salt Lake City, UT
+CyberCoders,data scientist,0,West,Salt Lake City, UT
+Shape Security,data scientist,3,West,Draper, UT
+Progrexion,senior data scientist,5,West,Salt Lake City, UT
+Progressive Leasing,senior data scientist,5,West,Draper, UT
+Salt Lake Community College,data scientist,5,West,Salt Lake City, UT
+3M,data scientist,5,West,Murray, UT
+Aktify,senior data scientist,0,West,Draper, UT
+Progrexion,senior data scientist,5,West,Salt Lake City, UT
+Snap Finance,senior data scientist,5,West,West Valley City, UT
+Elite TechSources,data scientist,0,West,Salt Lake City, UT
+The Church of Jesus Christ of Latter-day Saints,senior data scientist,5,West,Salt Lake City, UT
+Divish LLC,senior data scientist,0,West,Salt Lake City, UT
+CyberCoders,data scientist,0,West,Salt Lake City, UT
+Progressive Leasing,data scientist,5,West,Draper, UT
+Overstock.com,senior data scientist,5,West,Midvale, UT
+Ancestry,data scientist,4,West,Lehi, UT
+Zions Bancorporation,senior data scientist,5,West,Salt Lake City, UT
+Divvy,principal data scientist,5,West,Lehi, UT
+WorkFront,data scientist,5,West,Lehi, UT
+Network Objects Inc.,data scientist,0,West,Salt Lake City, UT
+Collective Medical,associate data scientist,1,West,Cottonwood Heights, UT
+University of Utah,data scientist,4,West,Salt Lake City, UT
+Inside Real Estate,data scientist,2,West,Draper, UT
+Northrop Grumman,data scientist,5,West,Hill AFB, UT
+SpotX,data scientist,0,West,Salt Lake City, UT
+BioFire Diagnostics,associate data scientist,5,West,Salt Lake City, UT
+Recursion Pharmaceuticals,principal data scientist,6,West,Salt Lake City, UT
+Northrop Grumman,data scientist,0,West,Hill AFB, UT
+jane.com,senior data scientist,5,West,Lehi, UT
+Codazen,data scientist,0,West,Salt Lake City, UT
+Utah Technology Council,data scientist,0,West,Salt Lake City, UT
+The Church of Jesus Christ of Latter-day Saints,senior data scientist,5,West,Salt Lake City, UT
+CyberCoders,data scientist,0,West,Salt Lake City, UT
+Shape Security,data scientist,3,West,Draper, UT
+Progrexion,senior data scientist,5,West,Salt Lake City, UT
+Progressive Leasing,senior data scientist,5,West,Draper, UT
+Salt Lake Community College,data scientist,5,West,Salt Lake City, UT
+3M,data scientist,5,West,Murray, UT
+Aktify,senior data scientist,0,West,Draper, UT
+Progrexion,senior data scientist,5,West,Salt Lake City, UT
+Snap Finance,senior data scientist,5,West,West Valley City, UT
+Elite TechSources,data scientist,0,West,Salt Lake City, UT
+The Church of Jesus Christ of Latter-day Saints,senior data scientist,5,West,Salt Lake City, UT
+Divish LLC,senior data scientist,0,West,Salt Lake City, UT
+CyberCoders,data scientist,0,West,Salt Lake City, UT
+Progressive Leasing,data scientist,5,West,Draper, UT
+Overstock.com,senior data scientist,5,West,Midvale, UT
+PicMonkey,data analyst,0,West,Seattle, WA
+LiveRamp,data analyst,0,West,Seattle, WA
+ADURO,data analyst,5,West,Redmond, WA
+Smartsheet,data analyst,5,West,Bellevue, WA
+Rational Creative,data analyst manager,0,West,Redmond, WA
+Bridge Partners,data analyst,2,West,Bellevue, WA
+ITECS,data analyst,0,West,Seattle, WA
+Compass,data analyst,5,West,Seattle, WA
+Kyber Technologies INC,data analyst,0,West,Seattle, WA
+MSRCosmos,data analyst,0,West,Seattle, WA
+doxo,data analyst,3,West,Seattle, WA
+Groupon,data analyst,5,West,Seattle, WA
+Quardev,data analyst,5,West,Seattle, WA
+PayScale,junior data analyst,5,West,Seattle, WA
+PayScale,senior data analyst,5,West,Seattle, WA
+Jobot,data analyst,0,West,Seattle, WA
+Seen by Indeed,data analyst,0,West,Seattle, WA
+ApTask,data analyst,0,West,Seattle, WA
+AiTech Corp,data analyst,0,West,Seattle, WA
+NCSOFT,senior data analyst,2,West,Bellevue, WA
+Sound Transit,data analyst,5,West,Seattle, WA
+Course5 Intelligence,data analyst,0,West,Seattle, WA
+Blueocean Market Intelligence,data analyst,2,West,Seattle, WA
+Overlake Medical Center,senior data analyst,5,West,Bellevue, WA
+Seattle Children's Hospital,senior data analyst,5,West,Seattle, WA
+Comtech Safety & Security Technologies,data analyst,0,West,Seattle, WA
+eBay,data scientist,4,West,Bellevue, WA
+MICROSOFT CORP,data scientist,5,West,Redmond, WA
+Seen by Indeed,data scientist,0,West,Seattle, WA
+MICROSOFT CORP,data scientist,5,West,Redmond, WA
+HCL Americas,entry level data scientist,0,West,Redmond, WA
+Facebook,data scientist,3,West,Seattle, WA
+Google,data scientist,3,West,Seattle, WA
+Stackline,data scientist,5,West,Seattle, WA
+"Knock, Inc",data scientist,0,West,Seattle, WA
+The Pokemon Co. International,data scientist,5,West,Bellevue, WA
+Cambia Health Solutions,data scientist,3,West,Seattle, WA
+"Expedia, Inc.",data scientist,4,West,Seattle, WA
+Knowesis Inc.,data scientist,0,West,Fort Lewis, WA
+RealSelf,data scientist,5,West,Seattle, WA
+Adobe,data scientist,5,West,Seattle, WA
+Allstate,data scientist,5,West,Bothell, WA
+Microsoft,data scientist,5,West,Redmond, WA
+Wish,data scientist,0,West,Seattle, WA
+Amplero,data scientist,5,West,Seattle, WA
+Amazon,data scientist,5,West,Seattle, WA
+Lyft,data scientist,5,West,Seattle, WA
+FlyHomes,data scientist,3,West,Seattle, WA
+Nordstrom,data scientist,3,West,Seattle, WA
+Core Scientific,data scientist,5,West,Bellevue, WA
+Discovery,data scientist,0,West,Bellevue, WA
+Amazon,data scientist,5,West,Seattle, WA
+Amazon,data scientist,5,West,Seattle, WA
+Stackline,data scientist,5,West,Seattle, WA
+Expedia,data scientist,4,West,Bellevue, WA
+Neal Analytics,data scientist,3,West,Bellevue, WA
+zulily,data scientist,5,West,Seattle, WA
+IDC Technologies,data scientist,0,West,Kirkland, WA
+Rylem,data scientist,4,West,Redmond, WA
+ExtraHop Networks,data scientist intern,5,West,Seattle, WA
+Amazon,data scientist,5,West,Seattle, WA
+Oracle,data scientist,5,West,Seattle, WA
+Viasat,data scientist,0,West,Seattle, WA
+Smartsheet,data scientist,5,West,Bellevue, WA
+Zillow Group,data scientist,5,West,Seattle, WA
+Booz Allen Hamilton Inc.,junior data scientist,5,West,Seattle, WA
+Amazon,data scientist,5,West,Seattle, WA
+QVC,data scientist,0,West,Seattle, WA
+Convoy,data scientist,5,West,Seattle, WA
+QVC,associate data scientist,0,West,Seattle, WA
+Rakuten,data scientist,1,West,Seattle, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+"Concept Software & Services, Inc.",data scientist,0,West,Renton, WA
+CBRE,data scientist,5,West,Seattle, WA
+Zillow Group,data scientist,5,West,Seattle, WA
+Mason,data scientist,0,West,Seattle, WA
+EagleView,data scientist,5,West,Bellevue, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+Starbucks,data scientist,5,West,Seattle, WA
+University of Washington,data scientist,5,West,Seattle, WA
+Blueocean Market Intelligence,data scientist,2,West,Seattle, WA
+Snowflake,data scientist,1,West,Bellevue, WA
+Assurance Careers,data scientist,4,West,Seattle, WA
+Groupon,data scientist,5,West,Seattle, WA
+Microsoft,data scientist,5,West,Redmond, WA
+WideNet Consulting,data scientist,5,West,Bellevue, WA
+VDart Inc.,data scientist,0,West,Kirkland, WA
+Convoy Inc,data scientist,5,West,Seattle, WA
+Pozent,data scientist,0,West,Seattle, WA
+MICROSOFT CORPORATION,senior data scientist,5,West,Redmond, WA
+Compass,data scientist,5,West,Seattle, WA
+Cambia Health Solutions,data scientist,3,West,Seattle, WA
+Amazon,data scientist,5,West,Seattle, WA
+Vectrus,data scientist,0,West,Tacoma, WA
+Amazon,data scientist,5,West,Seattle, WA
+Microsoft,data scientist,5,West,Redmond, WA
+Jnit Technologies,data scientist,0,West,Seattle, WA
+Google,data scientist intern,5,West,Seattle, WA
+Adobe,senior data scientist,5,West,Seattle, WA
+The Climate Corporation,data scientist,5,West,Seattle, WA
+Microsoft,senior data scientist,5,West,Redmond, WA
+Pactera,data scientist,5,West,Redmond, WA
+CyberCoders,data scientist,0,West,Preston, WA
+OfferUp,data scientist manager,5,West,Bellevue, WA
+KRG Technologies,data scientist,0,West,Kirkland, WA
+eBay,data scientist,4,West,Bellevue, WA
+CyberCoders,data scientist,0,West,Preston, WA
+Jobot,data scientist,0,West,Bellevue, WA
+VRBO,data scientist,1,West,Seattle, WA
+Amazon,data scientist,5,West,Seattle, WA
+TRC Staffing Services,data scientist,4,West,Seattle, WA
+The Boston Consulting Group,data scientist,2,West,Seattle, WA
+JMA,data scientist,0,West,Bellevue, WA
+Convoy,data scientist,5,West,Seattle, WA
+"ExtraHop Networks, Inc.",senior data scientist,5,West,Seattle, WA
+Buxton Consulting,data scientist,0,West,Redmond, WA
+Inabia Solutions and Consulting,data scientist manager,5,West,Redmond, WA
+Qurate Retail Group,data scientist,0,West,Seattle, WA
+Amazon,data scientist,5,West,Seattle, WA
+Galvanize Inc.,data scientist,0,West,Seattle, WA
+Amazon Corporate LLC,data scientist,0,West,Bellevue, WA
+Amazon,data scientist,5,West,Seattle, WA
+Jobot,data scientist,0,West,Bellevue, WA
+OfferUp,data scientist manager,5,West,Bellevue, WA
+Expedia.com,senior data scientist,5,West,Seattle, WA
+Amazon,data scientist,5,West,Seattle, WA
+"ExtraHop Networks, Inc.",data scientist,5,West,Seattle, WA
+ProwessTree Solutions,data scientist,0,West,Bellevue, WA
+Course5 Intelligence,data scientist,0,West,Seattle, WA
+Discovery Communications,data scientist,0,West,Bellevue, WA
+UW Medicine,data scientist,5,West,Seattle, WA
+"Discovery Communications, Inc.",senior data scientist,0,West,Bellevue, WA
+Qurate Retail Group,associate data scientist,0,West,Seattle, WA
+OfferUp,senior data scientist,5,West,Bellevue, WA
+Microsoft,senior data scientist,5,West,Redmond, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+Myriad Consulting Inc,data scientist,1,West,Redmond, WA
+Expedia,principal data scientist,5,West,Bellevue, WA
+Visa Usa Inc,data scientist,0,West,Bellevue, WA
+Shelf Engine,data scientist,0,West,Seattle, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+Expedia.com,senior data scientist,5,West,Seattle, WA
+Jobot,senior data scientist,0,West,Seattle, WA
+Fred Hutchinson Cancer Research Center,data scientist,5,West,Seattle, WA
+Microsoft,senior data scientist,5,West,Redmond, WA
+"ExtraHop Networks, Inc.",senior data scientist,5,West,Seattle, WA
+Jobot,senior data scientist,0,West,Seattle, WA
+Outreach,senior data scientist,5,West,Seattle, WA
+"Expedia, Inc.",senior data scientist,5,West,Seattle, WA
+Tata Consultancy Services,data scientist,5,West,Redmond, WA
+Amazon,principal data scientist,5,West,Seattle, WA
+Indeed,senior data scientist,5,West,Seattle, WA
+Amazon,senior data scientist,5,West,Seattle, WA
+Amazon,senior data scientist,5,West,Seattle, WA
+Convoy,senior data scientist,5,West,Seattle, WA
+Amazon,senior data scientist,5,West,Seattle, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+Avance Consulting,data scientist,0,West,Renton, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+Quantcast,senior data scientist,1,West,Seattle, WA
+Foursquare,senior data scientist,0,West,Seattle, WA
+Samsung Electronics America,senior data scientist,0,West,Vancouver, WA
+Microsoft,senior data scientist,5,West,Redmond, WA
+Qualtrics,data scientist,5,West,Seattle, WA
+SAP,data scientist,4,West,Bellevue, WA
+Buxton Consulting,data scientist,0,West,Redmond, WA
+Amazon Corporate LLC,data scientist,0,West,Bellevue, WA
+Tableau Software,senior data scientist,5,West,Seattle, WA
+OfferUp,senior data scientist,5,West,Bellevue, WA
+Outreach,senior data scientist,5,West,Seattle, WA
+University of Washington,senior data scientist,5,West,Seattle, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+"Concept Software & Services, Inc.",data scientist,0,West,Renton, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+OSI Engineering,data scientist,0,West,Seattle, WA
+Allstate Insurance Company,senior data scientist,0,West,Bothell, WA
+HCL America,senior data scientist,5,West,Redmond, WA
+Fred Hutch,data scientist,5,West,Seattle, WA
+Amazon,senior data scientist,5,West,Seattle, WA
+Fred Hutchinson Cancer Research Center,data scientist,5,West,Seattle, WA
+VRBO,senior data scientist,1,West,Seattle, WA
+Amazon Corporate LLC,senior data scientist,0,West,Seattle, WA
+Allstate,senior data scientist,5,West,Bothell, WA
+Amazon Corporate LLC,senior data scientist,0,West,Seattle, WA
+Qualtrics,data scientist,0,West,Seattle, WA
+eBay,data scientist,4,West,Bellevue, WA
+MICROSOFT CORP,data scientist,5,West,Redmond, WA
+Seen by Indeed,data scientist,0,West,Seattle, WA
+MICROSOFT CORP,data scientist,5,West,Redmond, WA
+HCL Americas,entry level data scientist,0,West,Redmond, WA
+Facebook,data scientist,3,West,Seattle, WA
+Google,data scientist,3,West,Seattle, WA
+Stackline,data scientist,5,West,Seattle, WA
+"Knock, Inc",data scientist,0,West,Seattle, WA
+The Pokemon Co. International,data scientist,5,West,Bellevue, WA
+Cambia Health Solutions,data scientist,3,West,Seattle, WA
+"Expedia, Inc.",data scientist,4,West,Seattle, WA
+Knowesis Inc.,data scientist,0,West,Fort Lewis, WA
+RealSelf,data scientist,5,West,Seattle, WA
+Adobe,data scientist,5,West,Seattle, WA
+Allstate,data scientist,5,West,Bothell, WA
+Microsoft,data scientist,5,West,Redmond, WA
+Wish,data scientist,0,West,Seattle, WA
+Amplero,data scientist,5,West,Seattle, WA
+Amazon,data scientist,5,West,Seattle, WA
+Lyft,data scientist,5,West,Seattle, WA
+FlyHomes,data scientist,3,West,Seattle, WA
+Nordstrom,data scientist,3,West,Seattle, WA
+Core Scientific,data scientist,5,West,Bellevue, WA
+Discovery,data scientist,0,West,Bellevue, WA
+Amazon,data scientist,5,West,Seattle, WA
+Amazon,data scientist,5,West,Seattle, WA
+Stackline,data scientist,5,West,Seattle, WA
+Expedia,data scientist,4,West,Bellevue, WA
+Neal Analytics,data scientist,3,West,Bellevue, WA
+zulily,data scientist,5,West,Seattle, WA
+IDC Technologies,data scientist,0,West,Kirkland, WA
+Rylem,data scientist,4,West,Redmond, WA
+ExtraHop Networks,data scientist intern,5,West,Seattle, WA
+Amazon,data scientist,5,West,Seattle, WA
+Oracle,data scientist,5,West,Seattle, WA
+Viasat,data scientist,0,West,Seattle, WA
+Smartsheet,data scientist,5,West,Bellevue, WA
+Zillow Group,data scientist,5,West,Seattle, WA
+Booz Allen Hamilton Inc.,junior data scientist,5,West,Seattle, WA
+Amazon,data scientist,5,West,Seattle, WA
+QVC,data scientist,0,West,Seattle, WA
+Convoy,data scientist,5,West,Seattle, WA
+QVC,associate data scientist,0,West,Seattle, WA
+Rakuten,data scientist,1,West,Seattle, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+"Concept Software & Services, Inc.",data scientist,0,West,Renton, WA
+CBRE,data scientist,5,West,Seattle, WA
+Zillow Group,data scientist,5,West,Seattle, WA
+Mason,data scientist,0,West,Seattle, WA
+EagleView,data scientist,5,West,Bellevue, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+Starbucks,data scientist,5,West,Seattle, WA
+University of Washington,data scientist,5,West,Seattle, WA
+Blueocean Market Intelligence,data scientist,2,West,Seattle, WA
+Snowflake,data scientist,1,West,Bellevue, WA
+Assurance Careers,data scientist,4,West,Seattle, WA
+Groupon,data scientist,5,West,Seattle, WA
+Microsoft,data scientist,5,West,Redmond, WA
+WideNet Consulting,data scientist,5,West,Bellevue, WA
+VDart Inc.,data scientist,0,West,Kirkland, WA
+Convoy Inc,data scientist,5,West,Seattle, WA
+Pozent,data scientist,0,West,Seattle, WA
+MICROSOFT CORPORATION,senior data scientist,5,West,Redmond, WA
+Compass,data scientist,5,West,Seattle, WA
+Cambia Health Solutions,data scientist,3,West,Seattle, WA
+Amazon,data scientist,5,West,Seattle, WA
+Vectrus,data scientist,0,West,Tacoma, WA
+Amazon,data scientist,5,West,Seattle, WA
+Microsoft,data scientist,5,West,Redmond, WA
+Jnit Technologies,data scientist,0,West,Seattle, WA
+Google,data scientist intern,5,West,Seattle, WA
+Adobe,senior data scientist,5,West,Seattle, WA
+The Climate Corporation,data scientist,5,West,Seattle, WA
+Microsoft,senior data scientist,5,West,Redmond, WA
+Pactera,data scientist,5,West,Redmond, WA
+CyberCoders,data scientist,0,West,Preston, WA
+OfferUp,data scientist manager,5,West,Bellevue, WA
+KRG Technologies,data scientist,0,West,Kirkland, WA
+eBay,data scientist,4,West,Bellevue, WA
+CyberCoders,data scientist,0,West,Preston, WA
+Jobot,data scientist,0,West,Bellevue, WA
+VRBO,data scientist,1,West,Seattle, WA
+Amazon,data scientist,5,West,Seattle, WA
+TRC Staffing Services,data scientist,4,West,Seattle, WA
+The Boston Consulting Group,data scientist,2,West,Seattle, WA
+JMA,data scientist,0,West,Bellevue, WA
+Convoy,data scientist,5,West,Seattle, WA
+"ExtraHop Networks, Inc.",senior data scientist,5,West,Seattle, WA
+Buxton Consulting,data scientist,0,West,Redmond, WA
+Inabia Solutions and Consulting,data scientist manager,5,West,Redmond, WA
+Qurate Retail Group,data scientist,0,West,Seattle, WA
+Amazon,data scientist,5,West,Seattle, WA
+Galvanize Inc.,data scientist,0,West,Seattle, WA
+Amazon Corporate LLC,data scientist,0,West,Bellevue, WA
+Amazon,data scientist,5,West,Seattle, WA
+Jobot,data scientist,0,West,Bellevue, WA
+OfferUp,data scientist manager,5,West,Bellevue, WA
+Expedia.com,senior data scientist,5,West,Seattle, WA
+Amazon,data scientist,5,West,Seattle, WA
+"ExtraHop Networks, Inc.",data scientist,5,West,Seattle, WA
+ProwessTree Solutions,data scientist,0,West,Bellevue, WA
+Course5 Intelligence,data scientist,0,West,Seattle, WA
+Discovery Communications,data scientist,0,West,Bellevue, WA
+UW Medicine,data scientist,5,West,Seattle, WA
+"Discovery Communications, Inc.",senior data scientist,0,West,Bellevue, WA
+Qurate Retail Group,associate data scientist,0,West,Seattle, WA
+OfferUp,senior data scientist,5,West,Bellevue, WA
+Microsoft,senior data scientist,5,West,Redmond, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+Myriad Consulting Inc,data scientist,1,West,Redmond, WA
+Expedia,principal data scientist,5,West,Bellevue, WA
+Visa Usa Inc,data scientist,0,West,Bellevue, WA
+Shelf Engine,data scientist,0,West,Seattle, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+Expedia.com,senior data scientist,5,West,Seattle, WA
+Jobot,senior data scientist,0,West,Seattle, WA
+Fred Hutchinson Cancer Research Center,data scientist,5,West,Seattle, WA
+Microsoft,senior data scientist,5,West,Redmond, WA
+"ExtraHop Networks, Inc.",senior data scientist,5,West,Seattle, WA
+Jobot,senior data scientist,0,West,Seattle, WA
+Outreach,senior data scientist,5,West,Seattle, WA
+"Expedia, Inc.",senior data scientist,5,West,Seattle, WA
+Tata Consultancy Services,data scientist,5,West,Redmond, WA
+Amazon,principal data scientist,5,West,Seattle, WA
+Indeed,senior data scientist,5,West,Seattle, WA
+Amazon,senior data scientist,5,West,Seattle, WA
+Amazon,senior data scientist,5,West,Seattle, WA
+Convoy,senior data scientist,5,West,Seattle, WA
+Amazon,senior data scientist,5,West,Seattle, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+Avance Consulting,data scientist,0,West,Renton, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+Quantcast,senior data scientist,1,West,Seattle, WA
+Foursquare,senior data scientist,0,West,Seattle, WA
+Samsung Electronics America,senior data scientist,0,West,Vancouver, WA
+Microsoft,senior data scientist,5,West,Redmond, WA
+Qualtrics,data scientist,5,West,Seattle, WA
+SAP,data scientist,4,West,Bellevue, WA
+Buxton Consulting,data scientist,0,West,Redmond, WA
+Amazon Corporate LLC,data scientist,0,West,Bellevue, WA
+Tableau Software,senior data scientist,5,West,Seattle, WA
+OfferUp,senior data scientist,5,West,Bellevue, WA
+Outreach,senior data scientist,5,West,Seattle, WA
+University of Washington,senior data scientist,5,West,Seattle, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+"Concept Software & Services, Inc.",data scientist,0,West,Renton, WA
+Amazon Corporate LLC,data scientist,0,West,Seattle, WA
+OSI Engineering,data scientist,0,West,Seattle, WA
+Allstate Insurance Company,senior data scientist,0,West,Bothell, WA
+HCL America,senior data scientist,5,West,Redmond, WA
+Fred Hutch,data scientist,5,West,Seattle, WA
+Amazon,senior data scientist,5,West,Seattle, WA
+Fred Hutchinson Cancer Research Center,data scientist,5,West,Seattle, WA
+VRBO,senior data scientist,1,West,Seattle, WA
+Amazon Corporate LLC,senior data scientist,0,West,Seattle, WA
+Allstate,senior data scientist,5,West,Bothell, WA
+Amazon Corporate LLC,senior data scientist,0,West,Seattle, WA
+Qualtrics,data scientist,0,West,Seattle, WA
+Kforce,data scientist,5,Midwest,Madison, WI
+Northwestern Mutual Life Insurance Company,senior data scientist,5,Midwest,Milwaukee, WI
+Centare,data scientist,3,Midwest,Milwaukee, WI
+Understory,junior data scientist,0,Midwest,Madison, WI
+Concurrency,associate data scientist,3,Midwest,Brookfield, WI
+TASC,data scientist,5,Midwest,Madison, WI
+Amazon,data scientist,2,Midwest,Madison, WI
+Oshkosh Corporation,data scientist,5,Midwest,Oshkosh, WI
+Marshfield Clinic,data scientist,5,Midwest,Marshfield, WI
+Understory,data scientist,0,Midwest,Madison, WI
+Oshkosh Corporation,data scientist,5,Midwest,Appleton, WI
+Foxconn Industrial Internet,data scientist,0,Midwest,Milwaukee, WI
+Elutions,data scientist,1,Midwest,Delafield, WI
+Marshfield Clinic,data scientist,5,Midwest,Marshfield, WI
+Gemini Consulting Services,data scientist,0,Midwest,Madison, WI
+Frontend Arts,data scientist,0,Midwest,Milwaukee, WI
+Hunter International,data scientist,0,Midwest,Menomonee Falls, WI
+IntePros,data scientist,0,Midwest,Green Bay, WI
+Schneider,data scientist,5,Midwest,Green Bay, WI
+Colony Brands,data scientist,5,Midwest,Monroe, WI
+Red Circle,data scientist,0,Midwest,Madison, WI
+University of Wisconsin-Madison,data scientist,0,Midwest,Madison, WI
+Schneider,lead data scientist,5,Midwest,Green Bay, WI
+American Family Insurance,senior data scientist,5,Midwest,Madison, WI
+Northwestern Mutual Life Insurance Company,senior data scientist,5,Midwest,Milwaukee, WI
+Lorven Technologies Inc,data scientist,0,Midwest,Green Bay, WI
+Space Science and Engineering Center,data scientist,2,Midwest,Madison, WI
+UW Health,senior data scientist,5,Midwest,Madison, WI
+Analytic Recruiting Inc.,data scientist,0,Midwest,Winnebago, WI
+DefinedCrowd,data scientist,0,Midwest,Lisbon, WI
+DefinedCrowd,data scientist,0,Midwest,Lisbon, WI
+Gemini Consulting,data scientist,0,Midwest,Madison, WI
+Gemini Consulting Services,data scientist,0,Midwest,Madison, WI
+Exact Sciences Corporation,associate data scientist,5,Midwest,Madison, WI
+Marshfield Clinic,senior data scientist,5,Midwest,Marshfield, WI
+Baker Tilly Virchow Krause,senior data scientist,5,Midwest,Milwaukee, WI
+Brunswick,senior data scientist,0,Midwest,Menomonee Falls, WI
+Kforce,data scientist,5,Midwest,Madison, WI
+Northwestern Mutual Life Insurance Company,senior data scientist,5,Midwest,Milwaukee, WI
+Centare,data scientist,3,Midwest,Milwaukee, WI
+Understory,junior data scientist,0,Midwest,Madison, WI
+Concurrency,associate data scientist,3,Midwest,Brookfield, WI
+TASC,data scientist,5,Midwest,Madison, WI
+Amazon,data scientist,2,Midwest,Madison, WI
+Oshkosh Corporation,data scientist,5,Midwest,Oshkosh, WI
+Marshfield Clinic,data scientist,5,Midwest,Marshfield, WI
+Understory,data scientist,0,Midwest,Madison, WI
+Oshkosh Corporation,data scientist,5,Midwest,Appleton, WI
+Foxconn Industrial Internet,data scientist,0,Midwest,Milwaukee, WI
+Elutions,data scientist,1,Midwest,Delafield, WI
+Marshfield Clinic,data scientist,5,Midwest,Marshfield, WI
+Gemini Consulting Services,data scientist,0,Midwest,Madison, WI
+Frontend Arts,data scientist,0,Midwest,Milwaukee, WI
+Hunter International,data scientist,0,Midwest,Menomonee Falls, WI
+IntePros,data scientist,0,Midwest,Green Bay, WI
+Schneider,data scientist,5,Midwest,Green Bay, WI
+Colony Brands,data scientist,5,Midwest,Monroe, WI
+Red Circle,data scientist,0,Midwest,Madison, WI
+University of Wisconsin-Madison,data scientist,0,Midwest,Madison, WI
+Schneider,lead data scientist,5,Midwest,Green Bay, WI
+American Family Insurance,senior data scientist,5,Midwest,Madison, WI
+Northwestern Mutual Life Insurance Company,senior data scientist,5,Midwest,Milwaukee, WI
+Lorven Technologies Inc,data scientist,0,Midwest,Green Bay, WI
+Space Science and Engineering Center,data scientist,2,Midwest,Madison, WI
+UW Health,senior data scientist,5,Midwest,Madison, WI
+Analytic Recruiting Inc.,data scientist,0,Midwest,Winnebago, WI
+DefinedCrowd,data scientist,0,Midwest,Lisbon, WI
+DefinedCrowd,data scientist,0,Midwest,Lisbon, WI
+Gemini Consulting,data scientist,0,Midwest,Madison, WI
+Gemini Consulting Services,data scientist,0,Midwest,Madison, WI
+Exact Sciences Corporation,associate data scientist,5,Midwest,Madison, WI
+Marshfield Clinic,senior data scientist,5,Midwest,Marshfield, WI
+Baker Tilly Virchow Krause,senior data scientist,5,Midwest,Milwaukee, WI
+Brunswick,senior data scientist,0,Midwest,Menomonee Falls, WI

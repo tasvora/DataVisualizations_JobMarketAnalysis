@@ -33,6 +33,18 @@ ALTER TABLE indeed_jobs_byregion
 	add column ID
 	serial Primary Key;	
 	
+
+DROP TABLE IF EXISTS glassdoor_jobs;
+CREATE TABLE glassdoor_jobs(
+ 	Id SERIAL Primary Key,
+ 	company VARCHAR,
+ 	position VARCHAR,
+  	reviews VARCHAR,
+  	region VARCHAR,
+  	city VARCHAR,
+  	state VARCHAR
+ );
+
 	
 	
 	
