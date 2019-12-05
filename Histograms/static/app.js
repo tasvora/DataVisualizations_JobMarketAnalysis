@@ -1,10 +1,11 @@
 function buildChart() {
   var traceGlassdoor, traceIndeed;
   var url = "/api/histogram/glassdoor";
+  bins=
   d3.json(url).then(function(response) {
     traceGlassdoor = {
     type: 'histogram',
-    x: response.bins,
+    x: bins,
     y: response.jobs,
     marker: {
         color: '#C8A2C8',

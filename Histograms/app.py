@@ -38,25 +38,16 @@ indeed_jobs = Base.classes.indeed_jobs
 glassdoor_jobs = Base.classes.glassdoor_jobs
 
 def getGlassdoorData():
-    # results = db.session.query(glassdoor_jobs).all()
-    # session.query(func.count(User.id)).\
-    #     group_by(User.name)
     results = db.session.query(glassdoor_jobs.company, func.count(glassdoor_jobs.id))\
         .group_by(glassdoor_jobs.company)
-    json_list=[]
-    for result in results:
-        json_list.append(result.__dict__)
-    return jsonify(json_list)
+    df = pd.DataFrame(results, columns=['company', 'count'])
+    return df.to_json(orient='records')
 
 def getIndeedData():
-    results = db.session.query(indeed_jobs).all()
-    jobs = []
-    for result in results:
-        # todo count by company name
-        data.append({
-            "jobs": jobs
-        })
-    return jsonify(data)
+    results = db.session.query(indeed_jobs.company_name, func.count(indeed_jobs.id))\
+        .group_by(indeed_jobs.company_name)
+    df = pd.DataFrame(results, columns=['company', 'count'])
+    return df.to_json(orient='records')
 
 @app.route("/")
 def index():
