@@ -7,7 +7,7 @@ import psycopg2
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, func
 
 from flask import Flask, jsonify, render_template
 from flask_sqlalchemy import SQLAlchemy
@@ -21,7 +21,7 @@ app = Flask(__name__)
 
 user = 'postgres'
 pw = 'postgres'
-database = 'Jobs'
+database = 'ETL_JobSite'
 url = 'localhost:5432'
 
 DB_URL = f'postgresql+psycopg2://{user}:{pw}@{url}/{database}'
@@ -34,7 +34,7 @@ Base.prepare(db.engine, reflect=True)
 
 indeed_jobs = Base.classes.indeed_jobs
 glassdoor_jobs =Base.classes.glassdoor_jobs
-indeed_jobs_byregion = Base.classes.indeed_jobs_byregion
+#indeed_jobs_byregion = Base.classes.indeed_jobs_byregion
 
 
 @app.route("/")
@@ -93,6 +93,41 @@ def get_region(region):
     
     return indeed_byregion_df.to_json(orient='records')
     #return jsonify(indeed_byregion_df.to_list())
+
+##########################################################
+## @Author : Tasneem Talawalla
+## Methods to obtain the count of jobs for each state
+## from indeed.com website
+##########################################################
+@app.route("/indeed_jobs")
+def jobmap1():
+#    """Return a list of states."""
+    # Use Pandas to perform the sql query
+    stmt1 = db.session.query(indeed_jobs.state, func.count(indeed_jobs.state)).\
+            group_by(indeed_jobs.state).statement
+    indeed_state_df = pd.read_sql_query(stmt1, db.session.bind)
+
+    indeed_state_df['state']=indeed_state_df['state'].str.strip()
+    return indeed_state_df.to_json(orient = 'records')            
+
+##########################################################
+## @Author : Tasneem Talawalla
+## Methods to obtain the count of jobs for each state
+## from indeed.com website
+##########################################################
+@app.route("/glassdoor_jobs")
+def jobmap2():
+    #"""Return a list of states."""
+
+    # Use Pandas to perform the sql query
+    stmt2 = db.session.query(glassdoor_jobs.state, func.count(glassdoor_jobs.state)).\
+        group_by(glassdoor_jobs.state).statement
+    glassdoor_state_df = pd.read_sql_query(stmt2, db.session.bind)
+    glassdoor_state_df
+
+    glassdoor_state_df['state']=glassdoor_state_df['state'].str.strip()
+    return glassdoor_state_df.to_json(orient = 'records') 
+
 
 if __name__ == "__main__":
     app.run(debug=True)
