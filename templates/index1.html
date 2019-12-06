@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,6 +10,18 @@
     media="screen">
   <!-- Our own CSS stylesheet -->
   <link rel="stylesheet" href="../static/css/styles.css" media="screen">
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+    integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+    crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+    integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+    crossorigin=""></script>
+  <!--D3 cdn-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
+  <script src="{{ url_for('static', filename='js/config.js') }}"></script>
 </head>
 
 <body>
@@ -25,16 +38,16 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <form class="form-inline">
-            <button class="btn btn-outline-success" type="button">Glassdoor</button>
-            <button class="btn btn-outline-success" type="button">Indeed</button>
-        </form>
+        <button id="glassdoor" class="btn btn-outline-success" type="button">Glassdoor</button>
+        <button id="indeed" class="btn btn-outline-success" type="button">Indeed</button>
+      </form>
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav ml-auto">
-           <li class="nav-item">
-                <a class="nav-link" href="histogram/index.html">Histographs</a>
-            </li>
           <li class="nav-item">
-                <a class="nav-link" href="taylor/index.html">Taylor's Plot</a>
+            <a class="nav-link" href="histogram/index.html">Histographs</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="taylor/index.html">Taylor's Plot</a>
           </li>
         </ul>
       </div>
@@ -47,21 +60,22 @@
     <section class="row">
       <div class="col-md-12">
         <article class="description-content">
-          <h1 class="description-header">Tasneem's map</h1>
-          <hr class="description-hr" />
+        <h1 class="description-header">Job Distribution</h1>
+        <hr class="description-hr" />
+        <div id="map" class="map-container" style="height: 500px">Mp</div>
         </article>
       </div>
     </section>
 
-  <section class="row">
-    <div class="col-md-12">
-      <article class="description-content">
-        <h1 class="description-header">Maria's chart</h1>
-        <hr class="description-hr" />
-      </article>
-    </div>
-    
-  </section>
+    <section class="row">
+      <div class="col-md-12">
+        <article class="description-content">
+          <h1 class="description-header">Maria's chart</h1>
+          <hr class="description-hr" />
+        </article>
+      </div>
+
+    </section>
   </div>
   <!-- End of container -->
 
@@ -74,13 +88,19 @@
   </footer>
   <!-- End of footer -->
 
-    <!-- jQuery CDN -->
-    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <!-- Bootstrap CDN -->
-    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+  <!-- jQuery CDN -->
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <!-- Bootstrap CDN -->
+  <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <!-- <script src="{{ url_for('static', filename='js/app.js') }}"></script> -->
+
+  <!-- <script src="https://cdn.plot.ly/plotly-1.31.2.min.js"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <!-- <script src="{{ url_for('static', filename='js/app.js') }}"></script> -->
+  <script src="{{ url_for('static', filename='js/map_app.js') }}"></script>
 
 </body>
 

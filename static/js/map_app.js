@@ -10,7 +10,7 @@ var stateCodes = {
 // Creating map object
 var map = L.map("map", {
     center: [40.7128, -74.0059],
-    zoom: 6
+    zoom: 4
 });
 
 // Adding tile layer
@@ -20,6 +20,8 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
     id: "mapbox.light",
     accessToken: API_KEY
 }).addTo(map);
+
+var jobsMarker = [];
 
 //Function to return a size for the circle based on job Count.
 function markerSize(cnt) {
@@ -49,16 +51,37 @@ function markerColor(cnt) {
     return colorCode;
 }
 
+var indeedSite = d3.select("#indeed");
+var glassdoorSite = d3.select("#glassdoor");
+
+indeedSite.on("click", function() {
+    // Select the current count
+    getData("indeed_jobs");
+  });
+
+  glassdoorSite.on("click", function() {
+    // Select the current count
+    getData("glassdoor_jobs");
+  });
+
 // Get new data whenever the dropdown selection changes
 function getData(route) {
     console.log(route);
     d3.json(`/${route}`).then(function (data) {
         console.log("newdata", data);
+       
+        for(i=0; i < jobsMarker.length; i++)
+        {
+            map.removeLayer(jobsMarker[i]);
+        }
+        // }
         buildGeoMap(data);
         // createLegend();
 
+
     });
 }
+
 
     function init() {
         // @TODO: Complete the following function that builds the metadata panel
@@ -101,8 +124,8 @@ function getData(route) {
         function onEachFeature(feature, layer) {
 
             if (feature.properties.State == location) {
-                layer.bindPopup("<h3>" + location +
-                    "</h3><hr><p>" + countJob + "</p>");
+                layer.bindPopup("<h5>" + location +
+                    "</h5><hr><p><strong>Data Analysis Jobs : " + countJob + "</strong></p>");
                 console.log("In State " + location + " Job Count is : " + countJob);
             }
         }
@@ -119,11 +142,14 @@ function getData(route) {
                     })
             }
         }
-
+        
         var jobs = L.geoJSON(geoData, {
             onEachFeature: onEachFeature,
             pointToLayer: pointToLayer
-        }).addTo(map);
+        });
+        jobs.addTo(map);
+        jobsMarker.push(jobs);
+        
     }
 
     function createLegend() {
@@ -152,3 +178,9 @@ function getData(route) {
         };
         legend.addTo(map);
     }
+
+
+
+
+
+    

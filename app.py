@@ -21,7 +21,7 @@ app = Flask(__name__)
 
 user = 'postgres'
 pw = 'postgres'
-database = 'ETL_JobSite'
+database = 'Jobs'
 url = 'localhost:5432'
 
 DB_URL = f'postgresql+psycopg2://{user}:{pw}@{url}/{database}'
@@ -34,13 +34,13 @@ Base.prepare(db.engine, reflect=True)
 
 indeed_jobs = Base.classes.indeed_jobs
 glassdoor_jobs =Base.classes.glassdoor_jobs
-#indeed_jobs_byregion = Base.classes.indeed_jobs_byregion
+indeed_jobs_byregion = Base.classes.indeed_jobs_byregion
 
 
 @app.route("/")
 def index():
     """Return the homepage."""
-    return render_template("index.html")
+    return render_template("index1.html")
 
 @app.route("/states")
 def states():
@@ -103,8 +103,8 @@ def get_region(region):
 def jobmap1():
 #    """Return a list of states."""
     # Use Pandas to perform the sql query
-    stmt1 = db.session.query(indeed_jobs.state, func.count(indeed_jobs.state)).\
-            group_by(indeed_jobs.state).statement
+    stmt1 = db.session.query(indeed_jobs_byregion.state, func.count(indeed_jobs_byregion.state)).\
+            group_by(indeed_jobs_byregion.state).statement
     indeed_state_df = pd.read_sql_query(stmt1, db.session.bind)
 
     indeed_state_df['state']=indeed_state_df['state'].str.strip()
