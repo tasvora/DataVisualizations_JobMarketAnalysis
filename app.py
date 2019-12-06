@@ -21,7 +21,7 @@ app = Flask(__name__)
 
 user = 'postgres'
 pw = 'postgres'
-database = 'Jobs'
+database = 'ETL_JobSite'
 url = 'localhost:5432'
 
 DB_URL = f'postgresql+psycopg2://{user}:{pw}@{url}/{database}'
@@ -49,12 +49,12 @@ def index():
 ## and routes to build Pie Chart in JS
 ##########################################################
 
-@app.route("/states")
-def states():
+@app.route("/states/indeedstates")
+def indeedstates():
     """Return a list of states."""
 
     # Use Pandas to perform the sql query
-    stmt = db.session.query(indeed_jobs).statement
+    stmt = db.session.query(indeed_jobs_byregion).statement
     indeed_df = pd.read_sql_query(stmt, db.session.bind)
 
     # Return a list of the column names (sample names)
@@ -64,8 +64,24 @@ def states():
 
     return jsonify(states)
 
-@app.route("/states/<state>/count")
-def get_count(state):
+
+@app.route("/states/glassdoorstates")
+def glassdoorstates():
+    """Return a list of states."""
+
+    # Use Pandas to perform the sql query
+    stmt = db.session.query(glassdoor_jobs).statement
+    glassdoor_df = pd.read_sql_query(stmt, db.session.bind)
+
+    # Return a list of the column names (sample names)
+    states = glassdoor_df["state"].dropna().unique()
+    states = list(states)
+    #states.remove(null)
+
+    return jsonify(states)    
+
+@app.route("/states/indeedstates/<state>/count")
+def get_Indeedcount(state):
     """Return the number of openings in a state."""
     stmt = db.session.query(indeed_jobs_byregion).statement
     updated_df = pd.read_sql_query(stmt, db.session.bind)
@@ -78,6 +94,22 @@ def get_count(state):
     updated_df= updated_df.reset_index()
     
     return updated_df.to_json(orient='records')
+
+
+@app.route("/states/glassdoorstates/<state>/count")
+def get_Glassdoorcount(state):
+    """Return the number of openings in a state."""
+    stmt = db.session.query(glassdoor_jobs).statement
+    updated_df = pd.read_sql_query(stmt, db.session.bind)
+
+    updated_df['state']=updated_df['state'].str.strip()
+    #updated_df = updated_df[updated_df['state'] == state]
+    updated_df = updated_df[['state','region', 'position', 'company']]
+    updated_df = updated_df.groupby(['state','position', 'region']).count()
+    updated_df=updated_df.sort_values('state', ascending=False)
+    updated_df= updated_df.reset_index()
+    
+    return updated_df.to_json(orient='records')    
 
 @app.route("/regions")
 def regions():

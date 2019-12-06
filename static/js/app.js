@@ -1,47 +1,62 @@
-function buildJobs_panel(state) {
+var indeedSite = d3.select("#indeed");
+var glassdoorSite = d3.select("#glassdoor");
 
-  var stateUrl = `/states/${state}/count`;
-  
-  d3.json(stateUrl).then((state) => { 
+indeedSite.on("click", function () {
+  // Select the current count
+  getStatesList("indeedstates");
+});
+
+glassdoorSite.on("click", function () {
+  // Select the current count
+
+  getStatesList("glassdoorstates");
+});
+
+
+function buildJobs_panel(state,route) {
+
+  var stateUrl = `/states/${route}/${state}/count`;
+
+  d3.json(stateUrl).then((state) => {
     console.log(state);
-    
-    var panel= d3.select('#state-data');
+
+    var panel = d3.select('#state-data');
     panel.html("");
-    
+
     state.forEach((record) => {
       console.log(`${record}`)
       var row = panel.append("p");
       row.text(`${record.title} : ${record.company}`);
+    })
+
   })
-  
-})
 };
 
-function buildCharts(state) {
-    // @TODO: Build a Pie Chart
+function buildCharts(state, route) {
+  // @TODO: Build a Pie Chart
 
-  d3.json(`/states/${state}/count`).then((state) => {
-      console.log(state);
+  d3.json(`/states/${route}/${state}/count`).then((state) => {
+    console.log(state);
 
-      var count_title = state.map(function(row){
-        return row.company;
-      });
-      var title = state.map(function(row){
-        return row.title;
-      });
-      var display = state.map(function(row){
-        return row.state;
-      });
-
-      var pie_chart = [{
-        values: count_title,
-        labels: title,
-        hovertext: display,
-        type: "pie"
-      }];
-      Plotly.newPlot("pie", pie_chart);
-
+    var count_title = state.map(function (row) {
+      return row.company;
     });
+    var title = state.map(function (row) {
+      return row.title;
+    });
+    var display = state.map(function (row) {
+      return row.state;
+    });
+
+    var pie_chart = [{
+      values: count_title,
+      labels: title,
+      hovertext: display,
+      type: "pie"
+    }];
+    Plotly.newPlot("pie", pie_chart);
+
+  });
 
   // var countUrl = `/allstates`;
   // d3.json(countUrl).then((data) =>{
@@ -65,65 +80,67 @@ function buildCharts(state) {
 
   // BUBBLE CHART
   var regionUrl = `/allregions`;
-  d3.json(regionUrl).then(function(regionData) {
-      console.log(regionData);
-      
-      var state = regionData.map(function(row){
-        return row.state;
-      });
-      var count_state_opening = regionData.map(function(row){
-        return row.count_state_opening;
-      });  
-      var company = regionData.map(function(row){
-        return row.company;
-      });
-      var count_company = regionData.map(function(row){
-        return row.count_company_opening
-      })
-      console.log(state)
-      console.log(count_state_opening)
-      console.log(company)
-      console.log(count_company)
+  d3.json(regionUrl).then(function (regionData) {
+    console.log(regionData);
 
-      state = state.filter(function(row){
-        return row != null
-      })
-      console.log(state)
+    var state = regionData.map(function (row) {
+      return row.state;
+    });
+    var count_state_opening = regionData.map(function (row) {
+      return row.count_state_opening;
+    });
+    var company = regionData.map(function (row) {
+      return row.company;
+    });
+    var count_company = regionData.map(function (row) {
+      return row.count_company_opening
+    })
+    console.log(state)
+    console.log(count_state_opening)
+    console.log(company)
+    console.log(count_company)
 
-      count_state_opening = count_state_opening.filter(function(row){
-        return row != null
-      })
-      console.log(count_state_opening)
+    state = state.filter(function (row) {
+      return row != null
+    })
+    console.log(state)
 
-      company = company.filter(function(row){
-        return row != null
-      })
-      console.log(company)
+    count_state_opening = count_state_opening.filter(function (row) {
+      return row != null
+    })
+    console.log(count_state_opening)
 
-      count_company= count_company.filter(function(row){
-        return row != null
-      })
-      console.log(count_company)
+    company = company.filter(function (row) {
+      return row != null
+    })
+    console.log(company)
 
-      count_state_opening = count_state_opening.filter(function(row){
-        return row != null
-      })
+    count_company = count_company.filter(function (row) {
+      return row != null
+    })
+    console.log(count_company)
+
+    count_state_opening = count_state_opening.filter(function (row) {
+      return row != null
+    })
 
     var trace1 = {
       x: state,
       y: count_state_opening,
       text: state,
       mode: 'markers',
-      marker: { size: 40,
-                color: count_state_opening,
-                opacity: [0.8],
-    }
-  };
+      marker: {
+        size: 40,
+        color: count_state_opening,
+        opacity: [0.8],
+      }
+    };
 
     var data = [trace1];
     var layout = {
       title: "Open Positions",
-      xaxis: {showgrid: false,
+      xaxis: {
+        showgrid: false,
         showline: true,
         linecolor: 'rgb(102, 102, 102)',
         hovermode: 'closest',
@@ -132,39 +149,48 @@ function buildCharts(state) {
             color: 'rgb(204, 204, 204)'
           }
         },
-      hovermode: 'closest'
+        hovermode: 'closest'
+      }
     }
-  }
     Plotly.newPlot("bubble", data, layout);
-    });
-  
-};
-  
+  });
 
-function init() {
+};
+
+
+function getStatesList(route) {
   // Grab a reference to the dropdown select element
   var selector = d3.select("#selDataset");
 
   // Use the list of sample names to populate the select options
-  d3.json("/states").then((states) => {
+  d3.json(`/states/${route}`).then((states) => {
+    d3.select("#selDataset").selectAll("option").remove();
     states.forEach((state) => {
       selector
         .append("option")
         .text(state)
-        .property("value", state);
+        .property("value", state)
+        .attr("class", `${route}`);
     });
 
     // Use the first sample from the list to build the initial plots
     const firstState = states[0];
-    buildCharts(firstState);
-    buildJobs_panel(firstState);
+    buildCharts(firstState, route);
+    buildJobs_panel(firstState, route);
   });
+
+}
+
+
+
+function init() {
+  getStatesList("indeedstates");
 }
 
 function optionChanged(newState) {
   // Fetch new data each time a new sample is selected
-  buildCharts(newState);
-  buildJobs_panel(newState);
+  buildCharts(newState, newState.class);
+  buildJobs_panel(newState,newState.class);
 }
 
 // Initialize the dashboard
@@ -174,49 +200,49 @@ init();
 function buildJobs_panel2(region) {
 
   var regionUrl = `/regions/${region}`;
-  
-  d3.json(regionUrl).then((region) => { 
+
+  d3.json(regionUrl).then((region) => {
     console.log(region);
-    
-    var panel= d3.select('#region-data');
+
+    var panel = d3.select('#region-data');
     panel.html("");
-    
+
     region.forEach((record) => {
       console.log(`${record}`)
       var row = panel.append("p");
       row.text(`${record.title} : ${record.company}`);
+    })
+
   })
-  
-})
 }
-  
-    // Pie Chart - by Region
+
+// Pie Chart - by Region
 function buildCharts2(region) {
   var regionUrl = `/regions/${region}`;
 
   d3.json(regionUrl).then((region) => {
-      console.log(region);
+    console.log(region);
 
-      var count_title = region.map(function(row){
-        return row.company;
-      });
-      var title = region.map(function(row){
-        return row.title;
-      });
-      var display = region.map(function(row){
-        return row.region;
-      });
-
-      var pie_chart2 = [{
-        values: count_title,
-        labels: title,
-        hovertext: display,
-        type: "pie"
-      }];
-      Plotly.newPlot("pie2", pie_chart2);
-
+    var count_title = region.map(function (row) {
+      return row.company;
     });
-  }
+    var title = region.map(function (row) {
+      return row.title;
+    });
+    var display = region.map(function (row) {
+      return row.region;
+    });
+
+    var pie_chart2 = [{
+      values: count_title,
+      labels: title,
+      hovertext: display,
+      type: "pie"
+    }];
+    Plotly.newPlot("pie2", pie_chart2);
+
+  });
+}
 
 function init2() {
   // Grab a reference to the dropdown select element
@@ -280,7 +306,7 @@ init2();
 // d3.json(regionUrl).then(function(regionData) {
 //   console.log(regionData);
 //   // parse data
-  
+
 //   var state = regionData.map(function(row){
 //     return row.state;
 //   });
@@ -318,7 +344,7 @@ init2();
 //   })
 
 //   // regionData.forEach(function(data) {
-   
+
 //   //   data.region = +data.region;
 //   //   data.company = +data.company;
 
@@ -326,13 +352,13 @@ init2();
 //   //   data.title = +data.title;
 //   // });
 
-      
+
 //     // Step 2: Create scale functions
 //     // ==============================
 //     var xLinearScale = d3.scaleLinear()
 //         .domain([8, d3.max(regionData, d => d.count_state_opening)])
 //         .range([0, width*0.8]);
-    
+
 //     var yLinearScale = d3.scaleLinear()
 //         .domain([0, d3.max(regionData, d => d.company)])
 //         .range([height, 0]);
@@ -497,7 +523,7 @@ init2();
 //     .duration(1000)
 //     .attr("x", d => newXScale(d[chosenXAxis]))
 //     .attr("y", d => newYScale(d[chosenYAxis]));
-    
+
 //   return textGroup;
 // }
 
@@ -510,7 +536,7 @@ init2();
 //     .html(function(d) {
 //       if (chosenXAxis === "company"){
 //         return (`${d.company},${d.state}<br>${chosenXAxis}: ${d[chosenXAxis]}<br>${chosenYAxis}: ${d[chosenYAxis]}`); 
-    
+
 //       } else if (chosenXAxis === "state"){
 //         return (`${d.state},${d.state}<br>${chosenXAxis}: ${d[chosenXAxis]}<br>${chosenYAxis}: ${d[chosenYAxis]}%`); 
 //       }    
@@ -518,7 +544,7 @@ init2();
 //         return (`${d.title},${d.state}<br>${chosenXAxis}: ${d[chosenXAxis]}%<br>${chosenYAxis}: ${d[chosenYAxis]}%`); 
 //       }
 //       });
-         
+
 //   circlesGroup.call(toolTip);
 
 //   circlesGroup.on("mouseover", function(d) {
@@ -537,7 +563,7 @@ init2();
 // d3.json(regionUrl).then(function(regionData) {
 //       console.log(regionData);
 //       // parse data
-      
+
 //       var state = regionData.map(function(row){
 //         return row.state;
 //       });
@@ -574,7 +600,7 @@ init2();
 //         return row != null
 //       })
 //       console.log(count_company)
-  
+
 //   // xLinearScale function above csv import
 //     var xLinearScale = xScale(regionData, chosenXAxis);
 
@@ -617,9 +643,9 @@ init2();
 //     .attr("font-size", textsize+"px")
 //     .attr("text-anchor", "middle")
 //     .attr("class","stateText");
-  
+
 //   circlesGroup = updateToolTip(chosenXAxis, chosenYAxis,circlesGroup);
-  
+
 //   // Create group for x-axis labels
 //   var labelsGroup = chartGroup.append("g")
 //     .attr("transform", `translate(${width / 2}, ${height + 20})`);
@@ -651,7 +677,7 @@ init2();
 
 
 //  // Create group for y-axis labels
-  
+
 //   var ylabelsGroup = chartGroup.append("g");
 
 //   var companyLabel = ylabelsGroup.append("text")
@@ -703,7 +729,7 @@ init2();
 //           // companyLabel
 //           //   .classed("active", false)
 //           //   .classed("inactive", true);
-            
+
 //         }
 //         else if (chosenXAxis === "state")
 //          {
@@ -716,7 +742,7 @@ init2();
 //           // companyLabel
 //           //   .classed("active", false)
 //           //   .classed("inactive", true);
-          
+
 //         }else {
 //           regionLabel
 //             .classed("active", false)
@@ -727,7 +753,7 @@ init2();
 //           companyLabel
 //             .classed("active", true)
 //             .classed("inactive", false);
-          
+
 //         }
 
 
@@ -761,7 +787,7 @@ init2();
 
 //      // updates tooltips with new info
 //      circlesGroup = updateToolTip(chosenXAxis, chosenYAxis,circlesGroup);
-       
+
 //      if (chosenYAxis === "company") {
 //       companyLabel
 //         .classed("active", true)
@@ -772,7 +798,7 @@ init2();
 //       // regionLabel
 //       //   .classed("active", false)
 //       //   .classed("inactive", true);
-    
+
 //       }
 //     //   else if (chosenYAxis === "smokes")
 //     //  {
@@ -810,7 +836,7 @@ init2();
 // // //  D3  BUBBLE CHAR ////
 // // create_chart() = {
 // //   const root = pack(data);
-  
+
 // //   const svg = d3.create("svg")
 // //       .attr("viewBox", [0, 0, width, height])
 // //       .attr("font-size", 10)
@@ -844,6 +870,6 @@ init2();
 
 // //   leaf.append("title")
 // //       .text(d => `${d.data.title}\n${format(d.value)}`);
-    
+
 // //   return svg.node();
 // // };
