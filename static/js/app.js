@@ -1,3 +1,9 @@
+/*
+//@Author tasneem: Adding code for button selection.
+On click event will be handled and the required states will be retireved
+from the database based on the routes.
+*/
+
 var indeedSite = d3.select("#indeed");
 var glassdoorSite = d3.select("#glassdoor");
 
@@ -47,16 +53,22 @@ function buildCharts(state, route) {
     var display = state.map(function (row) {
       return row.state;
     });
-
+   //@Author tasneem: changing the color scheme.
+    colorscheme = ['#99000d', '#cb181d', '#ef3b2c', '#fb6a4a', '#fc9272', '#fcbba1', '#fee5d9'];
     var pie_chart = [{
       values: count_title,
       labels: title,
       hovertext: display,
-      type: "pie"
+      type: "pie",
+      marker: {
+        colors: colorscheme
+      },
     }];
     Plotly.newPlot("pie", pie_chart);
 
   });
+
+ 
 
   // var countUrl = `/allstates`;
   // d3.json(countUrl).then((data) =>{
@@ -157,7 +169,10 @@ function buildCharts(state, route) {
 
 };
 
-
+/*
+//@Author tasneem: function getStatesList gets data based on selection (indeed/glassdoor).
+//route = indeedstates or glassdoorstates which is the same as the defined route name.
+*/
 function getStatesList(route) {
   // Grab a reference to the dropdown select element
   var selector = d3.select("#selDataset");
@@ -175,6 +190,7 @@ function getStatesList(route) {
 
     // Use the first sample from the list to build the initial plots
     const firstState = states[0];
+    //@Author tasneem : passing the route as well to create the charts from the right database table
     buildCharts(firstState, route);
     buildJobs_panel(firstState, route);
   });
@@ -182,15 +198,19 @@ function getStatesList(route) {
 }
 
 
-
+//@Author tasneem: changing the init method to call 
+//function getStatesList and defaults to indeed data.
 function init() {
   getStatesList("indeedstates");
 }
 
 function optionChanged(newState) {
   // Fetch new data each time a new sample is selected
-  buildCharts(newState, newState.class);
-  buildJobs_panel(newState,newState.class);
+  
+  //@Author Tasneem : passing the value and class name so that we can pass the request to 
+  // the correct route.
+  buildCharts(newState.value, d3.select(newState).select("option").attr("class"));
+  buildJobs_panel(newState.value,d3.select(newState).select("option").attr("class"));
 }
 
 // Initialize the dashboard
