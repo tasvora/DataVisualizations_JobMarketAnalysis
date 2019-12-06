@@ -42,6 +42,13 @@ def index():
     """Return the homepage."""
     return render_template("index1.html")
 
+##########################################################
+## @Author : Maria Wisco
+## Methods to obtain the State and Count by Title
+## from indeed.com website 
+## and routes to build Pie Chart in JS
+##########################################################
+
 @app.route("/states")
 def states():
     """Return a list of states."""
@@ -57,16 +64,20 @@ def states():
 
     return jsonify(states)
 
-@app.route("/states/<state>")
-def get_state(state):
-    """Return the MetaData for a given sample."""
-    stmt = db.session.query(indeed_jobs).statement
-    indeed_df = pd.read_sql_query(stmt, db.session.bind)
+@app.route("/states/<state>/count")
+def get_count(state):
+    """Return the number of openings in a state."""
+    stmt = db.session.query(indeed_jobs_byregion).statement
+    updated_df = pd.read_sql_query(stmt, db.session.bind)
 
-    indeed_df['state']=indeed_df['state'].str.strip()
-    indeed_df = indeed_df[indeed_df["state"] == state]
-
-    return indeed_df.to_json(orient = 'records')
+    updated_df['state']=updated_df['state'].str.strip()
+    updated_df = updated_df[updated_df['state'] == state]
+    updated_df = updated_df[['state','region', 'title','company']]
+    updated_df = updated_df.groupby(['state','title','region']).count()
+    updated_df=updated_df.sort_values('state', ascending=False)
+    updated_df= updated_df.reset_index()
+    
+    return updated_df.to_json(orient='records')
 
 @app.route("/regions")
 def regions():
@@ -86,13 +97,44 @@ def regions():
 def get_region(region):
     """Return the MetaData for a given sample."""
     stmt = db.session.query(indeed_jobs_byregion).statement
-    indeed_byregion_df = pd.read_sql_query(stmt, db.session.bind)
+    indeed_df = pd.read_sql_query(stmt, db.session.bind)
 
-    indeed_byregion_df['region']=indeed_byregion_df['region'].str.strip()
-    indeed_byregion_df = indeed_byregion_df[indeed_byregion_df["region"] == region]
+    indeed_df['region']=indeed_df['region'].str.strip()
+    indeed_df = indeed_df[indeed_df["region"] == region]
+    updated_df = indeed_df[['region', 'title','company']]
+    updated_df = updated_df.groupby(['region','title']).count()
+    updated_df= updated_df.sort_values('region', ascending=False)
+    updated_df= updated_df.reset_index()
+
+    return updated_df.to_json(orient='records')
+
+## route for bubble chart    
+@app.route("/allregions")
+def get_region2():
+    """Return the MetaData for a given sample."""
+    stmt = db.session.query(indeed_jobs_byregion).statement
+    updated_df = pd.read_sql_query(stmt, db.session.bind)
+
+    region = updated_df["state"].unique()
+    region2 = updated_df["company"].unique()
+
+    new_df = []
+    for state in region:
     
-    return indeed_byregion_df.to_json(orient='records')
-    #return jsonify(indeed_byregion_df.to_list())
+        new_df.append({
+             "state":state,
+            "count_state_opening": len(updated_df[updated_df['state'] == state ])
+        })
+
+    for company in region2:
+        new_df.append({
+            "company": company,
+            "count_company_opening": len(updated_df[updated_df['company'] == company])
+        })
+    
+    new_df = pd.DataFrame(new_df)
+
+    return new_df.to_json(orient='records')
 
 ##########################################################
 ## @Author : Tasneem Talawalla
