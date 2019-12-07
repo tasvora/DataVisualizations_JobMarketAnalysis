@@ -288,6 +288,11 @@ def glassdoorDataRegion():
 def indeedDataRegion():
     return getIndeedDataByRegion()
 
+#### Taylor
+@app.route('/taylor')
+def my_redirect():
+    return render_template("index_taylor.html")
+
 
 if __name__ == "__main__":
     app.run(debug=True)
