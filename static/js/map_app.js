@@ -57,11 +57,13 @@ var glassdoorSite = d3.select("#glassdoor");
 indeedSite.on("click", function() {
     // Select the current count
     getData("indeed_jobs");
+    getStatesList("indeedstates");
   });
 
   glassdoorSite.on("click", function() {
     // Select the current count
     getData("glassdoor_jobs");
+    getStatesList("glassdoorstates");
   });
 
 // Get new data whenever the dropdown selection changes
