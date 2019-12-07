@@ -7,7 +7,7 @@ import psycopg2
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
-from sqlalchemy import create_engine, func
+from sqlalchemy import create_engine, func,desc
 
 from flask import Flask, jsonify, render_template
 from flask_sqlalchemy import SQLAlchemy
@@ -19,9 +19,14 @@ app = Flask(__name__)
 # Database Setup
 #################################################
 
+# user = 'postgres'
+# pw = 'postgres'
+# database = 'ETL_JobSite'
+# url = 'localhost:5432'
+
 user = 'postgres'
-pw = 'postgres'
-database = 'ETL_JobSite'
+pw = 'Ivpadmin00#'
+database = 'ETLProject'
 url = 'localhost:5432'
 
 DB_URL = f'postgresql+psycopg2://{user}:{pw}@{url}/{database}'
@@ -40,7 +45,7 @@ indeed_jobs_byregion = Base.classes.indeed_jobs_byregion
 @app.route("/")
 def index():
     """Return the homepage."""
-    return render_template("index1.html")
+    return render_template("index.html")
 
 ##########################################################
 ## @Author : Maria Wisco
@@ -201,6 +206,87 @@ def jobmap2():
 
     glassdoor_state_df['state']=glassdoor_state_df['state'].str.strip()
     return glassdoor_state_df.to_json(orient = 'records') 
+
+##########################################################
+## @Author : Indira V. Poovambur
+## Histogram Section
+## from glassdoor and indeed.com
+##########################################################
+def getGlassdoorData():
+    # results = db.session.query(glassdoor_jobs.company, func.count(glassdoor_jobs.id))\
+    #     .group_by(glassdoor_jobs.company).order_by(desc(func.count(glassdoor_jobs.id))).limit(20)
+    results = db.session.query(func.count(glassdoor_jobs.id))\
+        .group_by(glassdoor_jobs.company).order_by(desc(func.count(glassdoor_jobs.id))).limit(20)
+
+    df = pd.DataFrame(results, columns=['count'])
+    # company_list= list(df['company'])
+    count_list=list(df['count'])
+    # masterList = {'company': company_list, 'count': count_list }
+    return jsonify(count_list)
+
+def getIndeedData():
+    results = db.session.query(func.count(indeed_jobs_byregion.id))\
+        .group_by(indeed_jobs_byregion.company).order_by(desc(func.count(indeed_jobs_byregion.id))).limit(20)
+    df = pd.DataFrame(results, columns=['count'])
+    # company_list= list(df['company'])
+    count_list=list(df['count'])
+    # masterList = {'company': company_list, 'count': count_list }
+    return jsonify(count_list)
+
+#### By state
+def getGlassdoorDataByState():
+    results = db.session.query(glassdoor_jobs.state).order_by(glassdoor_jobs.state)
+    df = pd.DataFrame(results, columns=['state'])
+    state_list= list(df['state'].str.strip())
+    return jsonify(state_list)
+
+def getIndeedDataByState():
+    results = db.session.query(indeed_jobs_byregion.state).order_by(indeed_jobs_byregion.state)
+    df = pd.DataFrame(results, columns=['state'])
+    state_list= list(df['state'])
+    return jsonify(state_list)
+
+#### By region
+
+def getGlassdoorDataByRegion():
+    results = db.session.query(glassdoor_jobs.region)
+    df = pd.DataFrame(results, columns=['region'])
+    region_list= list(df['region'].str.strip())
+    return jsonify(region_list)
+
+def getIndeedDataByRegion():
+    results = db.session.query(indeed_jobs_byregion.region)
+    df = pd.DataFrame(results, columns=['region'])
+    region_list= list(df['region'])
+    return jsonify(region_list)
+
+@app.route('/histograms')
+def my_redirect():
+    return render_template("histogram.html")
+
+@app.route("/api/histogram/glassdoor")
+def glassdoorData():
+    return getGlassdoorData()
+
+@app.route("/api/histogram/indeed")
+def indeedData():
+    return getIndeedData()
+
+@app.route("/api/histogram/glassdoor/state")
+def glassdoorDataState():
+    return getGlassdoorDataByState()
+
+@app.route("/api/histogram/indeed/state")
+def indeedDataState():
+    return getIndeedDataByState()
+
+@app.route("/api/histogram/glassdoor/region")
+def glassdoorDataRegion():
+    return getGlassdoorDataByRegion()
+
+@app.route("/api/histogram/indeed/region")
+def indeedDataRegion():
+    return getIndeedDataByRegion()
 
 
 if __name__ == "__main__":
