@@ -261,7 +261,7 @@ def getIndeedDataByRegion():
     return jsonify(region_list)
 
 @app.route('/histograms')
-def my_redirect():
+def histograms():
     return render_template("histogram.html")
 
 @app.route("/api/histogram/glassdoor")
@@ -289,8 +289,8 @@ def indeedDataRegion():
     return getIndeedDataByRegion()
 
 #### Taylor
-@app.route('/taylor')
-def my_redirect():
+@app.route("/taylor")
+def taylor():
     return render_template("index_taylor.html")
 
 
