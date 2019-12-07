@@ -10,6 +10,7 @@ var glassdoorSite = d3.select("#glassdoor");
 indeedSite.on("click", function () {
   // Select the current count
   getStatesList("indeedstates");
+  
 });
 
 glassdoorSite.on("click", function () {
@@ -22,7 +23,7 @@ glassdoorSite.on("click", function () {
 function buildJobs_panel(state,route) {
 
   var stateUrl = `/states/${route}/${state}/count`;
-
+  console.log(stateUrl);
   d3.json(stateUrl).then((state) => {
     console.log(state);
 
@@ -47,9 +48,15 @@ function buildCharts(state, route) {
     var count_title = state.map(function (row) {
       return row.company;
     });
+    if(route == "glassdoorstates"){
+      var title = state.map(function (row) {
+        return row.position;
+      });
+    }else {
     var title = state.map(function (row) {
       return row.title;
     });
+  }
     var display = state.map(function (row) {
       return row.state;
     });
